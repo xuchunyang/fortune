@@ -16,25 +16,20 @@ app.set("views", path.join(process.cwd(), "views"));
 app.set("view engine", "pug");
 
 app.get("/", (req, res) => {
-  const { command, sha1 } = req.query;
+  let { command, sha1 } = req.query;
+  let result;
   if (sha1) {
-    const result = fortune.getBySha1(sha1) || {
+    result = fortune.getBySha1(sha1) || {
       error: `No such sha1 ID: ${sha1}`,
     };
-    res.render("index", { result });
-    return;
-  }
-  if (command) {
-    let result;
+  } else {
     try {
       result = fortune.random(command);
     } catch (error) {
       result = { error: error.message };
     }
-    res.render("index", { command, result });
-    return;
   }
-  res.render("index");
+  res.render("index", { command, result });
 });
 
 app.get("/api/fortune", (req, res) => {
