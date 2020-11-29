@@ -34,8 +34,11 @@
     </form>
     <script>
       const form = document.querySelector("form");
-      form.onsubmit = async (e) => {
-        e.preventDefault();
+      form.onsubmit = lookup;
+      lookup();
+
+      async function lookup(e) {
+        e && e.preventDefault();
         form.submitBtn.disabled = true;
         form.output.textContent = "Loading...";
         const resp = await fetch("/api/fortune?args=" + form.args.value);
@@ -44,10 +47,11 @@
           form.output.textContent = `Error: ${json.error}`;
         } else {
           const { content, sha1 } = json.data;
-          form.output.innerHTML = `<pre>${content}</pre>`;
+          form.output.innerHTML = `<pre>${content}</pre>
+<p><a href="/api/fortune/${sha1}">permalink</a></p>`;
         }
         form.submitBtn.disabled = false;
-      };
+      }
     </script>
   </body>
 </html>
