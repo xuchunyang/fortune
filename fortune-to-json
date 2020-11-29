@@ -1,0 +1,26 @@
+#!/usr/bin/env node
+
+const fs = require("fs");
+
+function fortuneToJSON(input) {
+  console.log(`Process ${input}`);
+  const s = fs.readFileSync(input, "utf8");
+  let data = s.trim().split(/\n%\n/);
+  const count = data.length;
+  const file = input;
+  const json = JSON.stringify({ file, count, data }, null, 2);
+  const output = input + ".json";
+  console.log(`Write ${count} items to ${output}`);
+  fs.writeFileSync(output, json, "utf8");
+}
+
+(function main() {
+  process.chdir("fortunes");
+  const inputs = fs
+    .readdirSync(".", { withFileTypes: true })
+    .filter((e) => {
+      return e.isFile() && !e.name.includes(".");
+    })
+    .map((e) => e.name);
+  inputs.forEach(fortuneToJSON);
+})();
