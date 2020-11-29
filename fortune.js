@@ -37,6 +37,7 @@ class Fortune {
   // 1. fortune，即没有参数
   // 2. fortune love tang300 song100
   random(command) {
+    command = command || "";
     let jsons = this.jsons;
     const files = command
       .trim()
@@ -59,10 +60,11 @@ class Fortune {
     for (const json of jsons) {
       if (idx < json.count) {
         const file = json.file;
-        const data = json.data[idx];
+        const { content, sha1 } = json.data[idx];
         return {
           file,
-          data,
+          content,
+          sha1,
         };
       }
       idx -= json.count;

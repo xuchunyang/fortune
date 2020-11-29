@@ -44,7 +44,7 @@
         if (json.error) {
           form.output.textContent = `Error: ${json.error}`;
         } else {
-          const { content, sha1 } = json.data;
+          const { content, sha1 } = json;
           form.output.innerHTML = `<pre>${content}</pre>
 <p><a href="/api/fortune/${sha1}">permalink</a></p>`;
         }
