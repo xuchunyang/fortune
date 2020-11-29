@@ -11,6 +11,8 @@ app.set("trust proxy", 1);
 
 app.use(morgan("dev"));
 
+app.use(express.static("public"));
+
 app.get("/api/fortune", (req, res) => {
   const { args } = req.query;
   let result;
