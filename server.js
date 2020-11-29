@@ -12,7 +12,15 @@ app.set("trust proxy", 1);
 app.use(morgan("dev"));
 
 app.get("/api/fortune", (req, res) => {
-  const data = JSON.stringify(fortune.random(), null, 2) + "\n";
+  const { args } = req.query;
+  let result;
+  try {
+    result = fortune.random(args);
+  } catch (error) {
+    res.status(400).json({ error: error.message });
+    return;
+  }
+  const data = JSON.stringify(result, null, 2) + "\n";
   res.set("Content-Type", "application/json; charset=utf-8");
   res.send(data);
 });
