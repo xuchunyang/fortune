@@ -21,6 +21,18 @@ class Fortune {
     this.total = this.jsons.reduce((total, { count }) => (total += count), 0);
   }
 
+  getBySha1(sha1) {
+    if (!this.items) {
+      this.items = {};
+      this.jsons.forEach((json) => {
+        json.data.forEach((item) => {
+          this.items[item.sha1] = item;
+        });
+      });
+    }
+    return this.items[sha1];
+  }
+
   // args 指 fortune(6) 的命令行参数，现在只支持
   // 1. fortune，即没有参数
   // 2. fortune love tang300 song100

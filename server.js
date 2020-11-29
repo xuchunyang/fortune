@@ -19,12 +19,21 @@ app.get("/api/fortune", (req, res) => {
   try {
     result = fortune.random(args);
   } catch (error) {
-    res.status(400).json({ error: error.message });
+    res.status(404).json({ error: error.message });
     return;
   }
   const data = JSON.stringify(result, null, 2) + "\n";
   res.set("Content-Type", "application/json; charset=utf-8");
   res.send(data);
+});
+
+app.get("/api/fortune/:sha1", (req, res) => {
+  const result = fortune.getBySha1(req.params.sha1);
+  if (!result) {
+    res.status(404).json({ error: `No such sha1 ID: ${req.params.sha1}` });
+    return;
+  }
+  res.json(result);
 });
 
 const server = app.listen(
