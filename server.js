@@ -14,10 +14,10 @@ app.use(morgan("dev"));
 app.use(express.static("public"));
 
 app.get("/api/fortune", (req, res) => {
-  const { args } = req.query;
+  const { command } = req.query;
   let result;
   try {
-    result = fortune.random(args);
+    result = fortune.random(command);
   } catch (error) {
     res.status(404).json({ error: error.message });
     return;

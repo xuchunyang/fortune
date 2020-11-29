@@ -18,12 +18,10 @@
   <body>
     <form>
       <div>
-        <label for="args"
-          >Add <code>fortune(6)</code> command arguments (optional):
-        </label>
+        <label for="command">Enter <code>fortune(6)</code> command: </label>
       </div>
       <div>
-        <input id="args" name="args" type="text" />
+        <input id="command" name="command" type="text" value="fortune " required />
       </div>
       <div>
         <input id="submitBtn" type="submit" />
@@ -41,7 +39,7 @@
         e && e.preventDefault();
         form.submitBtn.disabled = true;
         form.output.textContent = "Loading...";
-        const resp = await fetch("/api/fortune?args=" + form.args.value);
+        const resp = await fetch("/api/fortune?command=" + form.command.value);
         const json = await resp.json();
         if (json.error) {
           form.output.textContent = `Error: ${json.error}`;

@@ -33,20 +33,21 @@ class Fortune {
     return this.items[sha1];
   }
 
-  // args 指 fortune(6) 的命令行参数，现在只支持
+  // command 指 fortune(6) 的命令行参数，现在只支持
   // 1. fortune，即没有参数
   // 2. fortune love tang300 song100
-  random(args) {
+  random(command) {
     let jsons = this.jsons;
-    if (args) {
-      const files = args
-        .trim()
-        .split(/\s+/)
-        .filter((arg) => !arg.startsWith("-"));
-      const nonExistFiles = files.filter((file) => !this.files.includes(file));
-      if (nonExistFiles.length > 0) {
-        throw new Error(`No such files: ${nonExistFiles.join(", ")}`);
-      }
+    const files = command
+      .trim()
+      .split(/\s+/)
+      .slice(1)
+      .filter((arg) => !arg.startsWith("-"));
+    const nonExistFiles = files.filter((file) => !this.files.includes(file));
+    if (nonExistFiles.length > 0) {
+      throw new Error(`No such files: ${nonExistFiles.join(", ")}`);
+    }
+    if (files.length > 0) {
       jsons = this.jsons.filter((json) => files.includes(json.file));
     }
 
