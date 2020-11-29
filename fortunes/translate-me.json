@@ -2,24 +2,81 @@
   "file": "translate-me",
   "count": 19,
   "data": [
-    "A fellow bought a new car, a Nissan, and was quite happy with his purchase.\nHe was something of an animist, however, and felt that the car really ought\nto have a name.  This presented a problem, as he was not sure if the name\nshould be masculine or feminine.\n\tAfter considerable thought, he settled on an naming the car either\nBelchazar or Beaumadine, but remained in a quandry about the final choice.\n\t\"Is a Nissan male or female?\" he began asking his friends.  Most of\nthem looked at him pecularly, mumbled things about urgent appointments, and\nwent on their way rather quickly.\n\tHe finally broached the question to a lady he knew who held a black\nbelt in judo.  She thought for a moment and answered \"Feminine.\"\n\tThe swiftness of her response puzzled him. \"You're sure of that?\" he\nasked.\n\t\"Certainly,\" she replied. \"They wouldn't sell very well if they were\nmasculine.\"\n\t\"Unhhh...  Well, why not?\"\n\t\"Because people want a car with a reputation for going when you want\nit to.  And, if Nissan's are female, it's like they say...  `Each Nissan, she\ngo!'\"\n\n\t[No, we WON'T explain it; go ask someone who practices an oriental\n\tmartial art.  (Tai Chi Chuan probably doesn't count.)  Ed.]",
-    "Aliquid melius quam pessimum optimum non est.",
-    "Der Horizont vieler Menschen ist ein Kreis mit Radius Null --\nund das nennen sie ihren Standpunkt.",
-    "Ego sum ens omnipotens.",
-    "Forsan et haec olim meminisse juvabit.",
-    "Hodie natus est radici frater.",
-    "Honi soit la vache qui rit.",
-    "Klatu barada nikto.",
-    "Mieux vaut tard que jamais!",
-    "Qvid me anxivs svm?",
-    "Raffiniert ist der Herrgott aber boshaft ist er nicht.\n\t\t-- Albert Einstein",
-    "Regnant populi.",
-    "semper en excretus",
-    "SEMPER UBI SUB UBI!!!!",
-    "sillema sillema nika su",
-    "Suaviter in modo, fortiter in re.\nSe non e vero, e ben trovato.",
-    "Sum quod eris.",
-    "Tout choses sont dites deja, mais comme personne n'ecoute, il faut\ntoujours recommencer.\n\t\t-- A. Gide",
-    "Verba volant, scripta manent!\n%"
+    {
+      "content": "A fellow bought a new car, a Nissan, and was quite happy with his purchase.\nHe was something of an animist, however, and felt that the car really ought\nto have a name.  This presented a problem, as he was not sure if the name\nshould be masculine or feminine.\n\tAfter considerable thought, he settled on an naming the car either\nBelchazar or Beaumadine, but remained in a quandry about the final choice.\n\t\"Is a Nissan male or female?\" he began asking his friends.  Most of\nthem looked at him pecularly, mumbled things about urgent appointments, and\nwent on their way rather quickly.\n\tHe finally broached the question to a lady he knew who held a black\nbelt in judo.  She thought for a moment and answered \"Feminine.\"\n\tThe swiftness of her response puzzled him. \"You're sure of that?\" he\nasked.\n\t\"Certainly,\" she replied. \"They wouldn't sell very well if they were\nmasculine.\"\n\t\"Unhhh...  Well, why not?\"\n\t\"Because people want a car with a reputation for going when you want\nit to.  And, if Nissan's are female, it's like they say...  `Each Nissan, she\ngo!'\"\n\n\t[No, we WON'T explain it; go ask someone who practices an oriental\n\tmartial art.  (Tai Chi Chuan probably doesn't count.)  Ed.]",
+      "sha1": "282f200c393c89403b87229a90f46283fc3bfdd2"
+    },
+    {
+      "content": "Aliquid melius quam pessimum optimum non est.",
+      "sha1": "d1e155e0d358e8b529f2844c22f4a512db90d1dd"
+    },
+    {
+      "content": "Der Horizont vieler Menschen ist ein Kreis mit Radius Null --\nund das nennen sie ihren Standpunkt.",
+      "sha1": "c72af0a844a9a9c18fca7c2667ee99b1cf58ab4e"
+    },
+    {
+      "content": "Ego sum ens omnipotens.",
+      "sha1": "7cdef8181de9500ef6449c8c5c55e1308669d292"
+    },
+    {
+      "content": "Forsan et haec olim meminisse juvabit.",
+      "sha1": "a37ec6b428eeb5e9666459c4f9adf86fddd4965b"
+    },
+    {
+      "content": "Hodie natus est radici frater.",
+      "sha1": "e61c6e5f624029c1352e1bdc1fa384a37dec9ee1"
+    },
+    {
+      "content": "Honi soit la vache qui rit.",
+      "sha1": "8722df032a8fbdf8b640d4a78454153739204335"
+    },
+    {
+      "content": "Klatu barada nikto.",
+      "sha1": "cf6b5901f3f71250d56dd4259f136ebdc58da713"
+    },
+    {
+      "content": "Mieux vaut tard que jamais!",
+      "sha1": "9e0373e115f32463cd39eb1d45540806a3f0c2ca"
+    },
+    {
+      "content": "Qvid me anxivs svm?",
+      "sha1": "36c1c169ccffd5d43969d0f1f3878907ddc7287b"
+    },
+    {
+      "content": "Raffiniert ist der Herrgott aber boshaft ist er nicht.\n\t\t-- Albert Einstein",
+      "sha1": "ef2ac9e0176ad5c1fc288df0198f1ac70995cd83"
+    },
+    {
+      "content": "Regnant populi.",
+      "sha1": "496d30f9413fc1e8aa8eceb11203f6ecc300d62f"
+    },
+    {
+      "content": "semper en excretus",
+      "sha1": "da9850a0eea8bfc3127ff8f1f4cf8fb6677e1cb6"
+    },
+    {
+      "content": "SEMPER UBI SUB UBI!!!!",
+      "sha1": "f857546d38e3a62b5d33e70235412f3011bf22e2"
+    },
+    {
+      "content": "sillema sillema nika su",
+      "sha1": "005236ce94bf65a972a0d1287d007f589af56bce"
+    },
+    {
+      "content": "Suaviter in modo, fortiter in re.\nSe non e vero, e ben trovato.",
+      "sha1": "0a8549cab36d1b76f29db6d0f09474921cc3590c"
+    },
+    {
+      "content": "Sum quod eris.",
+      "sha1": "fd124fe4970bfb2e6d30dcf35ee5346901e2c80d"
+    },
+    {
+      "content": "Tout choses sont dites deja, mais comme personne n'ecoute, il faut\ntoujours recommencer.\n\t\t-- A. Gide",
+      "sha1": "74831483a0a838c4d93bf53faa98f907ce00d500"
+    },
+    {
+      "content": "Verba volant, scripta manent!\n%",
+      "sha1": "d02c31ec08c34899dd78e8ea6a157a72bef64e1a"
+    }
   ]
 }

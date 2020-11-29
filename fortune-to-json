@@ -1,13 +1,29 @@
 #!/usr/bin/env node
 
 const fs = require("fs");
+const path = require("path");
+const crypto = require("crypto");
+
+var shasum = crypto.createHash("sha1");
+shasum.update("foo");
+shasum.digest("hex");
 
 function fortuneToJSON(input) {
   console.log(`Process ${input}`);
   const s = fs.readFileSync(input, "utf8");
+  const file = path.basename(input);
   let data = s.trim().split(/\n%\n/);
+  data = data.map((content) => {
+    const sha1 = crypto
+      .createHash("sha1")
+      .update(file + content)
+      .digest("hex");
+    return {
+      content,
+      sha1,
+    };
+  });
   const count = data.length;
-  const file = input;
   const json = JSON.stringify({ file, count, data }, null, 2);
   const output = input + ".json";
   console.log(`Write ${count} items to ${output}`);

@@ -2,502 +2,1993 @@
   "file": "platitudes",
   "count": 497,
   "data": [
-    "(1) Everything depends.\n(2) Nothing is always.\n(3) Everything is sometimes.",
-    "42",
-    "A beginning is the time for taking the most delicate care that balances are\ncorrect.\n\t\t-- Princess Irulan, \"Manual of Maud'Dib\"",
-    "A bird in the bush usually has a friend in there with him.",
-    "A bird in the hand is worth two in the bush.\n\t\t-- Cervantes",
-    "A bird in the hand is worth what it will bring.",
-    "A bird in the hand makes it awfully hard to blow your nose.",
-    "\tA boy spent years collecting postage stamps.  The girl next door bought\nan album too, and started her own collection.  \"Dad, she buys everything I've\nbought, and it's taken all the fun out of it for me.  I'm quitting.\"  Don't,\nson, remember, 'Imitation is the sincerest form of philately.'\"",
-    "A certain amount of opposition is a help, not a hindrance. Kites rise\nagainst the wind, not with it.",
-    "A chicken is an egg's way of producing more eggs.",
-    "A chronic disposition to inquiry deprives domestic felines of vital qualities.",
-    "A clever prophet makes sure of the event first.",
-    "A closed mouth gathers no foot.",
-    "A couch is as good as a chair.",
-    "A day without orange juice is like a day without orange juice.",
-    "A day without sunshine is like a day without Anita Bryant.",
-    "A day without sunshine is like a day without orange juice.",
-    "A day without sunshine is like night.",
-    "A dead man cannot bite.\n\t\t-- Gnaeus Pompeius (Pompey)",
-    "A farmer is a man outstanding in his field.",
-    "\tA farmer with extremely prolific hens posted the following sign.  \"Free\nChickens.  Our Coop Runneth Over.\"",
-    "\tA father gave his teen-age daughter an untrained pedigreed pup for\nher birthday.  An hour later, when wandered through the house, he found her\nlooking at a puddle in the center of the kitchen.  \"My pup,\" she murmured\nsadly, \"runneth over.\"",
-    "A fool and his money are soon popular.",
-    "A fool and your money are soon partners.",
-    "A fool must now and then be right by chance.",
-    "A foolish consistency is the hobgoblin of little minds.\n\t\t-- Ralph Waldo Emerson",
-    "A friend in need is a pest indeed.",
-    "A full belly makes a dull brain.\n\t\t-- Ben Franklin\n\n\t\t[and the local candy machine man.  Ed]",
-    "\tA girl spent a couple hours on the phone talking to her two best\nfriends, Maureen Jones, and Maureen Brown.  When asked by her father why she\nhad been on the phone so long, she responded \"I heard a funny story today\nand I've been telling it to the Maureens.\"",
-    "A gleekzorp without a tornpee is like a quop without a fertsneet (sort of).",
-    "A good memory does not equal pale ink.",
-    "A good name lost is seldom regained.  When character is gone,\nall is gone, and one of the richest jewels of life is lost forever.\n\t\t-- J. Hawes",
-    "A good plan today is better than a perfect plan tomorrow.\n\t\t-- Patton",
-    "A good reputation is more valuable than money.\n\t\t-- Publilius Syrus",
-    "A good scapegoat is hard to find.\nA guilty conscience is the mother of invention.\n\t\t-- Carolyn Wells",
-    "A handful of friends is worth more than a wagon of gold.",
-    "A handful of patience is worth more than a bushel of brains.",
-    "A hermit is a deserter from the army of humanity.",
-    "A homeowner's reach should exceed his grasp, or what's a weekend for?",
-    "\tA horse breeder has his young colts bottle-fed after they're three\ndays old.  He heard that a foal and his mummy are soon parted.",
-    "A hundred thousand lemmings can't be wrong!",
-    "A journey of a thousand miles begins with a cash advance.",
-    "A journey of a thousand miles must begin with a single step.\n\t\t-- Lao Tsu",
-    "A journey of a thousand miles starts under one's feet.\n\t\t-- Lao Tsu",
-    "A king's castle is his home.",
-    "A lie in time saves nine.",
-    "A lie is an abomination unto the Lord and a very present help in time of\ntrouble.\n\t\t-- Adlai Stevenson",
-    "A likely impossibility is always preferable to an unconvincing possibility.\n\t\t-- Aristotle",
-    "A little experience often upsets a lot of theory.",
-    "A little inaccuracy saves a world of explanation.\n\t\t-- C.E. Ayres",
-    "A little inaccuracy sometimes saves tons of explanation.\n\t\t-- H.H. Munro, \"Saki\"",
-    "A lost ounce of gold may be found, a lost moment of time never.",
-    "A man gazing at the stars is proverbially at the mercy of the puddles\nin the road.\n\t\t-- Alexander Smith",
-    "A man who carries a cat by its tail learns something he can learn\nin no other way.",
-    "A man with one watch knows what time it is.\nA man with two watches is never quite sure.",
-    "A man's best friend is his dogma.",
-    "A man's house is his castle.\n\t\t-- Sir Edward Coke",
-    "A man's house is his hassle.",
-    "A mind is a wonderful thing to waste.",
-    "A mushroom cloud has no silver lining.",
-    "A penny saved has not been spent.",
-    "A penny saved is ridiculous.",
-    "A pipe gives a wise man time to think and a fool something to stick in his\nmouth.",
-    "A place for everything and everything in its place.\n\t\t-- Isabella Mary Beeton, \"The Book of Household Management\"\n \n\t[Quoted in \"VMS Internals and Data Structures\", V4.4, when\n\t referring to memory management system services.]",
-    "A platitude is simply a truth repeated till people get tired of hearing it.\n\t\t-- Stanley Baldwin",
-    "A plethora of individuals with expertise in culinary techniques contaminate\nthe potable concoction produced by steeping certain edible nutriments.",
-    "A plucked goose doesn't lay golden eggs.",
-    "A pound of salt will not sweeten a single cup of tea.",
-    "\"A radioactive cat has eighteen half-lives.\"",
-    "A rolling stone gathers momentum.",
-    "A rolling stone gathers no moss.\n\t\t-- Publilius Syrus",
-    "A shortcut is the longest distance between two points.",
-    "A sinking ship gathers no moss.\n\t\t-- Donald Kaul",
-    "A Smith & Wesson beats four aces.",
-    "A snake lurks in the grass.\n\t\t-- Publius Vergilius Maro (Virgil)",
-    "A soft answer turneth away wrath; but grievous words stir up anger.\n\t\t-- Proverbs 15:1",
-    "A soft drink turneth away company.",
-    "A song in time is worth a dime.",
-    "A stitch in time saves nine.",
-    "A violent man will die a violent death.\n\t\t-- Lao Tsu",
-    "A watched clock never boils.",
-    "A wise man can see more from a mountain top than a fool can from the bottom\nof a well.",
-    "A wise man can see more from the bottom of a well than a fool can from a\nmountain top.",
-    "A wise person makes his own decisions, a weak one obeys public opinion.\n\t\t-- Chinese proverb",
-    "A witty saying proves nothing, but saying something pointless gets\npeople's attention.",
-    "A witty saying proves nothing.\n\t\t-- Voltaire",
-    "A word to the wise is enough.\n\t\t-- Miguel de Cervantes",
-    "Above all else -- sky.",
-    "Above all things, reverence yourself.",
-    "Absence makes the heart forget.",
-    "Absence makes the heart go wander.",
-    "Absence makes the heart grow fonder -- of somebody else.",
-    "Absence makes the heart grow fonder.\n\t\t-- Sextus Aurelius",
-    "Absence makes the heart grow frantic.",
-    "Absolutum obsoletum.  (If it works, it's out of date.)\n\t\t-- Stafford Beer",
-    "Ad astra per aspera.\n\t[To the stars by aspiration.]",
-    "Adde parvum parvo manus acervus erit.\n\t[Add little to little and there will be a big pile.]\n\t\t-- Ovid",
-    "Advice from an old carpenter: measure twice, saw once.",
-    "After the game the king and the pawn go in the same box.\n\t\t-- Italian proverb",
-    "Age and treachery will always overcome youth and skill.",
-    "Age before beauty; and pearls before swine.\n\t\t-- Dorothy Parker",
-    "Aim for the moon.  If you miss, you may hit a star.\n\t\t-- W. Clement Stone",
-    "Ain't no right way to do a wrong thing.\n\t\t-- The Mad Dogtender",
-    "Alas, I am dying beyond my means.\n\t\t-- Oscar Wilde [as he sipped champagne on his deathbed]",
-    "Alimony is the high cost of leaving.",
-    "All a man needs out of life is a place to sit 'n' spit in the fire.",
-    "All articles that coruscate with resplendence are not truly auriferous.",
-    "-- All articles that coruscate with resplendence are not truly auriferous.\n-- When there are visible vapors having the prevenience in ignited\n\tcarbonaceous materials, there is conflagration.\n-- Sorting on the part of mendicants must be interdicted.\n-- A plethora of individuals wither expertise in culinary techniques vitiated\n\tthe potable concoction produced by steeping certain coupestibles.\n-- Eleemosynary deeds have their initial incidence intramurally.\n-- Male cadavers are incapable of yielding testimony.\n-- Individuals who make their abode in vitreous edifices would be well\n\tadvised to refrain from catapulting projectiles.",
-    "All I kin say is when you finds yo'self wanderin' in a peach orchard,\nya don't go lookin' for rutabagas.\n\t\t-- Kingfish",
-    "All is fear in love and war.",
-    "All is well that ends well.\n\t\t-- John Heywood",
-    "All that glitters has a high refractive index.",
-    "All that glitters is not gold; all that wander are not lost.",
-    "All things are possible, except for skiing through a revolving door.",
-    "All things being equal, you are bound to lose.",
-    "All true wisdom is found on T-shirts.",
-    "All's well that ends.",
-    "An aphorism is never exactly true; it is either a half-truth or\none-and-a-half truths.\n\t\t-- Karl Kraus",
-    "An apple a day makes 365 apples a year.",
-    "An apple every eight hours will keep three doctors away.",
-    "An idle mind is worth two in the bush.",
-    "An ounce of clear truth is worth a pound of obfuscation.",
-    "An ounce of hypocrisy is worth a pound of ambition.\n\t\t-- Michael Korda",
-    "An ounce of mother is worth a ton of priest.\n\t\t-- Spanish proverb",
-    "\"An ounce of prevention is worth a pound of purge.\"",
-    "And tomorrow will be like today, only more so.\n\t\t-- Isaiah 56:12, New Standard Version",
-    "Answer a fool according to his folly, lest he be wise in his own conceit.\n\t\t-- Proverbs, 26:5",
-    "Any great truth can -- and eventually will -- be expressed as a cliche --\na cliche is a sure and certain way to dilute an idea.  For instance, my\ngrandmother used to say, \"The black cat is always the last one off the fence.\"\nI have no idea what she meant, but at one time, it was undoubtedly true.\n\t\t-- Solomon Short",
-    "Any philosophy that can be put \"in a nutshell\" belongs there.\n\t\t-- Sydney J. Harris",
-    "Any road followed to its end leads precisely nowhere.\nClimb the mountain just a little to test it's a mountain.\nFrom the top of the mountain, you cannot see the mountain.\n\t\t-- Bene Gesserit proverb, \"Dune\"",
-    "Anything is possible on paper.\n\t\t-- Ron McAfee",
-    "Anything is possible, unless it's not.",
-    "Anything that is worth doing has been done frequently.  Things hitherto\nundone should be given, I suspect, a wide berth.\n\t\t-- Max Beerbohm, \"Mainly on the Air\"",
-    "Anything worth doing is worth overdoing.",
-    "As well look for a needle in a bottle of hay.\n\t\t-- Miguel de Cervantes",
-    "Ask not for whom the Bell tolls, and you will pay only the station-to-station\nrate.\n\t\t-- Howard Kandel",
-    "Ask not for whom the telephone bell tolls...\nif thou art in the bathtub, it tolls for thee.",
-    "Avoid cliches like the plague.  They're a dime a dozen.",
-    "Be both a speaker of words and a doer of deeds.\n\t\t-- Homer",
-    "Be sure to evaluate the bird-hand/bush ratio.",
-    "Beggars should be no choosers.\n\t\t-- John Heywood",
-    "Better dead than mellow.",
-    "Better hope you get what you want before you stop wanting it.",
-    "Better late than never.\n\t\t-- Titus Livius (Livy)",
-    "Better living a beggar than buried an emperor.",
-    "Better to be nouveau than never to have been riche at all.",
-    "Better to light one candle than to curse the darkness.\n\t\t-- motto of the Christopher Society",
-    "Better tried by twelve than carried by six.\n\t\t-- Jeff Cooper",
-    "Beware of friends who are false and deceitful.",
-    "Beware of geeks bearing graft.",
-    "Call on God, but row away from the rocks.\n\t\t-- Indian proverb",
-    "Charity begins at home.\n\t\t-- Publius Terentius Afer (Terence)",
-    "Cheap things are of no value, valuable things are not cheap.",
-    "Cleanliness becomes more important when godliness is unlikely.\n\t\t-- P.J. O'Rourke",
-    "Cleanliness is next to impossible.",
-    "Cogito cogito ergo cogito sum --\n\"I think that I think, therefore I think that I am.\"\n\t\t-- Ambrose Bierce, \"The Devil's Dictionary\"",
-    "\"Cogito ergo I'm right and you're wrong.\"\n\t\t-- Blair Houghton",
-    "Curiosity killed the cat, but satisfaction brought her back.",
-    "Desist from enumerating your fowl prior to their emergence from the shell.",
-    "Do not count your chickens before they are hatched.\n\t\t-- Aesop",
-    "Do unto others before they undo you.",
-    "Do, or do not; there is no try.",
-    "Doing gets it done.",
-    "Don't get even -- get odd!",
-    "Don't get mad, get even.\n\t\t-- Joseph P. Kennedy\n\nDon't get even, get jewelry.\n\t\t-- Anonymous",
-    "Don't get mad, get interest.",
-    "Don't put off for tomorrow what you can do today because if you enjoy it today,\nyou can do it again tomorrow.",
-    "Eschew obfuscation.",
-    "Every path has its puddle.",
-    "Every silver lining has a cloud around it.",
-    "Every solution breeds new problems.",
-    "Expedience is the best teacher.",
-    "Experience is a good teacher, but she sends in terrific bills.\n\t\t-- Minna Antrim, \"Naked Truth and Veiled Allusions\"",
-    "Familiarity breeds attempt.",
-    "Flattery will get you everywhere.",
-    "Flee at once, all is discovered.",
-    "For fools rush in where angels fear to tread.\n\t\t-- Alexander Pope",
-    "Forgive and forget.\n\t\t-- Cervantes",
-    "Fortune and love befriend the bold.\n\t\t-- Ovid",
-    "Fortune favors the lucky.",
-    "Fortune finishes the great quotations, #12\n\n\tThose who can, do.  Those who can't, write the instructions.",
-    "Fortune finishes the great quotations, #3\n\n\tBirds of a feather flock to a newly washed car.",
-    "Fortune finishes the great quotations, #9\n\n\tA word to the wise is often enough to start an argument.",
-    "Freedom from incrustation of grime is contiguous to rectitude.",
-    "Genius is pain.\n\t\t-- John Lennon",
-    "Given sufficient time, what you put off doing today will get done by itself.",
-    "God gave man two ears and one tongue so that we listen twice as much as\nwe speak.\n\t\t-- Arab proverb",
-    "Happiness adds and multiplies as we divide it with others.",
-    "Happiness is the greatest good.",
-    "Haste makes waste.\n\t\t-- John Heywood",
-    "Have a nice day!",
-    "Have a nice diurnal anomaly.",
-    "Have an adequate day.",
-    "He that bringeth a present, findeth the door open.\n\t\t-- Scottish proverb.",
-    "He who fears the unknown may one day flee from his own backside.\n\t\t-- Sinbad",
-    "He who fights and runs away lives to fight another day.",
-    "He who foresees calamities suffers them twice over.",
-    "He who has a shady past knows that nice guys finish last.",
-    "He who has imagination without learning has wings but no feet.",
-    "He who has the courage to laugh is almost as much a master of the world\nas he who is ready to die.\n\t\t-- Giacomo Leopardi",
-    "He who hates vices hates mankind.",
-    "He who hesitates is last.",
-    "He who hesitates is sometimes saved.",
-    "He who laughs has not yet heard the bad news.\n\t\t-- Bertolt Brecht",
-    "He who laughs last -- missed the punch line.",
-    "He who laughs last didn't get the joke.",
-    "He who laughs last hasn't been told the terrible truth.",
-    "He who laughs last is probably your boss.",
-    "He who laughs last usually had to have joke explained.",
-    "He who laughs, lasts.",
-    "He who lives without folly is less wise than he believes.",
-    "He who makes a beast of himself gets rid of the pain of being a man.\n\t\t-- Dr. Johnson",
-    "Honesty is the best policy, but insanity is a better defense.",
-    "Honesty's the best policy.\n\t\t-- Miguel de Cervantes",
-    "Honi soit qui mal y pense.\n\t[Evil to him who evil thinks.]\n\t\t-- Motto of the Order of the Garter (est. Edward III)",
-    "How sharper than a hound's tooth it is to have a thankless serpent.",
-    "How you look depends on where you go.",
-    "I am a man: nothing human is alien to me.\n\t\t-- Publius Terentius Afer (Terence)",
-    "I doubt, therefore I might be.",
-    "I know on which side my bread is buttered.\n\t\t-- John Heywood",
-    "I think, therefore I am... I think.",
-    "I'll turn over a new leaf.\n\t\t-- Miguel de Cervantes",
-    "If a fool persists in his folly he shall become wise.\n\t\t-- William Blake",
-    "If anything can go wrong, it will.",
-    "If at first you do succeed, try to hide your astonishment.",
-    "If at first you don't succeed, destroy all evidence that you tried.",
-    "If at first you don't succeed, quit; don't be a nut about success.",
-    "If at first you don't succeed, redefine success.",
-    "If at first you don't succeed, try, try again.\n\t\t-- W.E. Hickson",
-    "If at first you don't succeed, you're doing about average.\n\t\t-- Leonard Levinson",
-    "If happiness is in your destiny, you need not be in a hurry.\n\t\t-- Chinese proverb",
-    "If I cannot bend Heaven, I shall move Hell.\n\t\t-- Publius Vergilius Maro (Virgil)",
-    "If in doubt, mumble.",
-    "If it ain't broke, don't fix it.",
-    "If it heals good, say it.",
-    "If the shoe fits, it's ugly.",
-    "If the thunder don't get you, then the lightning will.",
-    "If there is no wind, row.\n\t\t-- Polish proverb",
-    "If two wrongs don't make a right, try three.\n\t\t-- Laurence J. Peter",
-    "If wishes were horses, then beggars would be thieves.",
-    "If you wish to be happy for one hour, get drunk.\nIf you wish to be happy for three days, get married.\nIf you wish to be happy for a month, kill your pig and eat it.\nIf you wish to be happy forever, learn to fish.\n\t\t-- Chinese Proverb",
-    "If you wish to succeed, consult three old people.",
-    "If you would keep a secret from an enemy, tell it not to a friend.",
-    "In charity there is no excess.\n\t\t-- Francis Bacon",
-    "In God we trust; all else we walk through.",
-    "In this world, nothing is certain but death and taxes.\n\t\t-- Benjamin Franklin",
-    "Inspiration without perspiration is usually sterile.",
-    "Integrity has no need for rules.",
-    "It doesn't matter whether you win or lose -- until you lose.",
-    "It is a poor judge who cannot award a prize.",
-    "It is a profitable thing, if one is wise, to seem foolish.\n\t\t-- Aeschylus",
-    "It is annoying to be honest to no purpose.\n\t\t-- Publius Ovidius Naso (Ovid)",
-    "It is bad luck to be superstitious.\n\t\t-- Andrew W. Mathis",
-    "It is better to have loved a short man than never to have loved a tall.",
-    "It is better to have loved and lost -- much better.",
-    "It is better to have loved and lost than just to have lost.",
-    "It is better to wear out than to rust out.",
-    "It is common sense to take a method and try it.  If it fails,\nadmit it frankly and try another.  But above all, try something.\n\t\t-- Franklin D. Roosevelt",
-    "It is sweet to let the mind unbend on occasion.\n\t\t-- Quintus Horatius Flaccus (Horace)",
-    "It is the quality rather than the quantity that matters.\n\t\t-- Lucius Annaeus Seneca",
-    "It is when I struggle to be brief that I become obscure.\n\t\t-- Quintus Horatius Flaccus (Horace)",
-    "It is wise to keep in mind that neither success nor failure is ever final.\n\t\t-- Roger Babson",
-    "It is your concern when your neighbor's wall is on fire.\n\t\t-- Quintus Horatius Flaccus (Horace)",
-    "It's always darkest just before it gets pitch black.",
-    "It's always darkest just before the lights go out.\n\t\t-- Alex Clark",
-    "It's better to burn out than it is to rust.",
-    "It's better to burn out than to fade away.",
-    "It's later than you think.",
-    "It's not whether you win or lose, it's how you place the blame.",
-    "It's the thought, if any, that counts!",
-    "Keep on keepin' on.",
-    "Keep the phase, baby.",
-    "Kites rise highest against the wind -- not with it.\n\t\t-- Winston Churchill",
-    "Knowledge is power.\n\t\t-- Francis Bacon",
-    "Knowledge without common sense is folly.",
-    "Laugh and the world laughs with you, snore and you sleep alone.",
-    "Laugh and the world thinks you're an idiot.",
-    "Laugh at your problems; everybody else does.",
-    "Laugh when you can; cry when you must.",
-    "Laugh, and the world ignores you.  Crying doesn't help either.",
-    "Leave no stone unturned.\n\t\t-- Euripides",
-    "Left to themselves, things tend to go from bad to worse.",
-    "Let sleeping dogs lie.\n\t\t-- Charles Dickens",
-    "Let your conscience be your guide.\n\t\t-- Pope",
-    "Life is one long struggle in the dark.\n\t\t-- Titus Lucretius Carus",
-    "\"Life is too important to take seriously.\"\n\t\t-- Corky Siegel",
-    "Life is too short to be taken seriously.\n\t\t-- Oscar Wilde",
-    "Look before you leap.\n\t\t-- Samuel Butler",
-    "Look ere ye leap.\n\t\t-- John Heywood",
-    "-- Male cadavers are incapable of yielding testimony.\n-- Individuals who make their abode in vitreous edifices would be well advised\n\tto refrain from catapulting projectiles.\n-- Neophyte's serendipity.\n-- Exclusive dedication to necessitious chores without interludes of hedonistic\n\tdiversion renders John a hebetudinous fellow.\n-- A revolving concretion of earthy or mineral matter accumulates no congeries\n\tof small, green bryophytic plant.\n-- Abstention from any aleatory undertaking precludes a potential escallation\n\tof a lucrative nature.\n-- Missiles of ligneous or osteal consistency have the potential of fracturing\n\tosseous structure, but appellations will eternally remain innocuous.",
-    "Man is the measure of all things.\n\t\t-- Protagoras",
-    "Mankind is poised midway between the gods and the beasts.\n\t\t-- Plotinus",
-    "Many are called, few are chosen.  Fewer still get to do the choosing.",
-    "Many are called, few volunteer.",
-    "Many are cold, but few are frozen.",
-    "Many hands make light work.\n\t\t-- John Heywood",
-    "May you have warm words on a cold evening,\na full mooon on a dark night,\nand a smooth road all the way to your door.",
-    "May you live in uninteresting times.\n\t\t-- Chinese proverb",
-    "Men freely believe that what they wish to desire.\n\t\t-- Julius Caesar",
-    "Misery loves company, but company does not reciprocate.",
-    "Misery no longer loves company.  Nowadays it insists on it.\n\t\t-- Russell Baker",
-    "Misfortunes arrive on wings and leave on foot.",
-    "Mistakes are often the stepping stones to utter failure.",
-    "Mistrust first impulses; they are always right.",
-    "Moderation in all things.\n\t\t-- Publius Terentius Afer [Terence]",
-    "Moderation is a fatal thing.  Nothing succeeds like excess.\n\t\t-- Oscar Wilde",
-    "Mother is the invention of necessity.",
-    "Mum's the word.\n\t\t-- Miguel de Cervantes",
-    "Necessity has no law.\n\t\t-- St. Augustine",
-    "Necessity hath no law.\n\t\t-- Oliver Cromwell",
-    "Necessity is a mother.",
-    "-- Neophyte's serendipity.\n-- Exclusive dedication to necessitious chores without interludes of\n\thedonistic diversion renders John a hebetudinous fellow.\n-- A revolving concretion of earthy or mineral matter accumulates no\n\tcongeries of small, green bryophytic plant.\n-- The person presenting the ultimate cachinnation possesses thereby the\n\toptimal cachinnation.\n-- Abstention from any aleatory undertaking precludes a potential\n\tescallation of a lucrative nature.\n-- Missiles of ligneous or osteal consistency have the potential of\n\tfracturing osseous structure, but appellations will eternally\n\tremain innocuous.",
-    "Never do today what you can put off until tomorrow.",
-    "Never look a gift horse in the mouth.\n\t\t-- Saint Jerome",
-    "Never promise more than you can perform.\n\t\t-- Publilius Syrus",
-    "Never put off till tomorrow what you can avoid all together.",
-    "Never put off until tomorrow what you can do the day after.",
-    "Nice guys don't finish nice.",
-    "Nice guys finish last, but we get to sleep in.\n\t\t-- Evan Davis",
-    "Nice guys finish last.\n\t\t-- Leo Durocher",
-    "Nice guys get sick.",
-    "No act of kindness, no matter how small, is ever wasted.\n\t\t-- Aesop",
-    "No evil can happen to a good man.\n\t\t-- Plato",
-    "No excellent soul is exempt from a mixture of madness.\n\t\t-- Aristotle",
-    "No good deed goes unpunished.\n\t\t-- Clare Booth Luce",
-    "None love the bearer of bad news.\n\t\t-- Sophocles",
-    "Not everything worth doing is worth doing well.",
-    "Nothing endures but change.\n\t\t-- Heraclitus",
-    "Nothing ever becomes real till it is experienced -- even a\nproverb is no proverb to you till your life has illustrated it.\n\t\t-- John Keats",
-    "Nullum magnum ingenium sine mixtura dementiae fuit.\n\t[There is no great genius without some touch of madness.]\n\t\t-- Seneca",
-    "Often things ARE as bad as they seem!",
-    "Once a word has been allowed to escape, it cannot be recalled.\n\t\t-- Quintus Horatius Flaccus (Horace)",
-    "Once harm has been done, even a fool understands it.\n\t\t-- Homer",
-    "One good turn asketh another.\n\t\t-- John Heywood",
-    "One good turn deserves another.\n\t\t-- Gaius Petronius",
-    "One good turn usually gets most of the blanket.",
-    "One man's Mede is another man's Persian.\n\t\t-- George M. Cohan",
-    "One picture is worth more than ten thousand words.\n\t\t-- Chinese proverb",
-    "Oppernockity tunes but once.",
-    "Out of sight is out of mind.\n\t\t-- Arthur Clough",
-    "\t\t-- Owen Meredith",
-    "Patience is the best remedy for every trouble.\n\t\t-- Titus Maccius Plautus",
-    "Pauca sed matura.\n\t[Few but excellent.]\n\t\t-- Gauss",
-    "Pereant, inquit, qui ante nos nostra dixerunt.\n\t[Confound those who have said our remarks before us.]\n\tor\n\t[May they perish who have expressed our bright ideas before us.]\n\t\t-- Aelius Donatus",
-    "Pity the meek, for they shall inherit the earth.\n\t\t-- Don Marquis",
-    "Plus ,\bca change, plus c'est la m^\beme chose.\n\t[The more things change, the more they remain the same.]\n\t\t-- Alphonse Karr, \"Les Gu^\bepes\"",
-    "Practice yourself what you preach.\n\t\t-- Titus Maccius Plautus",
-    "Praise the sea; on shore remain.\n\t\t-- John Florio",
-    "Pray to God, but keep rowing to shore.\n\t\t-- Russian Proverb",
-    "Prosperity makes friends, adversity tries them.\n\t\t-- Publilius Syrus",
-    "Quidquid latine dictum sit, altum viditur.\n\t[Whatever is said in Latin sounds profound.]",
-    "Remembering is for those who have forgotten.\n\t\t-- Chinese proverb",
-    "Removing the straw that broke the camel's back does not necessarily\nallow the camel to walk again.",
-    "Rome was not built in one day.\n\t\t-- John Heywood",
-    "Rome wasn't burnt in a day.",
-    "Rotten wood cannot be carved.\n\t\t-- Confucius, \"Analects\", Book 5, Ch. 9",
-    "-- Scintillate, scintillate, asteroid minikin.\n-- Members of an avian species of identical plumage congregate.\n-- Surveillance should precede saltation.\n-- Pulchritude possesses solely cutaneous profundity.\n-- It is fruitless to become lachrymose over precipitately departed\n\tlacteal fluid.\n-- Freedom from incrustations of grime is contiguous to rectitude.\n-- It is fruitless to attempt to indoctrinate a superannuated\n\tcanine with innovative maneuvers.\n-- Eschew the implement of correction and vitiate the scion.\n-- The temperature of the aqueous content of an unremittingly\n\tgalled saucepan does not reach 212 degrees Farenheit.",
-    "Scintillation is not always identification for an auric substance.",
-    "Seek simplicity -- and distrust it.\n\t\t-- Alfred North Whitehead",
-    "Seize the day, put no trust in the morrow!\n\t\t-- Quintus Horatius Flaccus (Horace)",
-    "Set the cart before the horse.\n\t\t-- John Heywood",
-    "Si jeunesse savait, si vieillesse pouvait.\n\t[If youth but knew, if old age but could.]\n\t\t-- Henri Estienne",
-    "Sic transit gloria Monday!",
-    "Sic transit gloria mundi.\n\t[So passes away the glory of this world.]\n\t\t-- Thomas `\ba Kempis",
-    "Sic Transit Gloria Thursdi.",
-    "Small change can often be found under seat cushions.\n\t\t-- One of Lazarus Long's most penetrating insights",
-    "Small is beautiful.\n\t\t-- Schumacher's Dictum",
-    "Stop searching forever.  Happiness is just next to you.",
-    "Stop searching forever.  Happiness is unattainable.",
-    "Stop searching.  Happiness is right next to you.  Now, if they'd only\ntake a bath ...",
-    "Sweet April showers do spring May flowers.\n\t\t-- Thomas Tusser",
-    "The coast was clear.\n\t\t-- Lope de Vega",
-    "The course of true anything never does run smooth.\n\t\t-- Samuel Butler",
-    "The descent to Hades is the same from every place.\n\t\t-- Anaxagoras",
-    "The early worm gets the bird.",
-    "The early worm gets the late bird.",
-    "The ends justify the means.\n\t\t-- after Matthew Prior",
-    "The greatest love is a mother's, then a dog's, then a sweetheart's.\n\t\t-- Polish proverb",
-    "The life which is unexamined is not worth living.\n\t\t-- Plato",
-    "The light at the end of the tunnel is the headlight of an approaching train.",
-    "The light at the end of the tunnel may be an oncoming dragon.",
-    "The man who runs may fight again.\n\t\t-- Menander",
-    "The man who sees, on New Year's day, Mount Fuji, a hawk, and an eggplant\nis forever blessed.\n\t\t-- Old Japanese proverb",
-    "The meek will inherit the earth -- if that's OK with you.",
-    "The more the merrier.\n\t\t-- John Heywood",
-    "The more things change, the more they stay insane.",
-    "The more things change, the more they'll never be the same again.",
-    "The only certainty is that nothing is certain.\n\t\t-- Pliny the Elder",
-    "The only constant is change.",
-    "The only problem with seeing too much is that it makes you insane.\n\t\t-- Phaedrus",
-    "The only reward of virtue is virtue.\n\t\t-- Ralph Waldo Emerson",
-    "\"The porcupine with the sharpest quills gets stuck on a tree more often.\"",
-    "The proof of the pudding is in the eating.\n\t\t-- Miguel de Cervantes",
-    "The reverse side also has a reverse side.  \n\t\t-- Japanese proverb",
-    "The road to Hades is easy to travel.\n\t\t-- Bion",
-    "The superfluous is very necessary.\n\t\t-- Voltaire",
-    "The temperature of the aqueous content of an unremittingly ogled\nculinary vessel will not achieve 100 degrees on the Celsius scale.",
-    "The worst is enemy of the bad.",
-    "-- The writing implement is more potent than the claymore.\n-- All articles that coruscate with resplendence are not truly auriferous.\n-- When there are visible vapors having the prevenience in ignited carbonaceous\n\tmaterials, there is conflagration.\n-- Sorting on the part of mendicants must be interdicted.\n-- A plethora of individuals wither expertise in culinary techniques vitiated\n\tthe potable concoction produced by steeping certain coupestibles.\n-- The person presenting the ultimate cachinnation possesses thereby the\n\toptimal cachinnation.\n-- Eleemosynary deeds have their initial incidence intramurally.",
-    "There are more things in heaven and earth than any place else.",
-    "There are more ways of killing a cat than choking her with cream.",
-    "There is no fool to the old fool.\n\t\t-- John Heywood",
-    "There is no grief which time does not lessen and soften.",
-    "There is no proverb that is not true.\n\t\t-- Cervantes",
-    "There's an old proverb that says just about whatever you want it to.",
-    "There's no heavier burden than a great potential.",
-    "There's no such thing as a free lunch.\n\t\t-- Milton Friendman",
-    "There's no such thing as an original sin.\n\t\t-- Elvis Costello",
-    "There's no time like the pleasant.",
-    "Things are more like they are today than they ever were before.\n\t\t-- Dwight Eisenhower",
-    "Things are more like they used to be than they are now.",
-    "Things are not always what they seem.\n\t\t-- Phaedrus",
-    "Things fall apart; the centre cannot hold.",
-    "Thou hast seen nothing yet.\n\t\t-- Miguel de Cervantes",
-    "Three may keep a secret, if two of them are dead.\n\t\t-- Benjamin Franklin",
-    "Time and tide wait for no man.",
-    "Time as he grows old teaches all things.\n\t\t-- Aeschylus",
-    "Time flies like an arrow.  Fruit flies like a banana.",
-    "Time goes, you say?\nAh no!\nTime stays, *we* go.\n\t\t-- Austin Dobson",
-    "Time sure flies when you don't know what you're doing.",
-    "To add insult to injury.\n\t\t-- Phaedrus",
-    "To err is human, but I can REALLY foul things up.",
-    "To err is human, but when the eraser wears out before the pencil,\nyou're overdoing it a little.",
-    "To err is human, to forgive is against company policy.",
-    "To err is human, to forgive unusual.",
-    "To err is human, to moo bovine.",
-    "To err is human, to purr feline.\nTo err is human, two curs canine.\nTo err is human, to moo bovine.",
-    "To err is human, to repent, divine, to persist, devilish.\n\t\t-- Benjamin Franklin",
-    "To err is human.\nTo blame someone else for your mistakes is even more human.",
-    "To err is human; to admit it, a blunder.",
-    "To err is human; to forgive is simply not our policy.\n\t\t-- MIT Assasination Club",
-    "To err is humor.",
-    "To every Ph.D. there is an equal and opposite Ph.D.\n\t\t-- B. Duggan",
-    "Treat your friend as if he might become an enemy.\n\t\t-- Publilius Syrus",
-    "Trust in Allah, but tie your camel.\n\t\t-- Arabian proverb",
-    "Truth can wait; he's used to it.",
-    "Turn the other cheek.\n\t\t-- Jesus Christ",
-    "Two heads are better than one.\n\t\t-- John Heywood",
-    "Two heads are more numerous than one.",
-    "Two is company, three is an orgy.",
-    "Two wrongs are only the beginning.\n\t\t-- Kohn",
-    "Two wrongs don't make a right, but they make a good excuse.\n\t\t-- Thomas Szasz",
-    "Two wrongs don't make a right, but three lefts do.",
-    "Walking on water wasn't built in a day.\n\t\t-- Jack Kerouac",
-    "We are what we are.",
-    "We are what we pretend to be.\n\t\t-- Kurt Vonnegut, Jr.",
-    "We have seen the light at the end of the tunnel, and it's out.",
-    "Well begun is half done.\n\t\t-- Aristotle",
-    "What fools these morals be!",
-    "What fools these mortals be.\n\t\t-- Lucius Annaeus Seneca",
-    "What one believes to be true either is true or becomes true.\n\t\t-- John Lilly",
-    "What one fool can do, another can.\n\t\t-- Ancient Simian Proverb",
-    "What we wish, that we readily believe.\n\t\t-- Demosthenes",
-    "What you don't know can hurt you, only you won't know it.",
-    "What you don't know won't help you much either.\n\t\t-- D. Bennett",
-    "Whatever it is, I fear Greeks even when they bring gifts.\n\t\t-- Publius Vergilius Maro (Virgil)",
-    "When in doubt, follow your heart.",
-    "When in doubt, use brute force.\n\t\t-- Ken Thompson",
-    "When nothing can possibly go wrong, it will.",
-    "When the ax entered the forest, the trees said, \"The handle is one of us!\"\n\t\t-- Turkish proverb",
-    "When the blind lead the blind they will both fall over the cliff.\n\t\t-- Chinese proverb",
-    "When the going gets tough, everyone leaves.\n\t\t-- Lynch",
-    "When the going gets tough, the tough go shopping.",
-    "When the going gets weird, the weird turn pro.\n\t\t-- Hunter S. Thompson",
-    "When the only tool you have is a hammer, every problem starts to look\nlike a nail.",
-    "When the sun shineth, make hay.\n\t\t-- John Heywood",
-    "When we talk of tomorrow, the gods laugh.",
-    "When you are at Rome live in the Roman style; when you are elsewhere live\nas they live elsewhere.\n\t\t-- St. Ambrose",
-    "When you are in it up to your ears, keep your mouth shut.",
-    "When you have eliminated the impossible, whatever remains, however improbable,\nmust be the truth.\n\t\t-- Sherlock Holmes, \"The Sign of Four\"",
-    "Where there are visible vapors, having their prevenance in ignited\ncarbonaceous materials, there is conflagration.",
-    "Where there is much light there is also much shadow.\n\t\t-- Goethe",
-    "While there's life, there's hope.\n\t\t-- Publius Terentius Afer (Terence)",
-    "Whom the gods wish to destroy they first call promising.",
-    "Whom the mad would destroy, first they make Gods.\n\t\t-- Bernard Levin",
-    "Without fools there would be no wisdom.",
-    "Words are the voice of the heart.",
-    "Words can never express what words can never express.",
-    "Words have a longer life than deeds.\n\t\t-- Pindar",
-    "Would ye both eat your cake and have your cake?\n\t\t-- John Heywood",
-    "You buttered your bread, now lie in it.",
-    "You can drive a horse to water, but a pencil must be lead.",
-    "You can fool some of the people all of the time,\nand all of the people some of the time,\nbut you can make a fool of yourself anytime.",
-    "You can fool some of the people all of the time,\nand all of the people some of the time,\nbut you can never fool your Mom.",
-    "You can fool some of the people some of the time,\nand some of the people all of the time,\nand that is sufficient.",
-    "You can get everything in life you want, if you will help enough other\npeople get what they want.",
-    "You can get much further with a kind word and a gun than you can with a\nkind word alone.\n\t\t-- Al Capone\n\t\t[Also attributed to Johnny Carson.  Ed.]",
-    "You can go anywhere you want if you look serious and carry a clipboard.",
-    "You can make it illegal, but you can't make it unpopular.",
-    "You can move the world with an idea, but you have to think of it first.",
-    "You can never do just one thing.\n\t\t-- Hardin",
-    "You can't break eggs without making an omelet.",
-    "You can't judge a book by the way it wears its hair.",
-    "You cannot see the wood for the trees.\n\t\t-- John Heywood",
-    "You get what you pay for.\n\t\t-- Gabriel Biel",
-    "You k'n hide de fier, but w'at you gwine do wid de smoke?\n\t\t-- Joel Chandler Harris, proverbs of Uncle Remus",
-    "Zhizn' prozhit'--ne pole pereiti.\n\t[Life's a bitch.]\n\t[Well, okay.  lit., to live through life is not as simple as crossing\n\t a field.  Happy now?]\n\t\t-- Russian proverb\n%"
+    {
+      "content": "(1) Everything depends.\n(2) Nothing is always.\n(3) Everything is sometimes.",
+      "sha1": "0470d49579248cc9b8a408934b9fea6c66c2dfbb"
+    },
+    {
+      "content": "42",
+      "sha1": "fb44d192ab53d248b02475ecd6eda7267d695500"
+    },
+    {
+      "content": "A beginning is the time for taking the most delicate care that balances are\ncorrect.\n\t\t-- Princess Irulan, \"Manual of Maud'Dib\"",
+      "sha1": "7e3695cbac646f3218f50b00e0d69099bde58b94"
+    },
+    {
+      "content": "A bird in the bush usually has a friend in there with him.",
+      "sha1": "6e2505ff2428b2a8e6e9789efafc6f312f70bd6e"
+    },
+    {
+      "content": "A bird in the hand is worth two in the bush.\n\t\t-- Cervantes",
+      "sha1": "2a2094647a465fb009625dfbc992bd1505476014"
+    },
+    {
+      "content": "A bird in the hand is worth what it will bring.",
+      "sha1": "ee16fe9a483dd840a69713ed3abbbd1dd1765263"
+    },
+    {
+      "content": "A bird in the hand makes it awfully hard to blow your nose.",
+      "sha1": "842dd691ef318ead7505838dd4eee2820f51f642"
+    },
+    {
+      "content": "\tA boy spent years collecting postage stamps.  The girl next door bought\nan album too, and started her own collection.  \"Dad, she buys everything I've\nbought, and it's taken all the fun out of it for me.  I'm quitting.\"  Don't,\nson, remember, 'Imitation is the sincerest form of philately.'\"",
+      "sha1": "8f56322e0c9eb4c2224de8967e66b393c763d2c1"
+    },
+    {
+      "content": "A certain amount of opposition is a help, not a hindrance. Kites rise\nagainst the wind, not with it.",
+      "sha1": "00a2018181e9ff7144f501f1761fe598623e8479"
+    },
+    {
+      "content": "A chicken is an egg's way of producing more eggs.",
+      "sha1": "0210d0d808b789caa7fc44618a0386c24b7c93c4"
+    },
+    {
+      "content": "A chronic disposition to inquiry deprives domestic felines of vital qualities.",
+      "sha1": "9d35567c1be21d2676914266ed9ec15634a576e8"
+    },
+    {
+      "content": "A clever prophet makes sure of the event first.",
+      "sha1": "65f15eaa8436d57792c461b9fd59e1d706b66b85"
+    },
+    {
+      "content": "A closed mouth gathers no foot.",
+      "sha1": "4e3fb93f018c25e969b57cd13f8bdccec0d9c51a"
+    },
+    {
+      "content": "A couch is as good as a chair.",
+      "sha1": "f4feea52268c7d22329a8bfa3ff20c00e9f0ccc1"
+    },
+    {
+      "content": "A day without orange juice is like a day without orange juice.",
+      "sha1": "39144e1f6bfa9691ccaddb7cdf4ad3e0f63c5fd5"
+    },
+    {
+      "content": "A day without sunshine is like a day without Anita Bryant.",
+      "sha1": "8d632caa7fecaf8379da2a037fbe1eb1c195a915"
+    },
+    {
+      "content": "A day without sunshine is like a day without orange juice.",
+      "sha1": "51d8e701b4a783bd5725dda1cff6e95305e37cf9"
+    },
+    {
+      "content": "A day without sunshine is like night.",
+      "sha1": "6a02dbd7467b9e59fb6b2f04dedbb93dfeaff6f1"
+    },
+    {
+      "content": "A dead man cannot bite.\n\t\t-- Gnaeus Pompeius (Pompey)",
+      "sha1": "824c8c145fb1ac6d5ca239beb0bb576081ed727f"
+    },
+    {
+      "content": "A farmer is a man outstanding in his field.",
+      "sha1": "1be85b76ba5f661f3947a2be550dfb77f7f8617c"
+    },
+    {
+      "content": "\tA farmer with extremely prolific hens posted the following sign.  \"Free\nChickens.  Our Coop Runneth Over.\"",
+      "sha1": "530c86988d8bf25e96e40324feee398fe6687d42"
+    },
+    {
+      "content": "\tA father gave his teen-age daughter an untrained pedigreed pup for\nher birthday.  An hour later, when wandered through the house, he found her\nlooking at a puddle in the center of the kitchen.  \"My pup,\" she murmured\nsadly, \"runneth over.\"",
+      "sha1": "6225b4481bdaa72a8581ef9b87f59811ebb6b085"
+    },
+    {
+      "content": "A fool and his money are soon popular.",
+      "sha1": "af7f76de5b81b168fede8d2534fdc119cec1fc63"
+    },
+    {
+      "content": "A fool and your money are soon partners.",
+      "sha1": "e13ba42bd87b268fe33bb796c1b90dcb959f384f"
+    },
+    {
+      "content": "A fool must now and then be right by chance.",
+      "sha1": "8facf705f86976fa28640e6574087500e9701445"
+    },
+    {
+      "content": "A foolish consistency is the hobgoblin of little minds.\n\t\t-- Ralph Waldo Emerson",
+      "sha1": "061440af3d1123de6a5ce02c46533f2addb6066c"
+    },
+    {
+      "content": "A friend in need is a pest indeed.",
+      "sha1": "c7c0ead03cf4707b75767bc0791500ff0f911b81"
+    },
+    {
+      "content": "A full belly makes a dull brain.\n\t\t-- Ben Franklin\n\n\t\t[and the local candy machine man.  Ed]",
+      "sha1": "aa31ea8a4af53e947eaeb5050de4f7a523457e09"
+    },
+    {
+      "content": "\tA girl spent a couple hours on the phone talking to her two best\nfriends, Maureen Jones, and Maureen Brown.  When asked by her father why she\nhad been on the phone so long, she responded \"I heard a funny story today\nand I've been telling it to the Maureens.\"",
+      "sha1": "2e095aa77a74101166a2b94da9206aaf70091d21"
+    },
+    {
+      "content": "A gleekzorp without a tornpee is like a quop without a fertsneet (sort of).",
+      "sha1": "1dd2ccaad43a7b64a37d57d83142082d3c62b08d"
+    },
+    {
+      "content": "A good memory does not equal pale ink.",
+      "sha1": "8673dea4534b0f182435f50e152ac370c575b8b3"
+    },
+    {
+      "content": "A good name lost is seldom regained.  When character is gone,\nall is gone, and one of the richest jewels of life is lost forever.\n\t\t-- J. Hawes",
+      "sha1": "f0e6e9a83274e362cf816f8dfe60e8bbd3264cac"
+    },
+    {
+      "content": "A good plan today is better than a perfect plan tomorrow.\n\t\t-- Patton",
+      "sha1": "cf91b1b8a2ba0b6ff5e9a24882f26744caea0335"
+    },
+    {
+      "content": "A good reputation is more valuable than money.\n\t\t-- Publilius Syrus",
+      "sha1": "e27ceeb22a6a3d4ea3e88d2c99114754c11e6577"
+    },
+    {
+      "content": "A good scapegoat is hard to find.\nA guilty conscience is the mother of invention.\n\t\t-- Carolyn Wells",
+      "sha1": "38a227f66ea23f5e33acf31e2debce2d7a51a303"
+    },
+    {
+      "content": "A handful of friends is worth more than a wagon of gold.",
+      "sha1": "66eb3fd9d0973b2aaf4b419ea3a9370a2de7c997"
+    },
+    {
+      "content": "A handful of patience is worth more than a bushel of brains.",
+      "sha1": "a9e3de43fff0f971d9f21309ec988490c9ffa590"
+    },
+    {
+      "content": "A hermit is a deserter from the army of humanity.",
+      "sha1": "df4c9db4a4ea638ac791649343f4ae6537aa447b"
+    },
+    {
+      "content": "A homeowner's reach should exceed his grasp, or what's a weekend for?",
+      "sha1": "44d388467b8c7dfb50fc4813d1e94cf77f68127c"
+    },
+    {
+      "content": "\tA horse breeder has his young colts bottle-fed after they're three\ndays old.  He heard that a foal and his mummy are soon parted.",
+      "sha1": "77cee31ed9a272d26660c811014affe985d981d0"
+    },
+    {
+      "content": "A hundred thousand lemmings can't be wrong!",
+      "sha1": "f0313db2fecd5e105c83103c3662d4ab0cac4aef"
+    },
+    {
+      "content": "A journey of a thousand miles begins with a cash advance.",
+      "sha1": "c18178426f62fc22ebc1dd27642605bc98119890"
+    },
+    {
+      "content": "A journey of a thousand miles must begin with a single step.\n\t\t-- Lao Tsu",
+      "sha1": "96ef9ee6aadcba13054cf61311addc6448f38b76"
+    },
+    {
+      "content": "A journey of a thousand miles starts under one's feet.\n\t\t-- Lao Tsu",
+      "sha1": "55ab8b9b12d3799c0deadda6181405081a5c0cca"
+    },
+    {
+      "content": "A king's castle is his home.",
+      "sha1": "77f388126395bb10c3980f788a017e068cc8d262"
+    },
+    {
+      "content": "A lie in time saves nine.",
+      "sha1": "f4faa64152663322a8901256df9edcd8d518c148"
+    },
+    {
+      "content": "A lie is an abomination unto the Lord and a very present help in time of\ntrouble.\n\t\t-- Adlai Stevenson",
+      "sha1": "3b709f16757f9a0e077e1f8e512b22892dc9d464"
+    },
+    {
+      "content": "A likely impossibility is always preferable to an unconvincing possibility.\n\t\t-- Aristotle",
+      "sha1": "a089d24ccf4c29c5d80e7273936d766c6b4639f8"
+    },
+    {
+      "content": "A little experience often upsets a lot of theory.",
+      "sha1": "bbfba6808f7492041154b8d829bd1ec4dfee9933"
+    },
+    {
+      "content": "A little inaccuracy saves a world of explanation.\n\t\t-- C.E. Ayres",
+      "sha1": "64582bda20a22b82e8ad8244ddc88d50a2cd47a9"
+    },
+    {
+      "content": "A little inaccuracy sometimes saves tons of explanation.\n\t\t-- H.H. Munro, \"Saki\"",
+      "sha1": "67856c351ce4a6bfb88f9e5c2d44a2d248725724"
+    },
+    {
+      "content": "A lost ounce of gold may be found, a lost moment of time never.",
+      "sha1": "592d23554f26c753b3b3616e6b5ca4e9a8e42a2a"
+    },
+    {
+      "content": "A man gazing at the stars is proverbially at the mercy of the puddles\nin the road.\n\t\t-- Alexander Smith",
+      "sha1": "a4ab85492b0cb7c8ed4865f153d0a3287a0f8604"
+    },
+    {
+      "content": "A man who carries a cat by its tail learns something he can learn\nin no other way.",
+      "sha1": "c1a550a169536ef9dc7bca0628e13ae70b598f9d"
+    },
+    {
+      "content": "A man with one watch knows what time it is.\nA man with two watches is never quite sure.",
+      "sha1": "6f9c049654fad9e2ff44e09a01fd7cc356a72fae"
+    },
+    {
+      "content": "A man's best friend is his dogma.",
+      "sha1": "d9de5eb86e55db603cee72644e25b63ab3556590"
+    },
+    {
+      "content": "A man's house is his castle.\n\t\t-- Sir Edward Coke",
+      "sha1": "0843c60b13f58cf959f2b11ac15a987fd09946a1"
+    },
+    {
+      "content": "A man's house is his hassle.",
+      "sha1": "d61c50f28682cfaa1d31e830bcbbdd771ffdabe4"
+    },
+    {
+      "content": "A mind is a wonderful thing to waste.",
+      "sha1": "e9fbdbbfee62d0ff190173ad20706f00503b2c62"
+    },
+    {
+      "content": "A mushroom cloud has no silver lining.",
+      "sha1": "7daa6177c7aeabda6e67827f28a0d68445bee0bd"
+    },
+    {
+      "content": "A penny saved has not been spent.",
+      "sha1": "bcfadbdaba58f12f2c802c74959a53060cfb894e"
+    },
+    {
+      "content": "A penny saved is ridiculous.",
+      "sha1": "14e5be9bbbbb6e12c4798ee6e72627744ea5cadf"
+    },
+    {
+      "content": "A pipe gives a wise man time to think and a fool something to stick in his\nmouth.",
+      "sha1": "69452419f29476309bb887aabb56726527b0fffa"
+    },
+    {
+      "content": "A place for everything and everything in its place.\n\t\t-- Isabella Mary Beeton, \"The Book of Household Management\"\n \n\t[Quoted in \"VMS Internals and Data Structures\", V4.4, when\n\t referring to memory management system services.]",
+      "sha1": "446639a69b3319d2bbcc3bd1d5e9f37769bd84cc"
+    },
+    {
+      "content": "A platitude is simply a truth repeated till people get tired of hearing it.\n\t\t-- Stanley Baldwin",
+      "sha1": "d98dee4dc87b199104e0ec32e3181f058d489e26"
+    },
+    {
+      "content": "A plethora of individuals with expertise in culinary techniques contaminate\nthe potable concoction produced by steeping certain edible nutriments.",
+      "sha1": "b493c96b3ddd07449c6e70d9ca511f0f3950d221"
+    },
+    {
+      "content": "A plucked goose doesn't lay golden eggs.",
+      "sha1": "14c4c0d2169ff39bc02ef0e65ca1fa3a94d1b9fd"
+    },
+    {
+      "content": "A pound of salt will not sweeten a single cup of tea.",
+      "sha1": "f53b243323403776b3564d3c121dafd522689f01"
+    },
+    {
+      "content": "\"A radioactive cat has eighteen half-lives.\"",
+      "sha1": "d5cd1e546729be564643fb33576a81210d447653"
+    },
+    {
+      "content": "A rolling stone gathers momentum.",
+      "sha1": "f7accfee70a66f9b0546135d8b11a4160e68264b"
+    },
+    {
+      "content": "A rolling stone gathers no moss.\n\t\t-- Publilius Syrus",
+      "sha1": "669ccca17c440f3a250252df622b343adaa7c350"
+    },
+    {
+      "content": "A shortcut is the longest distance between two points.",
+      "sha1": "5d6f035b7a4737ce26333d353d4147e0527db6cb"
+    },
+    {
+      "content": "A sinking ship gathers no moss.\n\t\t-- Donald Kaul",
+      "sha1": "27f570301e101d7adf5442f525a2c11de7f9e502"
+    },
+    {
+      "content": "A Smith & Wesson beats four aces.",
+      "sha1": "fbf057cd65a01782158808586f4baf969f73f5d6"
+    },
+    {
+      "content": "A snake lurks in the grass.\n\t\t-- Publius Vergilius Maro (Virgil)",
+      "sha1": "11a2fb55810c875003388b334d2cb24d28aef1e7"
+    },
+    {
+      "content": "A soft answer turneth away wrath; but grievous words stir up anger.\n\t\t-- Proverbs 15:1",
+      "sha1": "e01e42041e3908eeca6d768d4bb1ad2ea65a3729"
+    },
+    {
+      "content": "A soft drink turneth away company.",
+      "sha1": "6114fbf6e694e2dca8bda9696c864ec05c96707b"
+    },
+    {
+      "content": "A song in time is worth a dime.",
+      "sha1": "ce21fcec532ab1c814fd573632044c80d2bbc03c"
+    },
+    {
+      "content": "A stitch in time saves nine.",
+      "sha1": "077da0956a761e873a60a02f5e6df4725a88f935"
+    },
+    {
+      "content": "A violent man will die a violent death.\n\t\t-- Lao Tsu",
+      "sha1": "2530703eafb8a1db8afd1bda741b1c66453630c7"
+    },
+    {
+      "content": "A watched clock never boils.",
+      "sha1": "9c568160c674c7ea1a3d148910d92815973e1fdc"
+    },
+    {
+      "content": "A wise man can see more from a mountain top than a fool can from the bottom\nof a well.",
+      "sha1": "956a5c28d763f2d67c7835446767136815ed0aef"
+    },
+    {
+      "content": "A wise man can see more from the bottom of a well than a fool can from a\nmountain top.",
+      "sha1": "00f9c87a9d9dfdc7972e23ad7d0194e68ce98cd5"
+    },
+    {
+      "content": "A wise person makes his own decisions, a weak one obeys public opinion.\n\t\t-- Chinese proverb",
+      "sha1": "37ebb7e8e05529e223ebe8e31b2b1ba94c269885"
+    },
+    {
+      "content": "A witty saying proves nothing, but saying something pointless gets\npeople's attention.",
+      "sha1": "5b6d9b6bc007dce7394e48e0916b54eed3959a66"
+    },
+    {
+      "content": "A witty saying proves nothing.\n\t\t-- Voltaire",
+      "sha1": "f4c8d60c1b4bcad455e7129760f85ee50672fb63"
+    },
+    {
+      "content": "A word to the wise is enough.\n\t\t-- Miguel de Cervantes",
+      "sha1": "877261b1230b39580891f166f46b338bb0b8ae50"
+    },
+    {
+      "content": "Above all else -- sky.",
+      "sha1": "6f1ed0a41e080575f6f9c5e53dac20932e6b2473"
+    },
+    {
+      "content": "Above all things, reverence yourself.",
+      "sha1": "71eb951cceb71bcec7b05f1f477a8df9656323d1"
+    },
+    {
+      "content": "Absence makes the heart forget.",
+      "sha1": "c12caca4d6a5a1bbca351269029c53d2b2025439"
+    },
+    {
+      "content": "Absence makes the heart go wander.",
+      "sha1": "ae14937d41c5c30b01353ba0a78267396019732e"
+    },
+    {
+      "content": "Absence makes the heart grow fonder -- of somebody else.",
+      "sha1": "e49a28a86a8a948dceda929436ca492c01d5e423"
+    },
+    {
+      "content": "Absence makes the heart grow fonder.\n\t\t-- Sextus Aurelius",
+      "sha1": "97090c443db5e9f7df95db92cd98f22877993498"
+    },
+    {
+      "content": "Absence makes the heart grow frantic.",
+      "sha1": "475b0bef1e8ea4d2feb5edc24144d73e47c97723"
+    },
+    {
+      "content": "Absolutum obsoletum.  (If it works, it's out of date.)\n\t\t-- Stafford Beer",
+      "sha1": "282d9fa6f9353ec19dbb65cd19130f473818432f"
+    },
+    {
+      "content": "Ad astra per aspera.\n\t[To the stars by aspiration.]",
+      "sha1": "b07d6d024eef49c207147ac3b8af5258b9097939"
+    },
+    {
+      "content": "Adde parvum parvo manus acervus erit.\n\t[Add little to little and there will be a big pile.]\n\t\t-- Ovid",
+      "sha1": "e9e09e8e620c4907de2d00dba47dcf80b78a5bf8"
+    },
+    {
+      "content": "Advice from an old carpenter: measure twice, saw once.",
+      "sha1": "6c8d2597739aecdd1c2654ca96879d74c4ee7331"
+    },
+    {
+      "content": "After the game the king and the pawn go in the same box.\n\t\t-- Italian proverb",
+      "sha1": "ac9373e136acd1034f55fe772519185ef1b74902"
+    },
+    {
+      "content": "Age and treachery will always overcome youth and skill.",
+      "sha1": "cf5e33e61cf5ce60c441b10b3d3fdcbd1339c02a"
+    },
+    {
+      "content": "Age before beauty; and pearls before swine.\n\t\t-- Dorothy Parker",
+      "sha1": "f98e895b830ad205a8185caffafa2cc6f661e0ea"
+    },
+    {
+      "content": "Aim for the moon.  If you miss, you may hit a star.\n\t\t-- W. Clement Stone",
+      "sha1": "3fdb05eaecc5ed7ef3748a67f0fe6d0f640bfa24"
+    },
+    {
+      "content": "Ain't no right way to do a wrong thing.\n\t\t-- The Mad Dogtender",
+      "sha1": "bc454e98c985265c0ae078712bce6db66982cb0c"
+    },
+    {
+      "content": "Alas, I am dying beyond my means.\n\t\t-- Oscar Wilde [as he sipped champagne on his deathbed]",
+      "sha1": "df26b0544c2a710d2a5016eb547b7603c293ecbb"
+    },
+    {
+      "content": "Alimony is the high cost of leaving.",
+      "sha1": "c20cb0803bc2e2c2448da0462eb9fd969b827ca1"
+    },
+    {
+      "content": "All a man needs out of life is a place to sit 'n' spit in the fire.",
+      "sha1": "25dc5c19d4ee09b3c6323373b160405517a360e5"
+    },
+    {
+      "content": "All articles that coruscate with resplendence are not truly auriferous.",
+      "sha1": "60b4b12907110ca517104188e45d1ce52e4f045e"
+    },
+    {
+      "content": "-- All articles that coruscate with resplendence are not truly auriferous.\n-- When there are visible vapors having the prevenience in ignited\n\tcarbonaceous materials, there is conflagration.\n-- Sorting on the part of mendicants must be interdicted.\n-- A plethora of individuals wither expertise in culinary techniques vitiated\n\tthe potable concoction produced by steeping certain coupestibles.\n-- Eleemosynary deeds have their initial incidence intramurally.\n-- Male cadavers are incapable of yielding testimony.\n-- Individuals who make their abode in vitreous edifices would be well\n\tadvised to refrain from catapulting projectiles.",
+      "sha1": "91d7255213abad8d9af60f1ffabe16b0b1b9e575"
+    },
+    {
+      "content": "All I kin say is when you finds yo'self wanderin' in a peach orchard,\nya don't go lookin' for rutabagas.\n\t\t-- Kingfish",
+      "sha1": "d435749c58f9a5b19061530d7f17ebf8b684d561"
+    },
+    {
+      "content": "All is fear in love and war.",
+      "sha1": "7befd3ace3e55ce219e8986d9b7ca38d27d2f3cb"
+    },
+    {
+      "content": "All is well that ends well.\n\t\t-- John Heywood",
+      "sha1": "231d8aa92bfc2090759ce63e5e95230f9ae8485c"
+    },
+    {
+      "content": "All that glitters has a high refractive index.",
+      "sha1": "c578de80278a683cadc2926d93fb46a53852ffda"
+    },
+    {
+      "content": "All that glitters is not gold; all that wander are not lost.",
+      "sha1": "f2bc39ff1935aec664bd6b68ad41832b137ca749"
+    },
+    {
+      "content": "All things are possible, except for skiing through a revolving door.",
+      "sha1": "8340b9714503315a0038fd3cd3f89f98d1ed3bf9"
+    },
+    {
+      "content": "All things being equal, you are bound to lose.",
+      "sha1": "61efe63513090d84598002ce490a2a2662babf52"
+    },
+    {
+      "content": "All true wisdom is found on T-shirts.",
+      "sha1": "8676a8b4b54bf1a61b383181838d897b83c358fe"
+    },
+    {
+      "content": "All's well that ends.",
+      "sha1": "a5f8e4ea6444b38978c2f51f3ab1c84f8aa7965a"
+    },
+    {
+      "content": "An aphorism is never exactly true; it is either a half-truth or\none-and-a-half truths.\n\t\t-- Karl Kraus",
+      "sha1": "a13db048d2730ad3c50072b9e2a35380682f5fae"
+    },
+    {
+      "content": "An apple a day makes 365 apples a year.",
+      "sha1": "f6387f63a9c88fdffe3889dc5e0a4bf4208d3ee6"
+    },
+    {
+      "content": "An apple every eight hours will keep three doctors away.",
+      "sha1": "b0fa53740ba372ba1dcf2cd53eda20de3d68f38a"
+    },
+    {
+      "content": "An idle mind is worth two in the bush.",
+      "sha1": "fcac96d409cc8145e2d89994dde0a93a48c97c0f"
+    },
+    {
+      "content": "An ounce of clear truth is worth a pound of obfuscation.",
+      "sha1": "80c203e6fb2e07b56e44b58362d45efb2abd714b"
+    },
+    {
+      "content": "An ounce of hypocrisy is worth a pound of ambition.\n\t\t-- Michael Korda",
+      "sha1": "801d4892ee484a9fe8f76c7d029d08c70c513173"
+    },
+    {
+      "content": "An ounce of mother is worth a ton of priest.\n\t\t-- Spanish proverb",
+      "sha1": "fe29dbd0026ccf16b6334838146d5c0aed371bc9"
+    },
+    {
+      "content": "\"An ounce of prevention is worth a pound of purge.\"",
+      "sha1": "76efd5a7d3c3cff3746595f1373e333a42d26a2f"
+    },
+    {
+      "content": "And tomorrow will be like today, only more so.\n\t\t-- Isaiah 56:12, New Standard Version",
+      "sha1": "eec208a3f31940ab69f61e941130902000f8a2a9"
+    },
+    {
+      "content": "Answer a fool according to his folly, lest he be wise in his own conceit.\n\t\t-- Proverbs, 26:5",
+      "sha1": "0a5fb275ef4e46a4501eaa83122110803d1ec2ad"
+    },
+    {
+      "content": "Any great truth can -- and eventually will -- be expressed as a cliche --\na cliche is a sure and certain way to dilute an idea.  For instance, my\ngrandmother used to say, \"The black cat is always the last one off the fence.\"\nI have no idea what she meant, but at one time, it was undoubtedly true.\n\t\t-- Solomon Short",
+      "sha1": "ef893a261bb4b4c9624cd38219631ff08602e823"
+    },
+    {
+      "content": "Any philosophy that can be put \"in a nutshell\" belongs there.\n\t\t-- Sydney J. Harris",
+      "sha1": "6306e8e9dbc3f6519da0bfd2aaee3d6da135b1c3"
+    },
+    {
+      "content": "Any road followed to its end leads precisely nowhere.\nClimb the mountain just a little to test it's a mountain.\nFrom the top of the mountain, you cannot see the mountain.\n\t\t-- Bene Gesserit proverb, \"Dune\"",
+      "sha1": "9f88d8a2a4058a5489e796c186e3e51152e871cf"
+    },
+    {
+      "content": "Anything is possible on paper.\n\t\t-- Ron McAfee",
+      "sha1": "48523952be87a414cbfb68cf755aaf49486fb93a"
+    },
+    {
+      "content": "Anything is possible, unless it's not.",
+      "sha1": "5a19c080cd72a777de19978a9f7643073607a215"
+    },
+    {
+      "content": "Anything that is worth doing has been done frequently.  Things hitherto\nundone should be given, I suspect, a wide berth.\n\t\t-- Max Beerbohm, \"Mainly on the Air\"",
+      "sha1": "9aaab8ba5cf15de270b1592094c5bc7d2bd1edc9"
+    },
+    {
+      "content": "Anything worth doing is worth overdoing.",
+      "sha1": "892aabd3078ee6ff3d5b36a3de7ae67739c984c7"
+    },
+    {
+      "content": "As well look for a needle in a bottle of hay.\n\t\t-- Miguel de Cervantes",
+      "sha1": "59a3667c06a2fe300f378b60b28e6e28140bb70d"
+    },
+    {
+      "content": "Ask not for whom the Bell tolls, and you will pay only the station-to-station\nrate.\n\t\t-- Howard Kandel",
+      "sha1": "d09655bf410ec169928b55ef1e1ac1bbbb4e8753"
+    },
+    {
+      "content": "Ask not for whom the telephone bell tolls...\nif thou art in the bathtub, it tolls for thee.",
+      "sha1": "58f1d3041c7b3d05a5a7423d1ead8c01fb36a243"
+    },
+    {
+      "content": "Avoid cliches like the plague.  They're a dime a dozen.",
+      "sha1": "d03114724fe2f00c5ff9865c67382a5604fc2331"
+    },
+    {
+      "content": "Be both a speaker of words and a doer of deeds.\n\t\t-- Homer",
+      "sha1": "632feabf68c51ee4cf65cb9936f3f0d89cc2c166"
+    },
+    {
+      "content": "Be sure to evaluate the bird-hand/bush ratio.",
+      "sha1": "e80220a3ac1c506b63b57aae93e8baf94e39c72d"
+    },
+    {
+      "content": "Beggars should be no choosers.\n\t\t-- John Heywood",
+      "sha1": "83544adbb42a7d6394e92a7852675c735c0f29d0"
+    },
+    {
+      "content": "Better dead than mellow.",
+      "sha1": "89bda660fbb29454ff651fe03d94f977ab1ec1c0"
+    },
+    {
+      "content": "Better hope you get what you want before you stop wanting it.",
+      "sha1": "7d131ae390406ee502aef4a4df96dbb09ae07d15"
+    },
+    {
+      "content": "Better late than never.\n\t\t-- Titus Livius (Livy)",
+      "sha1": "190ef1ffd5eac290451e3230bc6a7a70c403d3aa"
+    },
+    {
+      "content": "Better living a beggar than buried an emperor.",
+      "sha1": "6dfacfd6c442db11b2f2517fec2676be2d59d880"
+    },
+    {
+      "content": "Better to be nouveau than never to have been riche at all.",
+      "sha1": "a208e7b4547faea5d90efdbdc2050f2c1014e66c"
+    },
+    {
+      "content": "Better to light one candle than to curse the darkness.\n\t\t-- motto of the Christopher Society",
+      "sha1": "efa5fab8b670843a59fcfba396eb04bdaa9e3ffe"
+    },
+    {
+      "content": "Better tried by twelve than carried by six.\n\t\t-- Jeff Cooper",
+      "sha1": "53b8770562540949a7707848d38b578f4967a560"
+    },
+    {
+      "content": "Beware of friends who are false and deceitful.",
+      "sha1": "24203623aa8dacd652c8c27fbdbf543841407b83"
+    },
+    {
+      "content": "Beware of geeks bearing graft.",
+      "sha1": "8d51c972c9920fa6f22966bc8bfbd6d3c9744588"
+    },
+    {
+      "content": "Call on God, but row away from the rocks.\n\t\t-- Indian proverb",
+      "sha1": "e633e907665816d389884306de20c72ba52a6c2b"
+    },
+    {
+      "content": "Charity begins at home.\n\t\t-- Publius Terentius Afer (Terence)",
+      "sha1": "ff342884c80d26fdff361741b4a03e58e6cbb6e5"
+    },
+    {
+      "content": "Cheap things are of no value, valuable things are not cheap.",
+      "sha1": "8b5c5902526c0e418aba793b31bfc48c4115688a"
+    },
+    {
+      "content": "Cleanliness becomes more important when godliness is unlikely.\n\t\t-- P.J. O'Rourke",
+      "sha1": "4b208b6ed493871ca1b29ca6c83cf78921fe6bd1"
+    },
+    {
+      "content": "Cleanliness is next to impossible.",
+      "sha1": "140220194994af42d8b9534a86381e0b7b51cc2e"
+    },
+    {
+      "content": "Cogito cogito ergo cogito sum --\n\"I think that I think, therefore I think that I am.\"\n\t\t-- Ambrose Bierce, \"The Devil's Dictionary\"",
+      "sha1": "3e085edec15afa0edabf345f50440059ec9063df"
+    },
+    {
+      "content": "\"Cogito ergo I'm right and you're wrong.\"\n\t\t-- Blair Houghton",
+      "sha1": "18d28563d7ec732323869054873e71e2f47b1f62"
+    },
+    {
+      "content": "Curiosity killed the cat, but satisfaction brought her back.",
+      "sha1": "0fe6f9068e224321e0fc51ae65937208ac9d78af"
+    },
+    {
+      "content": "Desist from enumerating your fowl prior to their emergence from the shell.",
+      "sha1": "35954a040cdb41f5759a9b0302bea9a9314a4021"
+    },
+    {
+      "content": "Do not count your chickens before they are hatched.\n\t\t-- Aesop",
+      "sha1": "c16b511635a4a003fd213b9806dc53beb5af8e99"
+    },
+    {
+      "content": "Do unto others before they undo you.",
+      "sha1": "374a7644aaa48bf94fca401cc443d3fcaaf2aa60"
+    },
+    {
+      "content": "Do, or do not; there is no try.",
+      "sha1": "4e0895e853a4029e70a7b5378818da27621ed62f"
+    },
+    {
+      "content": "Doing gets it done.",
+      "sha1": "4e6bbf525e1e325f07a09d11b098e6063e61594f"
+    },
+    {
+      "content": "Don't get even -- get odd!",
+      "sha1": "d537c41c7aab77d1a56031ba1e831ff7197619b6"
+    },
+    {
+      "content": "Don't get mad, get even.\n\t\t-- Joseph P. Kennedy\n\nDon't get even, get jewelry.\n\t\t-- Anonymous",
+      "sha1": "135c7b7ab56cdb2382392c387e60a622639f36fd"
+    },
+    {
+      "content": "Don't get mad, get interest.",
+      "sha1": "6ab705f32d66b7f094161f2e67e28d05b739bbb9"
+    },
+    {
+      "content": "Don't put off for tomorrow what you can do today because if you enjoy it today,\nyou can do it again tomorrow.",
+      "sha1": "c4d22828e2a628c4913aaa323a2c73fb49903a9e"
+    },
+    {
+      "content": "Eschew obfuscation.",
+      "sha1": "ad76fc96f156158023fcd7219a01f9faefef1ee7"
+    },
+    {
+      "content": "Every path has its puddle.",
+      "sha1": "da18118b08039a5269de82dee01b40219d2bb9ff"
+    },
+    {
+      "content": "Every silver lining has a cloud around it.",
+      "sha1": "3e7f8183d43171d1e9c378b19aa72575c54f9655"
+    },
+    {
+      "content": "Every solution breeds new problems.",
+      "sha1": "fc3d78d9b960ad55fcb6a34222d4bc42cdd78468"
+    },
+    {
+      "content": "Expedience is the best teacher.",
+      "sha1": "d2b7ba8290603f0d785785beb8ffd9c1b6ba2401"
+    },
+    {
+      "content": "Experience is a good teacher, but she sends in terrific bills.\n\t\t-- Minna Antrim, \"Naked Truth and Veiled Allusions\"",
+      "sha1": "4fc5bd7ae58f4784a07c42c6201d57dde32b7fdd"
+    },
+    {
+      "content": "Familiarity breeds attempt.",
+      "sha1": "4c3570ddcf6722fd3809b8a059f21ce1dd6fc190"
+    },
+    {
+      "content": "Flattery will get you everywhere.",
+      "sha1": "36cb623008d19d71b118f542196df9cb56e80c5a"
+    },
+    {
+      "content": "Flee at once, all is discovered.",
+      "sha1": "2242dd1fc68e867f3c4610775f53c9f08f3316a9"
+    },
+    {
+      "content": "For fools rush in where angels fear to tread.\n\t\t-- Alexander Pope",
+      "sha1": "4e0abf53af194ae2c44e6997e8837bec7b1d82e7"
+    },
+    {
+      "content": "Forgive and forget.\n\t\t-- Cervantes",
+      "sha1": "85d911a608b01f0bcd67405716296dfe3be2311d"
+    },
+    {
+      "content": "Fortune and love befriend the bold.\n\t\t-- Ovid",
+      "sha1": "17be9dec78dc0ae37366e42678d063cd6d40bd84"
+    },
+    {
+      "content": "Fortune favors the lucky.",
+      "sha1": "6600f5f4a738b7439021d0185d2596990fb73b7d"
+    },
+    {
+      "content": "Fortune finishes the great quotations, #12\n\n\tThose who can, do.  Those who can't, write the instructions.",
+      "sha1": "3eb4c5454f09b979007a65f0d16e00bc9021ac42"
+    },
+    {
+      "content": "Fortune finishes the great quotations, #3\n\n\tBirds of a feather flock to a newly washed car.",
+      "sha1": "655d0a3f6284628f39b5488e252b9c3f0640d214"
+    },
+    {
+      "content": "Fortune finishes the great quotations, #9\n\n\tA word to the wise is often enough to start an argument.",
+      "sha1": "17aaf4e932aebadc0ce7b7e3f88928b3f3064afb"
+    },
+    {
+      "content": "Freedom from incrustation of grime is contiguous to rectitude.",
+      "sha1": "cec8549b0336ace76b9457883edc0d7e956f9afe"
+    },
+    {
+      "content": "Genius is pain.\n\t\t-- John Lennon",
+      "sha1": "62e34ef7d57939ab97f4f1dbe6345fe478cc1b41"
+    },
+    {
+      "content": "Given sufficient time, what you put off doing today will get done by itself.",
+      "sha1": "7f50204b46c50a2306bfec6730f21c76609c2b89"
+    },
+    {
+      "content": "God gave man two ears and one tongue so that we listen twice as much as\nwe speak.\n\t\t-- Arab proverb",
+      "sha1": "78638bb6740d291cf3f07186269a8c0ebc332c97"
+    },
+    {
+      "content": "Happiness adds and multiplies as we divide it with others.",
+      "sha1": "0f85ccf6380832cc6af2557aba92b9ac69981b7a"
+    },
+    {
+      "content": "Happiness is the greatest good.",
+      "sha1": "151ae0f142cc388ef42c14ab30b3646c22f53c5d"
+    },
+    {
+      "content": "Haste makes waste.\n\t\t-- John Heywood",
+      "sha1": "0e695e47f44f318cd81e44fba02a612ebe282fd6"
+    },
+    {
+      "content": "Have a nice day!",
+      "sha1": "c828fbfbaf84cbcd4e3219d8cdf216ad13847cb4"
+    },
+    {
+      "content": "Have a nice diurnal anomaly.",
+      "sha1": "20ef1942460614e9853d65d99872485896225866"
+    },
+    {
+      "content": "Have an adequate day.",
+      "sha1": "0170062a1ff342391768d7478189908a8fd6fe7c"
+    },
+    {
+      "content": "He that bringeth a present, findeth the door open.\n\t\t-- Scottish proverb.",
+      "sha1": "25ea97f968c8c92194541f0530e6cf9dd08eebfc"
+    },
+    {
+      "content": "He who fears the unknown may one day flee from his own backside.\n\t\t-- Sinbad",
+      "sha1": "992d8dd25bd3fd0cf0b0e0764aaf8d7698de6587"
+    },
+    {
+      "content": "He who fights and runs away lives to fight another day.",
+      "sha1": "988be24b3ac93fe5a571abedb976d81ee4122934"
+    },
+    {
+      "content": "He who foresees calamities suffers them twice over.",
+      "sha1": "02e6ab1a33300dea7448c8c3c1d570b2abb9ac51"
+    },
+    {
+      "content": "He who has a shady past knows that nice guys finish last.",
+      "sha1": "31dc1cc80250c5a7288c5a40645ce1139106ba34"
+    },
+    {
+      "content": "He who has imagination without learning has wings but no feet.",
+      "sha1": "dfc9df2086e1751eda6d9ce5ea7739ff57fc3800"
+    },
+    {
+      "content": "He who has the courage to laugh is almost as much a master of the world\nas he who is ready to die.\n\t\t-- Giacomo Leopardi",
+      "sha1": "93d4ec66af1c1bfeb4dc516095270a30cb28b06c"
+    },
+    {
+      "content": "He who hates vices hates mankind.",
+      "sha1": "49102fb21a336a2156248826b6e0d5bc5154ff35"
+    },
+    {
+      "content": "He who hesitates is last.",
+      "sha1": "bb56cd5b78664f83522b45ea8c2faa734a8d8c9b"
+    },
+    {
+      "content": "He who hesitates is sometimes saved.",
+      "sha1": "0a2ae1226cdbae30dcd5f876cc69e09b251fffba"
+    },
+    {
+      "content": "He who laughs has not yet heard the bad news.\n\t\t-- Bertolt Brecht",
+      "sha1": "c0b8a5820d97ac7fa3dc3d02121ba1709d487857"
+    },
+    {
+      "content": "He who laughs last -- missed the punch line.",
+      "sha1": "f0f84d3c6825a1dcc2a9f45c3d5fe59a5c23a260"
+    },
+    {
+      "content": "He who laughs last didn't get the joke.",
+      "sha1": "59409a0797ce650fdbb4fad0f5d0f3b42ab41c33"
+    },
+    {
+      "content": "He who laughs last hasn't been told the terrible truth.",
+      "sha1": "30b0f2443615a442d36a7d79f7bb2e910f28b6fc"
+    },
+    {
+      "content": "He who laughs last is probably your boss.",
+      "sha1": "621b12c5e5f5764727aa736de11421857c894870"
+    },
+    {
+      "content": "He who laughs last usually had to have joke explained.",
+      "sha1": "5d682ffb639bf3084ba2ef373137e972e50054bc"
+    },
+    {
+      "content": "He who laughs, lasts.",
+      "sha1": "95471af0dc637d625a43c15f31c95298330f4ba4"
+    },
+    {
+      "content": "He who lives without folly is less wise than he believes.",
+      "sha1": "8265b02934c99e05e3b95ab1b92872eb867668e8"
+    },
+    {
+      "content": "He who makes a beast of himself gets rid of the pain of being a man.\n\t\t-- Dr. Johnson",
+      "sha1": "ee2a56a77dbb841fdc01da2871b6702d660cf647"
+    },
+    {
+      "content": "Honesty is the best policy, but insanity is a better defense.",
+      "sha1": "e7c7193bf56b27112f2f56f96606ef1287a858e3"
+    },
+    {
+      "content": "Honesty's the best policy.\n\t\t-- Miguel de Cervantes",
+      "sha1": "bd4cc170bf03083890901a62b57baa0aedf4b1c3"
+    },
+    {
+      "content": "Honi soit qui mal y pense.\n\t[Evil to him who evil thinks.]\n\t\t-- Motto of the Order of the Garter (est. Edward III)",
+      "sha1": "55e8d15fe046eb90c69d3352361410dedb89b163"
+    },
+    {
+      "content": "How sharper than a hound's tooth it is to have a thankless serpent.",
+      "sha1": "aa5f7f73f4edc599828b452d2bf292495dc86845"
+    },
+    {
+      "content": "How you look depends on where you go.",
+      "sha1": "3350d08dddc0fbc6da88ffdb9a1d8cd033dc6b99"
+    },
+    {
+      "content": "I am a man: nothing human is alien to me.\n\t\t-- Publius Terentius Afer (Terence)",
+      "sha1": "86b2e1bd4f4a6936432747051c024843ac6a18fc"
+    },
+    {
+      "content": "I doubt, therefore I might be.",
+      "sha1": "9cefcb6bb75c0a16f71e437f51f03593bae52824"
+    },
+    {
+      "content": "I know on which side my bread is buttered.\n\t\t-- John Heywood",
+      "sha1": "739d42d872f84309624b442152287f235110b740"
+    },
+    {
+      "content": "I think, therefore I am... I think.",
+      "sha1": "b707581158c295f916d09e1f412110d780134ec6"
+    },
+    {
+      "content": "I'll turn over a new leaf.\n\t\t-- Miguel de Cervantes",
+      "sha1": "1a848c3822b30487c2352952a75b60176e6ee2ad"
+    },
+    {
+      "content": "If a fool persists in his folly he shall become wise.\n\t\t-- William Blake",
+      "sha1": "ffa80c1442414d3eedf2d27e194fb6b0e39bd769"
+    },
+    {
+      "content": "If anything can go wrong, it will.",
+      "sha1": "3a694c77ef3719fc695a2b2279c4a738d5b2257f"
+    },
+    {
+      "content": "If at first you do succeed, try to hide your astonishment.",
+      "sha1": "aedbb22b3c90b4fc38fbe2ab19ae3ad8741ef5b3"
+    },
+    {
+      "content": "If at first you don't succeed, destroy all evidence that you tried.",
+      "sha1": "a1b1edee198e69e1c7650c5e1fb33d137ac47b16"
+    },
+    {
+      "content": "If at first you don't succeed, quit; don't be a nut about success.",
+      "sha1": "2ad15c09f01e957f61d19e73d3d289844bb3bf38"
+    },
+    {
+      "content": "If at first you don't succeed, redefine success.",
+      "sha1": "e18974344762fda0f708d5a9b7d297fa570ce315"
+    },
+    {
+      "content": "If at first you don't succeed, try, try again.\n\t\t-- W.E. Hickson",
+      "sha1": "34b6f1ad24fb91aa8fda4e80a9bc3261f572ff90"
+    },
+    {
+      "content": "If at first you don't succeed, you're doing about average.\n\t\t-- Leonard Levinson",
+      "sha1": "246a5b282f97a26387ae6932b3d73d51ecbfdd62"
+    },
+    {
+      "content": "If happiness is in your destiny, you need not be in a hurry.\n\t\t-- Chinese proverb",
+      "sha1": "ff93a141106a786fea0a8cb09612a4f793335074"
+    },
+    {
+      "content": "If I cannot bend Heaven, I shall move Hell.\n\t\t-- Publius Vergilius Maro (Virgil)",
+      "sha1": "51034c2b64df6d80b2cf91956258e3addebf24c0"
+    },
+    {
+      "content": "If in doubt, mumble.",
+      "sha1": "d4207664d9913116412399c90b5c05116e3ffd9b"
+    },
+    {
+      "content": "If it ain't broke, don't fix it.",
+      "sha1": "12e4529dfc89bcceea038e442651e3be874630d4"
+    },
+    {
+      "content": "If it heals good, say it.",
+      "sha1": "cf3385ec2c31e77ba1c30a9492b68709bb72e207"
+    },
+    {
+      "content": "If the shoe fits, it's ugly.",
+      "sha1": "22c4c3d2c6dfdcb32fd4fe9711023ee72c71dd34"
+    },
+    {
+      "content": "If the thunder don't get you, then the lightning will.",
+      "sha1": "a0fcfc4955de6397a79b6aed49d9e7f9e50de607"
+    },
+    {
+      "content": "If there is no wind, row.\n\t\t-- Polish proverb",
+      "sha1": "4271a52db03fd1e7a462a153fc32a19b79c3b735"
+    },
+    {
+      "content": "If two wrongs don't make a right, try three.\n\t\t-- Laurence J. Peter",
+      "sha1": "8ac81bd992b84f607fd08ab11bacf92b9733cbe0"
+    },
+    {
+      "content": "If wishes were horses, then beggars would be thieves.",
+      "sha1": "190ac00e66bdfaac5970edae3c9d3ed8dab5bd39"
+    },
+    {
+      "content": "If you wish to be happy for one hour, get drunk.\nIf you wish to be happy for three days, get married.\nIf you wish to be happy for a month, kill your pig and eat it.\nIf you wish to be happy forever, learn to fish.\n\t\t-- Chinese Proverb",
+      "sha1": "6e52c9c9302d645198fa04d51ed751910802562d"
+    },
+    {
+      "content": "If you wish to succeed, consult three old people.",
+      "sha1": "631a5cb1eaa72b3316a1a76b34273df67fe5a3ed"
+    },
+    {
+      "content": "If you would keep a secret from an enemy, tell it not to a friend.",
+      "sha1": "874a241bbd9c51ae379be74a13adf711a381688f"
+    },
+    {
+      "content": "In charity there is no excess.\n\t\t-- Francis Bacon",
+      "sha1": "dfc603e9edcfb81e2d1e10a02246327c675e20b6"
+    },
+    {
+      "content": "In God we trust; all else we walk through.",
+      "sha1": "77431558c72cbe2c149c402e37a1bbd2dea8edb5"
+    },
+    {
+      "content": "In this world, nothing is certain but death and taxes.\n\t\t-- Benjamin Franklin",
+      "sha1": "b4da75f974b76352464517847ad65657a38ce6ad"
+    },
+    {
+      "content": "Inspiration without perspiration is usually sterile.",
+      "sha1": "1735501cf254b1dd920d7ba5b1ad56ec06a49994"
+    },
+    {
+      "content": "Integrity has no need for rules.",
+      "sha1": "147740719b65380e9273a57464f46a0d39ba2d6b"
+    },
+    {
+      "content": "It doesn't matter whether you win or lose -- until you lose.",
+      "sha1": "1bd586e591815309b3d696ab055d8d79637fa14b"
+    },
+    {
+      "content": "It is a poor judge who cannot award a prize.",
+      "sha1": "1a8d126930f41a5ee230bac973d1bb84cfc39fab"
+    },
+    {
+      "content": "It is a profitable thing, if one is wise, to seem foolish.\n\t\t-- Aeschylus",
+      "sha1": "059ad808e9089899942d8407fa7975e5d69b4dbf"
+    },
+    {
+      "content": "It is annoying to be honest to no purpose.\n\t\t-- Publius Ovidius Naso (Ovid)",
+      "sha1": "fe1299dd4f1b17a9c3fc76ebaf3da126d220056d"
+    },
+    {
+      "content": "It is bad luck to be superstitious.\n\t\t-- Andrew W. Mathis",
+      "sha1": "c8806c36136e0891782e88ef71d9b551e2c82ce9"
+    },
+    {
+      "content": "It is better to have loved a short man than never to have loved a tall.",
+      "sha1": "e18097ed953610b32c7127106d58f13e341ea4b6"
+    },
+    {
+      "content": "It is better to have loved and lost -- much better.",
+      "sha1": "fdec38f49a8900b8609546e9bab94bfe9ccf30d7"
+    },
+    {
+      "content": "It is better to have loved and lost than just to have lost.",
+      "sha1": "256b5149738bfb782512e5e8b0fa7b42293c1c14"
+    },
+    {
+      "content": "It is better to wear out than to rust out.",
+      "sha1": "be1dd821c4bb1658ea34dab56ad44a9376004baf"
+    },
+    {
+      "content": "It is common sense to take a method and try it.  If it fails,\nadmit it frankly and try another.  But above all, try something.\n\t\t-- Franklin D. Roosevelt",
+      "sha1": "11a2b3287b6afe48eb59bd6ca356f0fafec495a7"
+    },
+    {
+      "content": "It is sweet to let the mind unbend on occasion.\n\t\t-- Quintus Horatius Flaccus (Horace)",
+      "sha1": "895417104335309d8c37245b397208f6b1ec966f"
+    },
+    {
+      "content": "It is the quality rather than the quantity that matters.\n\t\t-- Lucius Annaeus Seneca",
+      "sha1": "c62e7985149707aae042c9e3e30597808470a3cc"
+    },
+    {
+      "content": "It is when I struggle to be brief that I become obscure.\n\t\t-- Quintus Horatius Flaccus (Horace)",
+      "sha1": "ad26586d081b3b279964aa7a9ddd1142d74c81a1"
+    },
+    {
+      "content": "It is wise to keep in mind that neither success nor failure is ever final.\n\t\t-- Roger Babson",
+      "sha1": "9cd6ef258a93301a55ebcae67cb08e572b569d1b"
+    },
+    {
+      "content": "It is your concern when your neighbor's wall is on fire.\n\t\t-- Quintus Horatius Flaccus (Horace)",
+      "sha1": "285a77a67e3969b64c437a899d74fadc6d5e099a"
+    },
+    {
+      "content": "It's always darkest just before it gets pitch black.",
+      "sha1": "f934163987c9c59dace2b776f28ef5efebaafe24"
+    },
+    {
+      "content": "It's always darkest just before the lights go out.\n\t\t-- Alex Clark",
+      "sha1": "cb92072f27b586f8f5ad5bc323cc1dc25db55182"
+    },
+    {
+      "content": "It's better to burn out than it is to rust.",
+      "sha1": "ced0cf7d3820d83119acff27e3799f06a0e31be2"
+    },
+    {
+      "content": "It's better to burn out than to fade away.",
+      "sha1": "391e0e4fdc49461503cc539e1522ae23c0bbe9cf"
+    },
+    {
+      "content": "It's later than you think.",
+      "sha1": "431cfdd116b112d74dbef904e9f49c15f833a389"
+    },
+    {
+      "content": "It's not whether you win or lose, it's how you place the blame.",
+      "sha1": "b873f4c7e0bdb35abff588e58d8781173b46fe83"
+    },
+    {
+      "content": "It's the thought, if any, that counts!",
+      "sha1": "3c46669627c35e03d89ef8a275093914955dd0a4"
+    },
+    {
+      "content": "Keep on keepin' on.",
+      "sha1": "7ce6bb2f8e784c133accfe7c93a68f0d51bf341d"
+    },
+    {
+      "content": "Keep the phase, baby.",
+      "sha1": "378959398ef6c7623ba9d9bd92607eb8e1e5db0f"
+    },
+    {
+      "content": "Kites rise highest against the wind -- not with it.\n\t\t-- Winston Churchill",
+      "sha1": "21d2ee9ce820f74fcecd46468e2561994e0d6a29"
+    },
+    {
+      "content": "Knowledge is power.\n\t\t-- Francis Bacon",
+      "sha1": "d7dde00cb582beacc82f86fe179e63b92290aec3"
+    },
+    {
+      "content": "Knowledge without common sense is folly.",
+      "sha1": "2753969f6e0b9a76dca808b9d4de05d7265537c7"
+    },
+    {
+      "content": "Laugh and the world laughs with you, snore and you sleep alone.",
+      "sha1": "7a5b8c441e88cbb721fbf0dd2e0ee4d6e28e92f6"
+    },
+    {
+      "content": "Laugh and the world thinks you're an idiot.",
+      "sha1": "e37f387ecbcd16003e4ca541e629746e7945098f"
+    },
+    {
+      "content": "Laugh at your problems; everybody else does.",
+      "sha1": "a30b24c0bc72ffd5f20448d9baeaa7c0e6cb10f3"
+    },
+    {
+      "content": "Laugh when you can; cry when you must.",
+      "sha1": "edf44947ee3ed1316ecb545b58e773a5ebc167ec"
+    },
+    {
+      "content": "Laugh, and the world ignores you.  Crying doesn't help either.",
+      "sha1": "fef283f3c7f5e46fa94d7beb2b1a8f666e0ee3d3"
+    },
+    {
+      "content": "Leave no stone unturned.\n\t\t-- Euripides",
+      "sha1": "e9ea34b954910837d8a1453f1086e14b91194ecb"
+    },
+    {
+      "content": "Left to themselves, things tend to go from bad to worse.",
+      "sha1": "1a96552f5170dd9732c122431a8eb0cb829ee105"
+    },
+    {
+      "content": "Let sleeping dogs lie.\n\t\t-- Charles Dickens",
+      "sha1": "70c69a5de2192ba265a72a03a1e18d5dad5d152d"
+    },
+    {
+      "content": "Let your conscience be your guide.\n\t\t-- Pope",
+      "sha1": "8e7d6de80b5e9be4dbc2e90da9b90d07f31bef7b"
+    },
+    {
+      "content": "Life is one long struggle in the dark.\n\t\t-- Titus Lucretius Carus",
+      "sha1": "224a16c21ed66e7a22920ae6f4f0221543463192"
+    },
+    {
+      "content": "\"Life is too important to take seriously.\"\n\t\t-- Corky Siegel",
+      "sha1": "4b6679e575b74648e469dde55cab872185dfea99"
+    },
+    {
+      "content": "Life is too short to be taken seriously.\n\t\t-- Oscar Wilde",
+      "sha1": "1987b7b11b3aa43afd3f86768b4e81070b17dc9d"
+    },
+    {
+      "content": "Look before you leap.\n\t\t-- Samuel Butler",
+      "sha1": "381c53e503bebf5b6c5f9d2f51bba59ec97d9391"
+    },
+    {
+      "content": "Look ere ye leap.\n\t\t-- John Heywood",
+      "sha1": "9dc5e5a6ee8ca6515f3f5f0c0dc1626bf99cb25c"
+    },
+    {
+      "content": "-- Male cadavers are incapable of yielding testimony.\n-- Individuals who make their abode in vitreous edifices would be well advised\n\tto refrain from catapulting projectiles.\n-- Neophyte's serendipity.\n-- Exclusive dedication to necessitious chores without interludes of hedonistic\n\tdiversion renders John a hebetudinous fellow.\n-- A revolving concretion of earthy or mineral matter accumulates no congeries\n\tof small, green bryophytic plant.\n-- Abstention from any aleatory undertaking precludes a potential escallation\n\tof a lucrative nature.\n-- Missiles of ligneous or osteal consistency have the potential of fracturing\n\tosseous structure, but appellations will eternally remain innocuous.",
+      "sha1": "83771d3c94a8fa2ff590ffc3af700fb987ee536c"
+    },
+    {
+      "content": "Man is the measure of all things.\n\t\t-- Protagoras",
+      "sha1": "838142af6bfbdfabf3efa9434ea94607a5a8339c"
+    },
+    {
+      "content": "Mankind is poised midway between the gods and the beasts.\n\t\t-- Plotinus",
+      "sha1": "7fa08c0754f35973c2ed2e1b1437966d885f5abc"
+    },
+    {
+      "content": "Many are called, few are chosen.  Fewer still get to do the choosing.",
+      "sha1": "41cd93a55375954eaa0b2f28afd8f0d670ed6842"
+    },
+    {
+      "content": "Many are called, few volunteer.",
+      "sha1": "e39041aa61d957707173cb49158d6d43b01dbc52"
+    },
+    {
+      "content": "Many are cold, but few are frozen.",
+      "sha1": "dc13cb0dd30c67c7754629edf6f3a103010d16aa"
+    },
+    {
+      "content": "Many hands make light work.\n\t\t-- John Heywood",
+      "sha1": "46dd6ece02e57036adb819c94877a80cc0abf833"
+    },
+    {
+      "content": "May you have warm words on a cold evening,\na full mooon on a dark night,\nand a smooth road all the way to your door.",
+      "sha1": "18ba205f52829b68b1b5c4c82dfd45eb27aca462"
+    },
+    {
+      "content": "May you live in uninteresting times.\n\t\t-- Chinese proverb",
+      "sha1": "3013a4d48c1348da3dfd094205a8af59e7ec8dd1"
+    },
+    {
+      "content": "Men freely believe that what they wish to desire.\n\t\t-- Julius Caesar",
+      "sha1": "287ba6d003b07ef1072f8447c332989653c91c21"
+    },
+    {
+      "content": "Misery loves company, but company does not reciprocate.",
+      "sha1": "13f29d44936ce86fa51b7bb39a49f74cd1018230"
+    },
+    {
+      "content": "Misery no longer loves company.  Nowadays it insists on it.\n\t\t-- Russell Baker",
+      "sha1": "e3ae0d044e9944eb328c697c3d0738c0af60a81b"
+    },
+    {
+      "content": "Misfortunes arrive on wings and leave on foot.",
+      "sha1": "a8e84c62daa6fbdddc0287672e945067f7600266"
+    },
+    {
+      "content": "Mistakes are often the stepping stones to utter failure.",
+      "sha1": "5758100c7aa0ae7d5c870676effbe49d805e8dcf"
+    },
+    {
+      "content": "Mistrust first impulses; they are always right.",
+      "sha1": "7e3b3e84541e266dc852955997a3493a284f7c9a"
+    },
+    {
+      "content": "Moderation in all things.\n\t\t-- Publius Terentius Afer [Terence]",
+      "sha1": "fbff71852ed151d8fe57f79f9b50b36accf0e455"
+    },
+    {
+      "content": "Moderation is a fatal thing.  Nothing succeeds like excess.\n\t\t-- Oscar Wilde",
+      "sha1": "b08f67733763f81e7d19db2f701a8089e62ac4f9"
+    },
+    {
+      "content": "Mother is the invention of necessity.",
+      "sha1": "72f1b183ea3027c9b57fd7ab2f8bb1618de2461d"
+    },
+    {
+      "content": "Mum's the word.\n\t\t-- Miguel de Cervantes",
+      "sha1": "7a546423d8741f2a3fd3b4b11795fe2650b8879c"
+    },
+    {
+      "content": "Necessity has no law.\n\t\t-- St. Augustine",
+      "sha1": "22ecbbadb416a1717d13d17762a85fb0db119418"
+    },
+    {
+      "content": "Necessity hath no law.\n\t\t-- Oliver Cromwell",
+      "sha1": "62b47e1dca21afdb93eb129c12e753f949d83487"
+    },
+    {
+      "content": "Necessity is a mother.",
+      "sha1": "a6bb06e22eb76d987cef87bebc66045463e18bd1"
+    },
+    {
+      "content": "-- Neophyte's serendipity.\n-- Exclusive dedication to necessitious chores without interludes of\n\thedonistic diversion renders John a hebetudinous fellow.\n-- A revolving concretion of earthy or mineral matter accumulates no\n\tcongeries of small, green bryophytic plant.\n-- The person presenting the ultimate cachinnation possesses thereby the\n\toptimal cachinnation.\n-- Abstention from any aleatory undertaking precludes a potential\n\tescallation of a lucrative nature.\n-- Missiles of ligneous or osteal consistency have the potential of\n\tfracturing osseous structure, but appellations will eternally\n\tremain innocuous.",
+      "sha1": "45c84cf5d4cca796a82bce4697fd14567b6a6eb9"
+    },
+    {
+      "content": "Never do today what you can put off until tomorrow.",
+      "sha1": "f9173647c6e2038ff3bbecac48fc84189037962d"
+    },
+    {
+      "content": "Never look a gift horse in the mouth.\n\t\t-- Saint Jerome",
+      "sha1": "b871522b57ee7e7ad60685141fa8e2af68c45bef"
+    },
+    {
+      "content": "Never promise more than you can perform.\n\t\t-- Publilius Syrus",
+      "sha1": "56a9512870cd0f416d6e65245b0213e631c1819a"
+    },
+    {
+      "content": "Never put off till tomorrow what you can avoid all together.",
+      "sha1": "270d8193ba90f94d7ecd2f8eb6a3cf556308ea10"
+    },
+    {
+      "content": "Never put off until tomorrow what you can do the day after.",
+      "sha1": "d6b2c400f0c4f2ae296f9c0864fe1471e4b1239e"
+    },
+    {
+      "content": "Nice guys don't finish nice.",
+      "sha1": "be0574e8038e8daefb44404cdfd4b57dcf2524d5"
+    },
+    {
+      "content": "Nice guys finish last, but we get to sleep in.\n\t\t-- Evan Davis",
+      "sha1": "8710ac6095fda02b732a3199f9deed91f1cd4855"
+    },
+    {
+      "content": "Nice guys finish last.\n\t\t-- Leo Durocher",
+      "sha1": "2ed39c9407eec08186d06a72cd33033098bcb9fd"
+    },
+    {
+      "content": "Nice guys get sick.",
+      "sha1": "8f8ef65a3018cb4b2c70c5757bb021f309d6b49f"
+    },
+    {
+      "content": "No act of kindness, no matter how small, is ever wasted.\n\t\t-- Aesop",
+      "sha1": "410bff968638ca72857fceceef2b2918a7ba252d"
+    },
+    {
+      "content": "No evil can happen to a good man.\n\t\t-- Plato",
+      "sha1": "65fe53a36c813086f8550f5faf835d3c850cbaf5"
+    },
+    {
+      "content": "No excellent soul is exempt from a mixture of madness.\n\t\t-- Aristotle",
+      "sha1": "2f367fb3e8b4a6aa88b1f40d2959aa5628636a16"
+    },
+    {
+      "content": "No good deed goes unpunished.\n\t\t-- Clare Booth Luce",
+      "sha1": "acf8913daa806da4103fb2cacdf580926c1544ba"
+    },
+    {
+      "content": "None love the bearer of bad news.\n\t\t-- Sophocles",
+      "sha1": "88fd4f85b82ebbca3e9bd89057e6e65e58b802ee"
+    },
+    {
+      "content": "Not everything worth doing is worth doing well.",
+      "sha1": "06fff6be07ca3a0e0a8eae67f45aaafa239dfde0"
+    },
+    {
+      "content": "Nothing endures but change.\n\t\t-- Heraclitus",
+      "sha1": "f3e9f3a4bd4fe9eb42d7cdc4adb0274de9d664ea"
+    },
+    {
+      "content": "Nothing ever becomes real till it is experienced -- even a\nproverb is no proverb to you till your life has illustrated it.\n\t\t-- John Keats",
+      "sha1": "124dbf1bb139a7d20b9988382b1f4652621ac86f"
+    },
+    {
+      "content": "Nullum magnum ingenium sine mixtura dementiae fuit.\n\t[There is no great genius without some touch of madness.]\n\t\t-- Seneca",
+      "sha1": "fb7cfebe5458b24cae293c4b7f8444a910b344e5"
+    },
+    {
+      "content": "Often things ARE as bad as they seem!",
+      "sha1": "2e80617b29544e7572c71b7152bb5301040d2b67"
+    },
+    {
+      "content": "Once a word has been allowed to escape, it cannot be recalled.\n\t\t-- Quintus Horatius Flaccus (Horace)",
+      "sha1": "e1bb83ab508101c7c521843e4be1b33b3c1a318c"
+    },
+    {
+      "content": "Once harm has been done, even a fool understands it.\n\t\t-- Homer",
+      "sha1": "bf6566ddf15aa6bfbe9d903573a01a4ad178eeac"
+    },
+    {
+      "content": "One good turn asketh another.\n\t\t-- John Heywood",
+      "sha1": "9e283a22a508054f4d9db826230d0c1878f44815"
+    },
+    {
+      "content": "One good turn deserves another.\n\t\t-- Gaius Petronius",
+      "sha1": "5d91eaf2c89392d27d9b2586b27131099515d490"
+    },
+    {
+      "content": "One good turn usually gets most of the blanket.",
+      "sha1": "e5374b6ef85035b88c7ec392985cbb505388659b"
+    },
+    {
+      "content": "One man's Mede is another man's Persian.\n\t\t-- George M. Cohan",
+      "sha1": "31d98a6770660f114a67f5fc1aa3ea2324df10fb"
+    },
+    {
+      "content": "One picture is worth more than ten thousand words.\n\t\t-- Chinese proverb",
+      "sha1": "859aabb0140ae87c939fc902fae49981a0e2cbe6"
+    },
+    {
+      "content": "Oppernockity tunes but once.",
+      "sha1": "1bbf8dcb87431e75b19e89f013ff05896a530d31"
+    },
+    {
+      "content": "Out of sight is out of mind.\n\t\t-- Arthur Clough",
+      "sha1": "0343c18bffb489f09739ac958d8e9641e0a97ebd"
+    },
+    {
+      "content": "\t\t-- Owen Meredith",
+      "sha1": "fd970bcccf0299cbb365e31c6aa36a607532fe02"
+    },
+    {
+      "content": "Patience is the best remedy for every trouble.\n\t\t-- Titus Maccius Plautus",
+      "sha1": "f0215e67f8d85c81bb99a5650bfd55b0825a389f"
+    },
+    {
+      "content": "Pauca sed matura.\n\t[Few but excellent.]\n\t\t-- Gauss",
+      "sha1": "368f918fe749c809919705a8a1c3de25d255d46d"
+    },
+    {
+      "content": "Pereant, inquit, qui ante nos nostra dixerunt.\n\t[Confound those who have said our remarks before us.]\n\tor\n\t[May they perish who have expressed our bright ideas before us.]\n\t\t-- Aelius Donatus",
+      "sha1": "fd11523fed0a9a0f5c4e1be8ea803b8c4bb51f83"
+    },
+    {
+      "content": "Pity the meek, for they shall inherit the earth.\n\t\t-- Don Marquis",
+      "sha1": "d1d2eed6935ff8bc171bd34aa7fd8d732831008d"
+    },
+    {
+      "content": "Plus ,\bca change, plus c'est la m^\beme chose.\n\t[The more things change, the more they remain the same.]\n\t\t-- Alphonse Karr, \"Les Gu^\bepes\"",
+      "sha1": "5ad7f2b8468573479dab264b99998ff7d647375d"
+    },
+    {
+      "content": "Practice yourself what you preach.\n\t\t-- Titus Maccius Plautus",
+      "sha1": "ddf3c43b8d155f9c562ea7f87c2e70b39b6af2b5"
+    },
+    {
+      "content": "Praise the sea; on shore remain.\n\t\t-- John Florio",
+      "sha1": "e7e09b1f1d39b5a22ed884b29a1564d9c40fc5e2"
+    },
+    {
+      "content": "Pray to God, but keep rowing to shore.\n\t\t-- Russian Proverb",
+      "sha1": "4c59847610b992f317c82e6063758f93d0f2975a"
+    },
+    {
+      "content": "Prosperity makes friends, adversity tries them.\n\t\t-- Publilius Syrus",
+      "sha1": "563d2be13e057e210bd56962f0debd9d54c28ce6"
+    },
+    {
+      "content": "Quidquid latine dictum sit, altum viditur.\n\t[Whatever is said in Latin sounds profound.]",
+      "sha1": "28cd2b41bb3ad3fb778b5c37c2f0f43e3a323548"
+    },
+    {
+      "content": "Remembering is for those who have forgotten.\n\t\t-- Chinese proverb",
+      "sha1": "931f6d290988e4b8ab25f6141cd5efa23b014baf"
+    },
+    {
+      "content": "Removing the straw that broke the camel's back does not necessarily\nallow the camel to walk again.",
+      "sha1": "374843b67077552f6e4778aaad890576a537b546"
+    },
+    {
+      "content": "Rome was not built in one day.\n\t\t-- John Heywood",
+      "sha1": "46eafa730c2857aec6b2627b1bc7bc0a5e54a669"
+    },
+    {
+      "content": "Rome wasn't burnt in a day.",
+      "sha1": "c9f80ac6dfe4d73dafcf39ac237ee39e2a9ce2aa"
+    },
+    {
+      "content": "Rotten wood cannot be carved.\n\t\t-- Confucius, \"Analects\", Book 5, Ch. 9",
+      "sha1": "00f3dbd876f980625fc396140523762e15a2e857"
+    },
+    {
+      "content": "-- Scintillate, scintillate, asteroid minikin.\n-- Members of an avian species of identical plumage congregate.\n-- Surveillance should precede saltation.\n-- Pulchritude possesses solely cutaneous profundity.\n-- It is fruitless to become lachrymose over precipitately departed\n\tlacteal fluid.\n-- Freedom from incrustations of grime is contiguous to rectitude.\n-- It is fruitless to attempt to indoctrinate a superannuated\n\tcanine with innovative maneuvers.\n-- Eschew the implement of correction and vitiate the scion.\n-- The temperature of the aqueous content of an unremittingly\n\tgalled saucepan does not reach 212 degrees Farenheit.",
+      "sha1": "35cd98ae838eb71b7a98d7d626e20e620a51e9fe"
+    },
+    {
+      "content": "Scintillation is not always identification for an auric substance.",
+      "sha1": "61c56629d24977838bb201ad1ff9a1470a15ed5d"
+    },
+    {
+      "content": "Seek simplicity -- and distrust it.\n\t\t-- Alfred North Whitehead",
+      "sha1": "8361b5fd33581baafabd88878f27c84605a82bcd"
+    },
+    {
+      "content": "Seize the day, put no trust in the morrow!\n\t\t-- Quintus Horatius Flaccus (Horace)",
+      "sha1": "18c78ae8a2c48f95f9c9f77327f160e4c5efc225"
+    },
+    {
+      "content": "Set the cart before the horse.\n\t\t-- John Heywood",
+      "sha1": "de611f9e3a150f1aeded5508b8c4f91db63d9c75"
+    },
+    {
+      "content": "Si jeunesse savait, si vieillesse pouvait.\n\t[If youth but knew, if old age but could.]\n\t\t-- Henri Estienne",
+      "sha1": "97d892ccb4cdd085c37805bdc9d51d99cddf38e4"
+    },
+    {
+      "content": "Sic transit gloria Monday!",
+      "sha1": "2f756c6fa2b1689dee208246a31d631c5ca89040"
+    },
+    {
+      "content": "Sic transit gloria mundi.\n\t[So passes away the glory of this world.]\n\t\t-- Thomas `\ba Kempis",
+      "sha1": "36a61fda61d16d6e6833adbb43b2c0f1d6ded600"
+    },
+    {
+      "content": "Sic Transit Gloria Thursdi.",
+      "sha1": "4f3f8948d37cd590d0955d2d2df4371161a8d0a7"
+    },
+    {
+      "content": "Small change can often be found under seat cushions.\n\t\t-- One of Lazarus Long's most penetrating insights",
+      "sha1": "d0399095a5e0212d7351f16443e0f9e37ea22695"
+    },
+    {
+      "content": "Small is beautiful.\n\t\t-- Schumacher's Dictum",
+      "sha1": "350cc2af75442dedad991177b4f5517d324d78dd"
+    },
+    {
+      "content": "Stop searching forever.  Happiness is just next to you.",
+      "sha1": "ff2f7f44176dd25b93b20c6aa65131ecd08d802e"
+    },
+    {
+      "content": "Stop searching forever.  Happiness is unattainable.",
+      "sha1": "360fd67faa60b470ca6ba6dac8582ec132757ba5"
+    },
+    {
+      "content": "Stop searching.  Happiness is right next to you.  Now, if they'd only\ntake a bath ...",
+      "sha1": "fc60946c46fc5c07445926627821b658809d203b"
+    },
+    {
+      "content": "Sweet April showers do spring May flowers.\n\t\t-- Thomas Tusser",
+      "sha1": "1a44973654a51aa8413db1bf096f671588ea11fb"
+    },
+    {
+      "content": "The coast was clear.\n\t\t-- Lope de Vega",
+      "sha1": "2e98f7baf2b67eba5d357daf896dad5d09f0b84d"
+    },
+    {
+      "content": "The course of true anything never does run smooth.\n\t\t-- Samuel Butler",
+      "sha1": "bbfb457776fe90432b35801edd9f6b31320c277a"
+    },
+    {
+      "content": "The descent to Hades is the same from every place.\n\t\t-- Anaxagoras",
+      "sha1": "0672c7befe24c7b1ad676efc1d563765e0fab755"
+    },
+    {
+      "content": "The early worm gets the bird.",
+      "sha1": "917e7a2cb3976245a73b24aba9b936916e9f79c1"
+    },
+    {
+      "content": "The early worm gets the late bird.",
+      "sha1": "518a02ee2f974966f81eea5b9f84fa4ba48c168f"
+    },
+    {
+      "content": "The ends justify the means.\n\t\t-- after Matthew Prior",
+      "sha1": "16dea40e4eae89a82150ea8219667a801308501a"
+    },
+    {
+      "content": "The greatest love is a mother's, then a dog's, then a sweetheart's.\n\t\t-- Polish proverb",
+      "sha1": "754c9601f86f13a7e08da9e0e9191426e7e9a626"
+    },
+    {
+      "content": "The life which is unexamined is not worth living.\n\t\t-- Plato",
+      "sha1": "31775334ad87ecd5b44c71db6fd5f158ba358df3"
+    },
+    {
+      "content": "The light at the end of the tunnel is the headlight of an approaching train.",
+      "sha1": "a1af71c5c82961e36ec50acc73712cbc02ccd424"
+    },
+    {
+      "content": "The light at the end of the tunnel may be an oncoming dragon.",
+      "sha1": "09cfcee60ed9e798310f97a6578e86d58836b5d4"
+    },
+    {
+      "content": "The man who runs may fight again.\n\t\t-- Menander",
+      "sha1": "e99049b254d57ab4d57a0b8b2ed3fcb172cf6701"
+    },
+    {
+      "content": "The man who sees, on New Year's day, Mount Fuji, a hawk, and an eggplant\nis forever blessed.\n\t\t-- Old Japanese proverb",
+      "sha1": "9f10d1ba3b008fcdaf942e3a361a5d7bc2add67c"
+    },
+    {
+      "content": "The meek will inherit the earth -- if that's OK with you.",
+      "sha1": "5e3fb2b4d923752ce703190ac0766da0f3f999a9"
+    },
+    {
+      "content": "The more the merrier.\n\t\t-- John Heywood",
+      "sha1": "fb633990d699aab90854431447156d454ef7b628"
+    },
+    {
+      "content": "The more things change, the more they stay insane.",
+      "sha1": "109e3ea5f6d47a3acc00453765b622637e74eaad"
+    },
+    {
+      "content": "The more things change, the more they'll never be the same again.",
+      "sha1": "a366f75446babdb74f08faf9dc7819fc1e56c611"
+    },
+    {
+      "content": "The only certainty is that nothing is certain.\n\t\t-- Pliny the Elder",
+      "sha1": "b8f6fc48bb8c0be76a0f2e3250bd7c0520fef8c9"
+    },
+    {
+      "content": "The only constant is change.",
+      "sha1": "d7b14838acc17bdd0e342eba0a3e4a9235ca5401"
+    },
+    {
+      "content": "The only problem with seeing too much is that it makes you insane.\n\t\t-- Phaedrus",
+      "sha1": "e92dfbd7a9cf0184e344377646c353e6c784d86b"
+    },
+    {
+      "content": "The only reward of virtue is virtue.\n\t\t-- Ralph Waldo Emerson",
+      "sha1": "721e39ec00ca13ebc8751be6ebef2b2911194514"
+    },
+    {
+      "content": "\"The porcupine with the sharpest quills gets stuck on a tree more often.\"",
+      "sha1": "9d86e92629165190f29bca7619653321a1fb0086"
+    },
+    {
+      "content": "The proof of the pudding is in the eating.\n\t\t-- Miguel de Cervantes",
+      "sha1": "4d003b767e10955ea4bc0f27d4079fc2eadf0509"
+    },
+    {
+      "content": "The reverse side also has a reverse side.  \n\t\t-- Japanese proverb",
+      "sha1": "d3faf6d11784097d8b5b963755a1b4b3747e600b"
+    },
+    {
+      "content": "The road to Hades is easy to travel.\n\t\t-- Bion",
+      "sha1": "7a14d1670566f6ce0cfcb31a517475a0c9c0896f"
+    },
+    {
+      "content": "The superfluous is very necessary.\n\t\t-- Voltaire",
+      "sha1": "d186260e138f8e28c36c130e5e50bb2ecdb98cdb"
+    },
+    {
+      "content": "The temperature of the aqueous content of an unremittingly ogled\nculinary vessel will not achieve 100 degrees on the Celsius scale.",
+      "sha1": "086f1fad05c58cee9b2724df8694dcd26e061369"
+    },
+    {
+      "content": "The worst is enemy of the bad.",
+      "sha1": "e1644d16b47d8746ddd64e174466e97b9c6484e4"
+    },
+    {
+      "content": "-- The writing implement is more potent than the claymore.\n-- All articles that coruscate with resplendence are not truly auriferous.\n-- When there are visible vapors having the prevenience in ignited carbonaceous\n\tmaterials, there is conflagration.\n-- Sorting on the part of mendicants must be interdicted.\n-- A plethora of individuals wither expertise in culinary techniques vitiated\n\tthe potable concoction produced by steeping certain coupestibles.\n-- The person presenting the ultimate cachinnation possesses thereby the\n\toptimal cachinnation.\n-- Eleemosynary deeds have their initial incidence intramurally.",
+      "sha1": "ef9b64d7ad8b0c499b108b08e7a2c68a52c5c856"
+    },
+    {
+      "content": "There are more things in heaven and earth than any place else.",
+      "sha1": "a55f2c205ef2d20de286f7c5adfb38e8f8d22f1a"
+    },
+    {
+      "content": "There are more ways of killing a cat than choking her with cream.",
+      "sha1": "fefb466913afc592afe3da293cf621c15b76936a"
+    },
+    {
+      "content": "There is no fool to the old fool.\n\t\t-- John Heywood",
+      "sha1": "9c9c612530b0038ed96ed833127288bd1e257a2b"
+    },
+    {
+      "content": "There is no grief which time does not lessen and soften.",
+      "sha1": "deed7a97c155d2180040765d8bc539fb1379b56a"
+    },
+    {
+      "content": "There is no proverb that is not true.\n\t\t-- Cervantes",
+      "sha1": "362a056ca7d00c4742b3d667d21ce110f31c05c2"
+    },
+    {
+      "content": "There's an old proverb that says just about whatever you want it to.",
+      "sha1": "c8e75112401b8fb2ffec96326769a7bdddfd75c3"
+    },
+    {
+      "content": "There's no heavier burden than a great potential.",
+      "sha1": "8997dbce9b8f9aa7102acd0651852677a28b9b9d"
+    },
+    {
+      "content": "There's no such thing as a free lunch.\n\t\t-- Milton Friendman",
+      "sha1": "cb74353c9cd4a0a83d9adc54c81726d5b4678796"
+    },
+    {
+      "content": "There's no such thing as an original sin.\n\t\t-- Elvis Costello",
+      "sha1": "1b01193696fc51f6f0732379b38164703e4f305c"
+    },
+    {
+      "content": "There's no time like the pleasant.",
+      "sha1": "abe939e26b73994ea2ccaffe4ada35a1286bde43"
+    },
+    {
+      "content": "Things are more like they are today than they ever were before.\n\t\t-- Dwight Eisenhower",
+      "sha1": "50684ed8b1285620c4fb70d9957bc3c98ec438eb"
+    },
+    {
+      "content": "Things are more like they used to be than they are now.",
+      "sha1": "88b416d2e3ec325e50d5bc50c900e557f2575b7f"
+    },
+    {
+      "content": "Things are not always what they seem.\n\t\t-- Phaedrus",
+      "sha1": "1d99b37db0474200d47039444c5fc4289d51a02e"
+    },
+    {
+      "content": "Things fall apart; the centre cannot hold.",
+      "sha1": "7b9a64a23aa481a13de16231cc2d8ae9f7be1d8e"
+    },
+    {
+      "content": "Thou hast seen nothing yet.\n\t\t-- Miguel de Cervantes",
+      "sha1": "9131b3e2e464dddd4ddca00d93adfad6efd68a28"
+    },
+    {
+      "content": "Three may keep a secret, if two of them are dead.\n\t\t-- Benjamin Franklin",
+      "sha1": "ef297e5bb2442824d25562d6d4f00a3c64094a33"
+    },
+    {
+      "content": "Time and tide wait for no man.",
+      "sha1": "f148944375a328cf7285fb97c8e4474b62dc9820"
+    },
+    {
+      "content": "Time as he grows old teaches all things.\n\t\t-- Aeschylus",
+      "sha1": "0137397468254bcff7b63768306b909a3cfbc05f"
+    },
+    {
+      "content": "Time flies like an arrow.  Fruit flies like a banana.",
+      "sha1": "1363eca419cd9126b9b3afab4c4b0d103c8194e3"
+    },
+    {
+      "content": "Time goes, you say?\nAh no!\nTime stays, *we* go.\n\t\t-- Austin Dobson",
+      "sha1": "5129436d611840876775564b6a75ee6032042967"
+    },
+    {
+      "content": "Time sure flies when you don't know what you're doing.",
+      "sha1": "8cd48c8fe2345f4f0121b1568c4e8560040ee5bd"
+    },
+    {
+      "content": "To add insult to injury.\n\t\t-- Phaedrus",
+      "sha1": "4ecd81b72a61e6e929b0a8b846a68144f870c37a"
+    },
+    {
+      "content": "To err is human, but I can REALLY foul things up.",
+      "sha1": "ceb6c2fa772203a8b627cd8cfe7797a3cf6172f2"
+    },
+    {
+      "content": "To err is human, but when the eraser wears out before the pencil,\nyou're overdoing it a little.",
+      "sha1": "67fa428605afeaac892666f53948190f2c92af66"
+    },
+    {
+      "content": "To err is human, to forgive is against company policy.",
+      "sha1": "251c65aa6f247bae91098738ea0b600441f6d8e2"
+    },
+    {
+      "content": "To err is human, to forgive unusual.",
+      "sha1": "1a96b48323b566d572e18715537d369f9ad5d59a"
+    },
+    {
+      "content": "To err is human, to moo bovine.",
+      "sha1": "047cecceb1185800e9f0f6b88a770de5e96eb6a0"
+    },
+    {
+      "content": "To err is human, to purr feline.\nTo err is human, two curs canine.\nTo err is human, to moo bovine.",
+      "sha1": "60ae522eb96dd9ed6e9cdc3bc8ce90f8461282af"
+    },
+    {
+      "content": "To err is human, to repent, divine, to persist, devilish.\n\t\t-- Benjamin Franklin",
+      "sha1": "0e57d8b17d17801c643feed834c14f07b3839346"
+    },
+    {
+      "content": "To err is human.\nTo blame someone else for your mistakes is even more human.",
+      "sha1": "59abdaa1ffbcd3933eac77bcca222e472bb025f6"
+    },
+    {
+      "content": "To err is human; to admit it, a blunder.",
+      "sha1": "08bf5473f37a5b5b467e20731d432458f527f443"
+    },
+    {
+      "content": "To err is human; to forgive is simply not our policy.\n\t\t-- MIT Assasination Club",
+      "sha1": "d0e34f64d4525b0faa709cbfd4e5470e38430343"
+    },
+    {
+      "content": "To err is humor.",
+      "sha1": "cdf6fe144c47eedc1b719db861ec5145b6395aba"
+    },
+    {
+      "content": "To every Ph.D. there is an equal and opposite Ph.D.\n\t\t-- B. Duggan",
+      "sha1": "53855182c91387f60acf2ab668f54119f862b341"
+    },
+    {
+      "content": "Treat your friend as if he might become an enemy.\n\t\t-- Publilius Syrus",
+      "sha1": "66362ffd4bb84fc1fadcb96e465d18371f87000c"
+    },
+    {
+      "content": "Trust in Allah, but tie your camel.\n\t\t-- Arabian proverb",
+      "sha1": "a54c64b6033fa73fe707327aabb2b666fe37518d"
+    },
+    {
+      "content": "Truth can wait; he's used to it.",
+      "sha1": "e65a9e0b3eb24ff53b7386e9935d04e8ddb81af0"
+    },
+    {
+      "content": "Turn the other cheek.\n\t\t-- Jesus Christ",
+      "sha1": "fef77ede10e0b08600720272facbb3eee75af1ea"
+    },
+    {
+      "content": "Two heads are better than one.\n\t\t-- John Heywood",
+      "sha1": "a604cdf2f76db3c24d4f4a16c0496cf14466fc4c"
+    },
+    {
+      "content": "Two heads are more numerous than one.",
+      "sha1": "8b5c92451ac80ed8adbd3cf8a67e1d8d4d0f5532"
+    },
+    {
+      "content": "Two is company, three is an orgy.",
+      "sha1": "3385e823b44d51acac4117591860f92146997436"
+    },
+    {
+      "content": "Two wrongs are only the beginning.\n\t\t-- Kohn",
+      "sha1": "6cf65e4ba8fd612d3c186181454d72ac8c5e383b"
+    },
+    {
+      "content": "Two wrongs don't make a right, but they make a good excuse.\n\t\t-- Thomas Szasz",
+      "sha1": "c733c15d411dcecb333a9a230cad892d4a2e3405"
+    },
+    {
+      "content": "Two wrongs don't make a right, but three lefts do.",
+      "sha1": "08c5cada4ea5a7e00d439a64679612c5706c5c10"
+    },
+    {
+      "content": "Walking on water wasn't built in a day.\n\t\t-- Jack Kerouac",
+      "sha1": "910c7078d2fad0991275c1c8fe97b197b4cb6406"
+    },
+    {
+      "content": "We are what we are.",
+      "sha1": "b48618e6d1d227fab6e5bf4ae3314cdf2c61742e"
+    },
+    {
+      "content": "We are what we pretend to be.\n\t\t-- Kurt Vonnegut, Jr.",
+      "sha1": "4b73bed9e1faf890564d31d7d042d9b364b5fb86"
+    },
+    {
+      "content": "We have seen the light at the end of the tunnel, and it's out.",
+      "sha1": "4838ed352e0afdb69d9a1618108f7fbe88e30d99"
+    },
+    {
+      "content": "Well begun is half done.\n\t\t-- Aristotle",
+      "sha1": "42fc737b2a5a35c93f66ecbb142657000176d2f0"
+    },
+    {
+      "content": "What fools these morals be!",
+      "sha1": "0ba08a9c2688aafcf751ce11805b0e6dbdd93004"
+    },
+    {
+      "content": "What fools these mortals be.\n\t\t-- Lucius Annaeus Seneca",
+      "sha1": "f4268e7ee41cbbca90a455ab33991d9c5bfae730"
+    },
+    {
+      "content": "What one believes to be true either is true or becomes true.\n\t\t-- John Lilly",
+      "sha1": "8f49a16031db1f856793e06f626aaccbb0775335"
+    },
+    {
+      "content": "What one fool can do, another can.\n\t\t-- Ancient Simian Proverb",
+      "sha1": "94e046f1efabe863d048ce9e024032f5f50aafdb"
+    },
+    {
+      "content": "What we wish, that we readily believe.\n\t\t-- Demosthenes",
+      "sha1": "0589d69e32834577372edb7dc9919477c52fe68d"
+    },
+    {
+      "content": "What you don't know can hurt you, only you won't know it.",
+      "sha1": "c74be8ddeb75b9c2d6811c490fa7109f150b396f"
+    },
+    {
+      "content": "What you don't know won't help you much either.\n\t\t-- D. Bennett",
+      "sha1": "ed0263147d12039b331bcb37592bc5d81ca15cdd"
+    },
+    {
+      "content": "Whatever it is, I fear Greeks even when they bring gifts.\n\t\t-- Publius Vergilius Maro (Virgil)",
+      "sha1": "df1771183d9e94eea55d6d4cc4ac16716858ed05"
+    },
+    {
+      "content": "When in doubt, follow your heart.",
+      "sha1": "83645e41e10eef216747680eb753b45205b6c300"
+    },
+    {
+      "content": "When in doubt, use brute force.\n\t\t-- Ken Thompson",
+      "sha1": "87c19e4ef05201abaabe8e5c2372efabfd94890e"
+    },
+    {
+      "content": "When nothing can possibly go wrong, it will.",
+      "sha1": "b87883bb9819309ac80fb21c74e3c7154a34275a"
+    },
+    {
+      "content": "When the ax entered the forest, the trees said, \"The handle is one of us!\"\n\t\t-- Turkish proverb",
+      "sha1": "0bcbd2e4ae77ca67b4d1ee94642aba4e0e579c13"
+    },
+    {
+      "content": "When the blind lead the blind they will both fall over the cliff.\n\t\t-- Chinese proverb",
+      "sha1": "b0ca5ceffc62045f1f7f50daa12b50637cb994c1"
+    },
+    {
+      "content": "When the going gets tough, everyone leaves.\n\t\t-- Lynch",
+      "sha1": "90a1c21e1ff128656554321c29633e13966359f2"
+    },
+    {
+      "content": "When the going gets tough, the tough go shopping.",
+      "sha1": "e470a39eec9b83015808a021c86866b2fd206c3d"
+    },
+    {
+      "content": "When the going gets weird, the weird turn pro.\n\t\t-- Hunter S. Thompson",
+      "sha1": "0bc5f8f4fac13641d160d128138c95346c15040b"
+    },
+    {
+      "content": "When the only tool you have is a hammer, every problem starts to look\nlike a nail.",
+      "sha1": "dd46381990b83c369617bf25cd74e36c7717c54a"
+    },
+    {
+      "content": "When the sun shineth, make hay.\n\t\t-- John Heywood",
+      "sha1": "42ed4c5048c89cb6a35e0b81b04763951acaa498"
+    },
+    {
+      "content": "When we talk of tomorrow, the gods laugh.",
+      "sha1": "a5c49533b7682b78f8e4d52223eeba9d6b045d7a"
+    },
+    {
+      "content": "When you are at Rome live in the Roman style; when you are elsewhere live\nas they live elsewhere.\n\t\t-- St. Ambrose",
+      "sha1": "7dd55421ad9d4403c9ff138da6457a43ee19f244"
+    },
+    {
+      "content": "When you are in it up to your ears, keep your mouth shut.",
+      "sha1": "14f70d537f944c0e6a8d2e05fb0c18e0157702a3"
+    },
+    {
+      "content": "When you have eliminated the impossible, whatever remains, however improbable,\nmust be the truth.\n\t\t-- Sherlock Holmes, \"The Sign of Four\"",
+      "sha1": "d7aefaa056b16681e0a9508efd0fc9fb180b5c40"
+    },
+    {
+      "content": "Where there are visible vapors, having their prevenance in ignited\ncarbonaceous materials, there is conflagration.",
+      "sha1": "77ae5b76134e650e5d82f0908dcd93dc4837ba80"
+    },
+    {
+      "content": "Where there is much light there is also much shadow.\n\t\t-- Goethe",
+      "sha1": "b367c5c8766840171ee35d20a28430118b51ee2d"
+    },
+    {
+      "content": "While there's life, there's hope.\n\t\t-- Publius Terentius Afer (Terence)",
+      "sha1": "483b3d7cef32c58a5b3f81217d04c099edcc9a29"
+    },
+    {
+      "content": "Whom the gods wish to destroy they first call promising.",
+      "sha1": "051ca4621728108e703393f253b6426f01981a69"
+    },
+    {
+      "content": "Whom the mad would destroy, first they make Gods.\n\t\t-- Bernard Levin",
+      "sha1": "d0620bfc27bd7e94aeeb28d4e0cc83877881f6d6"
+    },
+    {
+      "content": "Without fools there would be no wisdom.",
+      "sha1": "67086b369570d3f78b9bf6f26416b601d47707bd"
+    },
+    {
+      "content": "Words are the voice of the heart.",
+      "sha1": "a055e31c6967da2d40bfb4c88a688757a31cc1d5"
+    },
+    {
+      "content": "Words can never express what words can never express.",
+      "sha1": "fea3bb8ff89ab20db3db0381bce68fafebdb2ce1"
+    },
+    {
+      "content": "Words have a longer life than deeds.\n\t\t-- Pindar",
+      "sha1": "613a1360836ed926a881ff9f9b114f10f34890b9"
+    },
+    {
+      "content": "Would ye both eat your cake and have your cake?\n\t\t-- John Heywood",
+      "sha1": "3deed171d24f72d46fb1e00cee156201f87b7a72"
+    },
+    {
+      "content": "You buttered your bread, now lie in it.",
+      "sha1": "09e17963294a6a203bdfe2c4d13e87eaf7c46899"
+    },
+    {
+      "content": "You can drive a horse to water, but a pencil must be lead.",
+      "sha1": "0271e9f5ddc4f4f5ad4118e588ef84556f6ba87c"
+    },
+    {
+      "content": "You can fool some of the people all of the time,\nand all of the people some of the time,\nbut you can make a fool of yourself anytime.",
+      "sha1": "fc43d7a2e3449f0a5ef5d3d6035ee8833c400133"
+    },
+    {
+      "content": "You can fool some of the people all of the time,\nand all of the people some of the time,\nbut you can never fool your Mom.",
+      "sha1": "aa9f79e5b6b7a90057f6f3742ddbdaf2b3a80c50"
+    },
+    {
+      "content": "You can fool some of the people some of the time,\nand some of the people all of the time,\nand that is sufficient.",
+      "sha1": "a79d75780b6f052540ec6e4a83381f1541848331"
+    },
+    {
+      "content": "You can get everything in life you want, if you will help enough other\npeople get what they want.",
+      "sha1": "abeed5cdd8b9a2641a25cd4f59a24d5c47e619f2"
+    },
+    {
+      "content": "You can get much further with a kind word and a gun than you can with a\nkind word alone.\n\t\t-- Al Capone\n\t\t[Also attributed to Johnny Carson.  Ed.]",
+      "sha1": "c5af557194d066e0bf81c3cb016827f312038393"
+    },
+    {
+      "content": "You can go anywhere you want if you look serious and carry a clipboard.",
+      "sha1": "1fa9a6c7e898f239914d035b3a44e004620fc55b"
+    },
+    {
+      "content": "You can make it illegal, but you can't make it unpopular.",
+      "sha1": "c30555598668fdc4d8aa535112825b84db80ee97"
+    },
+    {
+      "content": "You can move the world with an idea, but you have to think of it first.",
+      "sha1": "74371335efcf232d638f2ec858eb6f64a07d2298"
+    },
+    {
+      "content": "You can never do just one thing.\n\t\t-- Hardin",
+      "sha1": "8fce0b93ed4a5b9293ce88899fe2f21173e9cc58"
+    },
+    {
+      "content": "You can't break eggs without making an omelet.",
+      "sha1": "da8931ad6b91531a2edf49c37d098de2d0d876be"
+    },
+    {
+      "content": "You can't judge a book by the way it wears its hair.",
+      "sha1": "8eb5938f8039d8f9b4aff8deda9c6409498f6c18"
+    },
+    {
+      "content": "You cannot see the wood for the trees.\n\t\t-- John Heywood",
+      "sha1": "c8b362a555ef09657dbf375afb43a244615c2b4c"
+    },
+    {
+      "content": "You get what you pay for.\n\t\t-- Gabriel Biel",
+      "sha1": "bc5f0a472bc109f17868104ba905dfd8b4c7d392"
+    },
+    {
+      "content": "You k'n hide de fier, but w'at you gwine do wid de smoke?\n\t\t-- Joel Chandler Harris, proverbs of Uncle Remus",
+      "sha1": "f3c5754e3db212795249a2a972ac3f75cfc8a645"
+    },
+    {
+      "content": "Zhizn' prozhit'--ne pole pereiti.\n\t[Life's a bitch.]\n\t[Well, okay.  lit., to live through life is not as simple as crossing\n\t a field.  Happy now?]\n\t\t-- Russian proverb\n%",
+      "sha1": "60902fc1bd1859edc3a5607c91d905dd8c432ccf"
+    }
   ]
 }

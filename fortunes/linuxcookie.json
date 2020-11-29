@@ -2,110 +2,425 @@
   "file": "linuxcookie",
   "count": 105,
   "data": [
-    "A Linux machine! because a 486 is a terrible thing to waste!\n(By jjs@wintermute.ucr.edu, Joe Sloan)",
-    "\"A word to the wise: a credentials dicksize war is usually a bad idea on the\nnet.\"\n(David Parsons in c.o.l.development.system, about coding in C.)",
-    "\"Absolutely nothing should be concluded from these figures except that\nno conclusion can be drawn from them.\"\n(By Joseph L. Brothers, Linux/PowerPC Project)",
-    "Actually, typing random strings in the Finder does the equivalent of\nfilename completion.\n(Discussion in comp.os.linux.misc on the intuitiveness of commands: file\ncompletion vs. the Mac Finder.)",
-    "After watching my newly-retired dad spend two weeks learning how to make a new\nfolder, it became obvious that \"intuitive\" mostly means \"what the writer or\nspeaker of intuitive likes\".\n(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X the\nintuitiveness of a Mac interface.)",
-    "\"All language designers are arrogant.  Goes with the territory...\"\n(By Larry Wall)",
-    "And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports\non it, you know they are just evil lies.\"\n(By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)",
-    "\"...and scantily clad females, of course.  Who cares if it's below zero\noutside\"\n(By Linus Torvalds)",
-    "\"And the next time you consider complaining that running Lucid Emacs\n19.05 via NFS from a remote Linux machine in Paraguay doesn't seem to\nget the background colors right, you'll know who to thank.\"\n(By Matt Welsh)",
-    "> : Any porters out there should feel happier knowing that DEC is shipping\n> : me an AlphaPC that I intend to try getting linux running on: this will\n> : definitely help flush out some of the most flagrant unportable stuff.\n> : The Alpha is much more different from the i386 than the 68k stuff is, so\n> : it's likely to get most of the stuff fixed.\n>\n> It's posts like this that almost convince us non-believers that there\n> really is a god.\n(A follow-up by alovell@kerberos.demon.co.uk, Anthony Lovell, to Linus's\nremarks about porting)",
-    "Anyone who thinks UNIX is intuitive should be forced to write 5000 lines of \ncode using nothing but vi or emacs. AAAAACK!\n(Discussion in comp.os.linux.misc on the intuitiveness of commands, especially\nEmacs.)",
-    "\"Are [Linux users] lemmings collectively jumping off of the cliff of\nreliable, well-engineered commercial software?\"\n(By Matt Welsh)",
-    "As usual, this being a 1.3.x release, I haven't even compiled this\nkernel yet.  So if it works, you should be doubly impressed.\n(Linus Torvalds, announcing kernel 1.3.3 on the linux-kernel mailing list.)",
-    "Avoid the Gates of Hell.  Use Linux\n(Unknown source)",
-    "Be warned that typing \\fBkillall \\fIname\\fP may not have the desired\neffect on non-Linux systems, especially when done by a privileged user.\n(From the killall manual page)",
-    "\"Besides, I think [Slackware] sounds better than 'Microsoft,' don't you?\"\n(By Patrick Volkerding)",
-    "But what can you do with it?  -- ubiquitous cry from Linux-user partner.\n(Submitted by Andy Pearce, ajp@hpopd.pwd.hp.com)",
-    "\"By golly, I'm beginning to think Linux really *is* the best thing since\nsliced bread.\"\n(By Vance Petree, Virginia Power)",
-    "/*\n * Oops. The kernel tried to access some bad page. We'll have to\n * terminate things with extreme prejudice.\n*/\ndie_if_kernel(\"Oops\", regs, error_code);\n(From linux/arch/i386/mm/fault.c)\t\t\t\t   ",
-    "\"...Deep Hack Mode--that mysterious and frightening state of\nconsciousness where Mortal Users fear to tread.\"\n(By Matt Welsh)",
-    "Dijkstra probably hates me\n(Linus Torvalds, in kernel/sched.c)",
-    "DOS: n., A small annoying boot virus that causes random spontaneous system\n     crashes, usually just before saving a massive project.  Easily cured by\n     UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.\n(from David Vicker's .plan)",
-    "/*\n * [...] Note that 120 sec is defined in the protocol as the maximum\n * possible RTT.  I guess we'll have to use something other than TCP\n * to talk to the University of Mars.\n * PAWS allows us longer timeouts and large windows, so once implemented\n * ftp to mars will work nicely.\n */\n(from /usr/src/linux/net/inet/tcp.c, concerning RTT [retransmission timeout])",
-    "\"Even more amazing was the realization that God has Internet access.  I\nwonder if He has a full newsfeed?\"\n(By Matt Welsh)",
-    ">Ever heard of .cshrc?\nThat's a city in Bosnia.  Right?\n(Discussion in comp.os.linux.misc on the intuitiveness of commands.)",
-    "Fatal Error: Found [MS-Windows] System -> Repartitioning Disk for Linux...\n(By cbbrown@io.org, Christopher Browne)",
-    "How do I type \"for i in *.dvi do xdvi i done\" in a GUI?\n(Discussion in comp.os.linux.misc on the intuitiveness of interfaces.)",
-    "\"How should I know if it works?  That's what beta testers are for.  I only\ncoded it.\"\n(Attributed to Linus Torvalds, somewhere in a posting)",
-    "----==-- _                     / /  \\\n---==---(_)__  __ ____  __    / / /\\ \\\n--==---/ / _ \\/ // /\\ \\/ /   / /_/\\ \\ \\\n-=====/_/_//_/\\_,_/ /_/\\_\\  /______\\ \\ \\\nA proud member of TeamLinux \\_________\\/\n(By CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)",
-    "I develop for Linux for a living, I used to develop for DOS.\nGoing from DOS to Linux is like trading a glider for an F117.\n(By entropy@world.std.com, Lawrence Foard)",
-    "I did this 'cause Linux gives me a woody.  It doesn't generate revenue.\n(Dave '-ddt->` Taylor, announcing DOOM for Linux)",
-    "Feel free to contact me (flames about my english and the useless of this\ndriver will be redirected to /dev/null, oh no, it's full...).\n(Michael Beck, describing the PC-speaker sound device)",
-    "\"I don't know why, but first C programs tend to look a lot worse than\nfirst programs in any other language (maybe except for fortran, but then\nI suspect all fortran programs look like `firsts')\"\n(By Olaf Kirch)",
-    "\"I once witnessed a long-winded, month-long flamewar over the use of\nmice vs. trackballs...It was very silly.\"\n(By Matt Welsh)",
-    "I still maintain the point that designing a monolithic kernel in 1991 is a\nfundamental error.  Be thankful you are not my student.  You would not get a\nhigh grade for such a design :-)\n(Andrew Tanenbaum to Linus Torvalds)",
-    "\"I would rather spend 10 hours reading someone else's source code than\n10 minutes listening to Musak waiting for technical support which isn't.\"\n(By Dr. Greg Wettstein, Roger Maris Cancer Center)",
-    "\"I'd crawl over an acre of 'Visual This++' and 'Integrated Development\nThat' to get to gcc, Emacs, and gdb.  Thank you.\"\n(By Vance Petree, Virginia Power)",
-    "\"I'm an idiot.. At least this one [bug] took about 5 minutes to find..\"\n(Linus Torvalds in response to a bug report.)\n\n> I'm an idiot.. At least this [bug] took about 5 minutes to find..\nDisquieting ...\n(Gonzalo Tornaria in response to Linus Torvalds's mailing about a kernel bug.)\n\n> I'm an idiot.. At least this [bug] took about 5 minutes to find..\nWe need to find some new terms to describe the rest of us mere mortals\nthen.\n(Craig Schlenter in response to Linus Torvalds's mailing about a kernel bug.)\n\n> I'm an idiot.. At least this [bug] took about 5 minutes to find..\nSurely, Linus is talking about the kind of idiocy that others aspire to :-).\n(Bruce Perens in response to Linus Torvalds's mailing about a kernel bug.)",
-    "I've run DOOM more in the last few days than I have the last few\nmonths.  I just love debugging ;-)\n(Linus Torvalds)",
-    "Microsoft Corp., concerned by the growing popularity of the free 32-bit\noperating system for Intel systems, Linux, has employed a number of top\nprogrammers from the underground world of virus development. Bill Gates stated\nyesterday: \"World domination, fast -- it's either us or Linus\". Mr. Torvalds\nwas unavailable for comment ...\n(rjm@swift.eng.ox.ac.uk (Robert Manners), in comp.os.linux.setup)",
-    "    if (argc > 1 && strcmp(argv[1], \"-advice\") == 0) {\n\tprintf(\"Don't Panic!\\n\");\n\texit(42);\n    }\n(Arnold Robbins in the LJ of February '95, describing RCS)",
-    "+#if defined(__alpha__) && defined(CONFIG_PCI)\n+       /*\n+        * The meaning of life, the universe, and everything. Plus\n+        * this makes the year come out right.\n+        */\n+       year -= 42;\n+#endif\n(From the patch for 1.3.2: (kernel/time.c), submitted by Marcus Meissner)",
-    "\"If the future navigation system [for interactive networked services on\nthe NII] looks like something from Microsoft, it will never work.\"\n(Chairman of Walt Disney Television & Telecommunications)",
-    "\"If you want to travel around the world and be invited to speak at a lot\nof different places, just write a Unix operating system.\"\n(By Linus Torvalds)",
-    "\"[In 'Doctor' mode], I spent a good ten minutes telling Emacs what I\nthought of it.  (The response was, 'Perhaps you could try to be less\nabusive.')\"\n(By Matt Welsh)",
-    "In most countries selling harmful things like drugs is punishable.\nThen howcome people can sell Microsoft software and go unpunished?\n(By hasku@rost.abo.fi, Hasse Skrifvars)",
-    "Intel engineering seem to have misheard Intel marketing strategy. The phrase\nwas \"Divide and conquer\" not \"Divide and cock up\"\n(By iialan@www.linux.org.uk, Alan Cox)",
-    "\"It's God.  No, not Richard Stallman, or Linus Torvalds, but God.\"\n(By Matt Welsh)",
-    "LILO, you've got me on my knees!\n(from David Black, dblack@pilot.njin.net, with apologies to Derek and the\nDominos, and Werner Almsberger)",
-    "Linux is obsolete\n(Andrew Tanenbaum)",
-    "\"Linux poses a real challenge for those with a taste for late-night\nhacking (and/or conversations with God).\"\n(By Matt Welsh)",
-    "Linux!  Guerrilla UNIX Development     Venimus, Vidimus, Dolavimus.\n(By mah@ka4ybr.com, Mark A. Horton KA4YBR)",
-    "\"...[Linux's] capacity to talk via any medium except smoke signals.\"\n(By Dr. Greg Wettstein, Roger Maris Cancer Center)",
-    "linux: because a PC is a terrible thing to waste\n(ksh@cis.ufl.edu put this on Tshirts in '93)",
-    "Linux: Because a PC is a terrible thing to waste.\n(By komarimf@craft.camp.clarkson.edu, Mark Komarinski)",
-    "linux: the choice of a GNU generation\n(ksh@cis.ufl.edu put this on Tshirts in '93)",
-    "\"Linux: the operating system with a CLUE...\nCommand Line User Environment\".\n(seen in a posting in comp.software.testing)",
-    "lp1 on fire\n(One of the more obfuscated kernel messages)",
-    "Microsoft is not the answer.\nMicrosoft is the question.\nNO (or Linux) is the answer.\n(Taken from a .signature from someone from the UK, source unknown)",
-    "'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'\nvon Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.\n(Christa Keil in a German posting: \"Mounting is used for three things:\nclimbing on a horse, linking in a hard disk unit in data systems, and, well,\nmounting during sex\".)",
-    "\"MSDOS didn't get as bad as it is overnight -- it took over ten years\nof careful development.\"\n(By dmeggins@aix1.uottawa.ca)",
-    "\"Never make any mistaeks.\"\n(Anonymous, in a mail discussion about to a kernel bug report.)",
-    "> No manual is ever necessary.\nMay I politely interject here: BULLSHIT.  That's the biggest Apple lie of all!\n(Discussion in comp.os.linux.misc on the intuitiveness of interfaces.)",
-    "Not me, guy. I read the Bash man page each day like a Jehovah's Witness reads\nthe Bible. No wait, the Bash man page IS the bible. Excuse me...\n(More on confusing aliases, taken from comp.os.linux.misc)",
-    "\"Note that if I can get you to \\\"su and say\\\" something just by asking,\nyou have a very serious security problem on your system and you should\nlook into it.\"\n(By Paul Vixie, vixie-cron 3.0.1 installation notes)",
-    "Now I know someone out there is going to claim, \"Well then, UNIX is intuitive,\nbecause you only need to learn 5000 commands, and then everything else follows\nfrom that! Har har har!\"\n(Andy Bates in comp.os.linux.misc, on \"intuitive interfaces\", slightly\ndefending Macs.)",
-    "Now, it we had this sort of thing:\n  yield -a     for yield to all traffic\n  yield -t     for yield to trucks\n  yield -f     for yield to people walking (yield foot)\n  yield -d t*  for yield on days starting with t\n...you'd have a lot of dead people at intersections, and traffic jams you\nwouldn't believe...\n(Discussion in comp.os.linux.misc on the intuitiveness of commands.)",
-    "\"Oh, I've seen copies [of Linux Journal] around the terminal room at The\nLabs.\"\n(By Dennis Ritchie)",
-    "\"On a normal ascii line, the only safe condition to detect is a 'BREAK'\n- everything else having been assigned functions by Gnu EMACS.\"\n(By Tarl Neustaedter)",
-    "\"On the Internet, no one knows you're using Windows NT\"\n(Submitted by Ramiro Estrugo, restrugo@fateware.com)",
-    "Once upon a time there was a DOS user who saw Unix, and saw that it was\ngood. After typing cp on his DOS machine at home, he downloaded GNU's\nunix tools ported to DOS and installed them. He rm'd, cp'd, and mv'd\nhappily for many days, and upon finding elvis, he vi'd and was happy. After\na long day at work (on a Unix box) he came home, started editing a file,\nand couldn't figure out why he couldn't suspend vi (w/ ctrl-z) to do\na compile.\n(By ewt@tipper.oit.unc.edu (Erik Troan)",
-    "> > Other than the fact Linux has a cool name, could someone explain why I\n> > should use Linux over BSD?\n>\n> No.  That's it.  The cool name, that is.  We worked very hard on\n> creating a name that would appeal to the majority of people, and it\n> certainly paid off: thousands of people are using linux just to be able\n> to say \"OS/2? Hah.  I've got Linux.  What a cool name\".  386BSD made the\n> mistake of putting a lot of numbers and weird abbreviations into the\n> name, and is scaring away a lot of people just because it sounds too\n> technical.\n(Linus Torvalds' follow-up to a question about Linux)",
-    "Personally, I think my choice in the mostest-superlative-computer wars has to\nbe the HP-48 series of calculators.  They'll run almost anything.  And if they\ncan't, while I'll just plug a Linux box into the serial port and load up the\nHP-48 VT-100 emulator.\n(By jdege@winternet.com, Jeff Dege)",
-    "There are no threads in a.b.p.erotica,  so there's no  gain in using a\nthreaded news reader.\n(Unknown source)",
-    "\"Problem solving under linux has never been the circus that it is under\nAIX.\"\n(By Pete Ehlke in comp.unix.aix)",
-    "quit   When the quit statement is read, the  bc  processor\n       is  terminated, regardless of where the quit state-\n       ment is found.  For example, \"if  (0  ==  1)  quit\"\n       will cause bc to terminate.\n(Seen in the manpage for \"bc\". Note the \"if\" statement's logic)",
-    "Running Windows on a Pentium is like having a brand new Porsche but only\nbe able to drive backwards with the handbrake on.\n(Unknown source)",
-    "\"sic transit discus mundi\"\n(From the System Administrator's Guide, by Lars Wirzenius)",
-    "Sigh.  I like to think it's just the Linux people who want to be on\nthe \"leading edge\" so bad they walk right off the precipice.\n(Craig E. Groeschel)",
-    "The chat program is in public domain. This is not the GNU public license. If\nit breaks then you get to keep both pieces.\n(Copyright notice for the chat program)",
-    "> The day people think linux would be better served by somebody else (FSF\n> being the natural alternative), I'll \"abdicate\".  I don't think that\n> it's something people have to worry about right now - I don't see it\n> happening in the near future.  I enjoy doing linux, even though it does\n> mean some work, and I haven't gotten any complaints (some almost timid\n> reminders about a patch I have forgotten or ignored, but nothing\n> negative so far).\n>\n> Don't take the above to mean that I'll stop the day somebody complains:\n> I'm thick-skinned (Lasu, who is reading this over my shoulder commented\n> that \"thick-HEADED is closer to the truth\") enough to take some abuse.\n> If I weren't, I'd have stopped developing linux the day ast ridiculed me\n> on c.o.minix.  What I mean is just that while linux has been my baby so\n> far, I don't want to stand in the way if people want to make something\n> better of it (*).\n>\n>                 Linus\n>\n> (*) Hey, maybe I could apply for a saint-hood from the Pope.  Does\n> somebody know what his email-address is? I'm so nice it makes you puke.\n(Taken from Linus's reply to someone worried about the future of Linux)",
-    "The nice thing about Windows is - It does not just crash, it displays a\ndialog box and lets you press 'OK' first.\n(Arno Schaefer's .sig)",
-    "The only \"intuitive\" interface is the nipple. After that, it's all learned.\n(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X interfaces.)",
-    "There are two types of Linux developers - those who can spell, and\nthose who can't. There is a constant pitched battle between the two.\n(From one of the post-1.1.54 kernel update messages posted to c.o.l.a)",
-    "This  message was brought to  you by Linux, the free  unix.\nWindows without the X is like making love without a partner.\nSex, Drugs & Linux Rules\nwin-nt from the people who invented edlin\napples  have  meant  trouble  since  eden\nLinux, the way to get rid of boot viruses\n(By mwikholm@at8.abo.fi, MaDsen Wikholm)",
-    "\"...Unix, MS-DOS, and Windows NT (also known as the Good, the Bad, and\nthe Ugly).\"\n(By Matt Welsh)",
-    "\"...very few phenomena can pull someone out of Deep Hack Mode, with two\nnoted exceptions: being struck by lightning, or worse, your *computer*\nbeing struck by lightning.\"\n(By Matt Welsh)",
-    "\"Waving away a cloud of smoke, I look up, and am blinded by a bright, white\nlight. It's God. No, not Richard Stallman, or Linus Torvalds, but God. In\na booming voice, He says: \"THIS IS A SIGN. USE LINUX, THE FREE UNIX SYSTEM\nFOR THE 386.\"\n(Matt Welsh)",
-    "\"We all know Linux is great...it does infinite loops in 5 seconds.\"\n(Linus Torvalds about the superiority of Linux on the Amterdam\nLinux Symposium)",
-    "We are MicroSoft.  You will be assimilated.  Resistance is futile.\n(Attributed to B.G., Gill Bates)",
-    "We are Pentium of Borg. Division is futile. You will be approximated.\n(seen in someone's .signature)",
-    "We are using Linux daily to UP our productivity - so UP yours!\n(Adapted from Pat Paulsen by Joe Sloan)",
-    "We come to bury DOS, not to praise it.\n(Paul Vojta, vojta@math.berkeley.edu, paraphrasing a quote of Shakespeare)",
-    "We use Linux for all our mission-critical applications. Having the source code\nmeans that we are not held hostage by anyone's support department.\n(Russell Nelson, President of Crynwr Software)",
-    "\"What you end up with, after running an operating system concept through\nthese many marketing coffee filters, is something not unlike plain hot\nwater.\"\n(By Matt Welsh)",
-    "What's this script do?\n    unzip ; touch ; finger ; mount ; gasp ; yes ; umount ; sleep\nHint for the answer: not everything is computer-oriented. Sometimes you're\nin a sleeping bag, camping out.\n(Contributed by Frans van der Zande.)",
-    "`When you say \"I wrote a program that crashed Windows\", people just stare at\nyou blankly and say \"Hey, I got those with the system, *for free*\".'\n(By Linus Torvalds)",
-    "\"Whip me.  Beat me.  Make me maintain AIX.\"\n(By Stephan Zielinski)",
-    "\"Who is General Failure and why is he reading my hard disk ?\"\nMicrosoft spel chekar vor sail, worgs grate !!\n(By leitner@inf.fu-berlin.de, Felix von Leitner)",
-    "Who wants to remember that escape-x-alt-control-left shift-b puts you into\nsuper-edit-debug-compile mode?\n(Discussion in comp.os.linux.misc on the intuitiveness of commands, especially\nEmacs.)",
-    "Why use Windows, since there is a door?\n(By fachat@galileo.rhein-neckar.de, Andre Fachat)",
-    "\"World domination.  Fast\"\n(By Linus Torvalds)",
-    "..you could spend *all day* customizing the title bar.  Believe me.  I\nspeak from experience.\"\n(By Matt Welsh)",
-    "\"...you might as well skip the Xmas celebration completely, and instead\nsit in front of your linux computer playing with the\nall-new-and-improved linux kernel version.\"\n(By Linus Torvalds)",
-    "Your job is being a professor and researcher: That's one hell of a good excuse\nfor some of the brain-damages of minix.\n(Linus Torvalds to Andrew Tanenbaum)\n%"
+    {
+      "content": "A Linux machine! because a 486 is a terrible thing to waste!\n(By jjs@wintermute.ucr.edu, Joe Sloan)",
+      "sha1": "85557ccb2f996977a1706a4430db9af84b7997c3"
+    },
+    {
+      "content": "\"A word to the wise: a credentials dicksize war is usually a bad idea on the\nnet.\"\n(David Parsons in c.o.l.development.system, about coding in C.)",
+      "sha1": "157034bc2c6d8080764f81c7f20cd99e2d6c56ce"
+    },
+    {
+      "content": "\"Absolutely nothing should be concluded from these figures except that\nno conclusion can be drawn from them.\"\n(By Joseph L. Brothers, Linux/PowerPC Project)",
+      "sha1": "c61e605ef7db9de8e3dfbca69bf1dba21659385c"
+    },
+    {
+      "content": "Actually, typing random strings in the Finder does the equivalent of\nfilename completion.\n(Discussion in comp.os.linux.misc on the intuitiveness of commands: file\ncompletion vs. the Mac Finder.)",
+      "sha1": "597bc390afcf492cc5dcb95b92962644a7e35661"
+    },
+    {
+      "content": "After watching my newly-retired dad spend two weeks learning how to make a new\nfolder, it became obvious that \"intuitive\" mostly means \"what the writer or\nspeaker of intuitive likes\".\n(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X the\nintuitiveness of a Mac interface.)",
+      "sha1": "116d73de6fd9525bcf0ca2760f9ac87ac29a9d22"
+    },
+    {
+      "content": "\"All language designers are arrogant.  Goes with the territory...\"\n(By Larry Wall)",
+      "sha1": "b300f2325bfc06ce5cf85f2ff6336566a7b564bd"
+    },
+    {
+      "content": "And 1.1.81 is officially BugFree(tm), so if you receive any bug-reports\non it, you know they are just evil lies.\"\n(By Linus Torvalds, Linus.Torvalds@cs.helsinki.fi)",
+      "sha1": "25107db4e75fd8038847b4c10058333f01c6d84c"
+    },
+    {
+      "content": "\"...and scantily clad females, of course.  Who cares if it's below zero\noutside\"\n(By Linus Torvalds)",
+      "sha1": "548cc089082ad86d636d886350d95df318217675"
+    },
+    {
+      "content": "\"And the next time you consider complaining that running Lucid Emacs\n19.05 via NFS from a remote Linux machine in Paraguay doesn't seem to\nget the background colors right, you'll know who to thank.\"\n(By Matt Welsh)",
+      "sha1": "1bd3d952afd1b431f89e5d4eaee1bc1d8350c3b4"
+    },
+    {
+      "content": "> : Any porters out there should feel happier knowing that DEC is shipping\n> : me an AlphaPC that I intend to try getting linux running on: this will\n> : definitely help flush out some of the most flagrant unportable stuff.\n> : The Alpha is much more different from the i386 than the 68k stuff is, so\n> : it's likely to get most of the stuff fixed.\n>\n> It's posts like this that almost convince us non-believers that there\n> really is a god.\n(A follow-up by alovell@kerberos.demon.co.uk, Anthony Lovell, to Linus's\nremarks about porting)",
+      "sha1": "baaac90955da9e998fc06bfd79f906a856e94f17"
+    },
+    {
+      "content": "Anyone who thinks UNIX is intuitive should be forced to write 5000 lines of \ncode using nothing but vi or emacs. AAAAACK!\n(Discussion in comp.os.linux.misc on the intuitiveness of commands, especially\nEmacs.)",
+      "sha1": "c8148f2dc6bd852932f5aeeae997b264b5c79473"
+    },
+    {
+      "content": "\"Are [Linux users] lemmings collectively jumping off of the cliff of\nreliable, well-engineered commercial software?\"\n(By Matt Welsh)",
+      "sha1": "a63c59182d139de46f161f4a6d40a4999347b788"
+    },
+    {
+      "content": "As usual, this being a 1.3.x release, I haven't even compiled this\nkernel yet.  So if it works, you should be doubly impressed.\n(Linus Torvalds, announcing kernel 1.3.3 on the linux-kernel mailing list.)",
+      "sha1": "30d89dec29580843301ef2f916b31c4bd592ef10"
+    },
+    {
+      "content": "Avoid the Gates of Hell.  Use Linux\n(Unknown source)",
+      "sha1": "593f8bbf00588acd746e5a78553cbeb22f51b402"
+    },
+    {
+      "content": "Be warned that typing \\fBkillall \\fIname\\fP may not have the desired\neffect on non-Linux systems, especially when done by a privileged user.\n(From the killall manual page)",
+      "sha1": "7b3c7e29664c55f9535acb9ef6697b8e833c5789"
+    },
+    {
+      "content": "\"Besides, I think [Slackware] sounds better than 'Microsoft,' don't you?\"\n(By Patrick Volkerding)",
+      "sha1": "f370518cba156ab97a7ffd2472674d343afcfbd6"
+    },
+    {
+      "content": "But what can you do with it?  -- ubiquitous cry from Linux-user partner.\n(Submitted by Andy Pearce, ajp@hpopd.pwd.hp.com)",
+      "sha1": "f0db2ccb749226c68166ad40aea807ca085da12b"
+    },
+    {
+      "content": "\"By golly, I'm beginning to think Linux really *is* the best thing since\nsliced bread.\"\n(By Vance Petree, Virginia Power)",
+      "sha1": "312c7d58ed2f478fb08ae19cb2bface344dd3819"
+    },
+    {
+      "content": "/*\n * Oops. The kernel tried to access some bad page. We'll have to\n * terminate things with extreme prejudice.\n*/\ndie_if_kernel(\"Oops\", regs, error_code);\n(From linux/arch/i386/mm/fault.c)\t\t\t\t   ",
+      "sha1": "ef9db99e15cc2fe569c7290c3afbd753f8ed6a3e"
+    },
+    {
+      "content": "\"...Deep Hack Mode--that mysterious and frightening state of\nconsciousness where Mortal Users fear to tread.\"\n(By Matt Welsh)",
+      "sha1": "79238b254b9154217cce545263883d4d841c525d"
+    },
+    {
+      "content": "Dijkstra probably hates me\n(Linus Torvalds, in kernel/sched.c)",
+      "sha1": "38c82f64812c22d2035f4d84d687a67f5d714c2f"
+    },
+    {
+      "content": "DOS: n., A small annoying boot virus that causes random spontaneous system\n     crashes, usually just before saving a massive project.  Easily cured by\n     UNIX.  See also MS-DOS, IBM-DOS, DR-DOS.\n(from David Vicker's .plan)",
+      "sha1": "46c7d741cb27eedbb7984c4037a9a6c8c1436a17"
+    },
+    {
+      "content": "/*\n * [...] Note that 120 sec is defined in the protocol as the maximum\n * possible RTT.  I guess we'll have to use something other than TCP\n * to talk to the University of Mars.\n * PAWS allows us longer timeouts and large windows, so once implemented\n * ftp to mars will work nicely.\n */\n(from /usr/src/linux/net/inet/tcp.c, concerning RTT [retransmission timeout])",
+      "sha1": "84aeeba9d311d843bae35298c1e40882c6a02a1b"
+    },
+    {
+      "content": "\"Even more amazing was the realization that God has Internet access.  I\nwonder if He has a full newsfeed?\"\n(By Matt Welsh)",
+      "sha1": "3fb90c37ae7cf1f3c6456363874005165603d176"
+    },
+    {
+      "content": ">Ever heard of .cshrc?\nThat's a city in Bosnia.  Right?\n(Discussion in comp.os.linux.misc on the intuitiveness of commands.)",
+      "sha1": "11584a3d7719a1ab9cc09eb91dbcba78f110a031"
+    },
+    {
+      "content": "Fatal Error: Found [MS-Windows] System -> Repartitioning Disk for Linux...\n(By cbbrown@io.org, Christopher Browne)",
+      "sha1": "349fac9694a9cb69dc0ba77969d039f92a8f4397"
+    },
+    {
+      "content": "How do I type \"for i in *.dvi do xdvi i done\" in a GUI?\n(Discussion in comp.os.linux.misc on the intuitiveness of interfaces.)",
+      "sha1": "3b6fdfaf9ed3ca19f5802f559ce22fd9e3c3f14c"
+    },
+    {
+      "content": "\"How should I know if it works?  That's what beta testers are for.  I only\ncoded it.\"\n(Attributed to Linus Torvalds, somewhere in a posting)",
+      "sha1": "42e59e48e434edfbf48a6875b3f2ba002bee2481"
+    },
+    {
+      "content": "----==-- _                     / /  \\\n---==---(_)__  __ ____  __    / / /\\ \\\n--==---/ / _ \\/ // /\\ \\/ /   / /_/\\ \\ \\\n-=====/_/_//_/\\_,_/ /_/\\_\\  /______\\ \\ \\\nA proud member of TeamLinux \\_________\\/\n(By CHaley (HAC), haley@unm.edu, ch008cth@pi.lanl.gov)",
+      "sha1": "b10163438365d9561885b822f13ef27b52aaeeb8"
+    },
+    {
+      "content": "I develop for Linux for a living, I used to develop for DOS.\nGoing from DOS to Linux is like trading a glider for an F117.\n(By entropy@world.std.com, Lawrence Foard)",
+      "sha1": "ea049ecdccd5d4fdf01f62a0a60dc7f76130c82a"
+    },
+    {
+      "content": "I did this 'cause Linux gives me a woody.  It doesn't generate revenue.\n(Dave '-ddt->` Taylor, announcing DOOM for Linux)",
+      "sha1": "b35ef8274af285eb9af253be271227180f49d4e5"
+    },
+    {
+      "content": "Feel free to contact me (flames about my english and the useless of this\ndriver will be redirected to /dev/null, oh no, it's full...).\n(Michael Beck, describing the PC-speaker sound device)",
+      "sha1": "1297b591694505ec31bfaa39af892564f603ea9c"
+    },
+    {
+      "content": "\"I don't know why, but first C programs tend to look a lot worse than\nfirst programs in any other language (maybe except for fortran, but then\nI suspect all fortran programs look like `firsts')\"\n(By Olaf Kirch)",
+      "sha1": "ae97a764b10540f041a0aecacb09a60c83aa279e"
+    },
+    {
+      "content": "\"I once witnessed a long-winded, month-long flamewar over the use of\nmice vs. trackballs...It was very silly.\"\n(By Matt Welsh)",
+      "sha1": "e12efc9b4b3b45a51c801b577b0bf8fc30ff1cde"
+    },
+    {
+      "content": "I still maintain the point that designing a monolithic kernel in 1991 is a\nfundamental error.  Be thankful you are not my student.  You would not get a\nhigh grade for such a design :-)\n(Andrew Tanenbaum to Linus Torvalds)",
+      "sha1": "c35321fea857a7188bd4ab2409766f10fc76a874"
+    },
+    {
+      "content": "\"I would rather spend 10 hours reading someone else's source code than\n10 minutes listening to Musak waiting for technical support which isn't.\"\n(By Dr. Greg Wettstein, Roger Maris Cancer Center)",
+      "sha1": "126709951eece208f48cf7e932100cacab2a2839"
+    },
+    {
+      "content": "\"I'd crawl over an acre of 'Visual This++' and 'Integrated Development\nThat' to get to gcc, Emacs, and gdb.  Thank you.\"\n(By Vance Petree, Virginia Power)",
+      "sha1": "5f4f386589412c35a14da2488ff5611d89d68a56"
+    },
+    {
+      "content": "\"I'm an idiot.. At least this one [bug] took about 5 minutes to find..\"\n(Linus Torvalds in response to a bug report.)\n\n> I'm an idiot.. At least this [bug] took about 5 minutes to find..\nDisquieting ...\n(Gonzalo Tornaria in response to Linus Torvalds's mailing about a kernel bug.)\n\n> I'm an idiot.. At least this [bug] took about 5 minutes to find..\nWe need to find some new terms to describe the rest of us mere mortals\nthen.\n(Craig Schlenter in response to Linus Torvalds's mailing about a kernel bug.)\n\n> I'm an idiot.. At least this [bug] took about 5 minutes to find..\nSurely, Linus is talking about the kind of idiocy that others aspire to :-).\n(Bruce Perens in response to Linus Torvalds's mailing about a kernel bug.)",
+      "sha1": "1ca721cecbf60336136530937477c395b4fe100e"
+    },
+    {
+      "content": "I've run DOOM more in the last few days than I have the last few\nmonths.  I just love debugging ;-)\n(Linus Torvalds)",
+      "sha1": "76a7ee7e449759a3c29b8bcd3218530bc12d30a0"
+    },
+    {
+      "content": "Microsoft Corp., concerned by the growing popularity of the free 32-bit\noperating system for Intel systems, Linux, has employed a number of top\nprogrammers from the underground world of virus development. Bill Gates stated\nyesterday: \"World domination, fast -- it's either us or Linus\". Mr. Torvalds\nwas unavailable for comment ...\n(rjm@swift.eng.ox.ac.uk (Robert Manners), in comp.os.linux.setup)",
+      "sha1": "a6307545b050b6de762e88ae1eb850ab808e5b49"
+    },
+    {
+      "content": "    if (argc > 1 && strcmp(argv[1], \"-advice\") == 0) {\n\tprintf(\"Don't Panic!\\n\");\n\texit(42);\n    }\n(Arnold Robbins in the LJ of February '95, describing RCS)",
+      "sha1": "f362ea5970440f7d0f683fb35852f09cb7d43f7a"
+    },
+    {
+      "content": "+#if defined(__alpha__) && defined(CONFIG_PCI)\n+       /*\n+        * The meaning of life, the universe, and everything. Plus\n+        * this makes the year come out right.\n+        */\n+       year -= 42;\n+#endif\n(From the patch for 1.3.2: (kernel/time.c), submitted by Marcus Meissner)",
+      "sha1": "5421b29040cf23df61e449ee7c9cfc58b82c6ecb"
+    },
+    {
+      "content": "\"If the future navigation system [for interactive networked services on\nthe NII] looks like something from Microsoft, it will never work.\"\n(Chairman of Walt Disney Television & Telecommunications)",
+      "sha1": "dfb435cc9610020951b83c8471e3947f5980facf"
+    },
+    {
+      "content": "\"If you want to travel around the world and be invited to speak at a lot\nof different places, just write a Unix operating system.\"\n(By Linus Torvalds)",
+      "sha1": "cec62eb45ecfb57b0664eab43c8721828b7f1134"
+    },
+    {
+      "content": "\"[In 'Doctor' mode], I spent a good ten minutes telling Emacs what I\nthought of it.  (The response was, 'Perhaps you could try to be less\nabusive.')\"\n(By Matt Welsh)",
+      "sha1": "cbfa4bc9b3166e4815186659437c6fae8d9b43fc"
+    },
+    {
+      "content": "In most countries selling harmful things like drugs is punishable.\nThen howcome people can sell Microsoft software and go unpunished?\n(By hasku@rost.abo.fi, Hasse Skrifvars)",
+      "sha1": "73c9fb0a1b9a8daf54c8f704913f7d278a7b0139"
+    },
+    {
+      "content": "Intel engineering seem to have misheard Intel marketing strategy. The phrase\nwas \"Divide and conquer\" not \"Divide and cock up\"\n(By iialan@www.linux.org.uk, Alan Cox)",
+      "sha1": "81350cc726cf4742510bf968945b795fa363b490"
+    },
+    {
+      "content": "\"It's God.  No, not Richard Stallman, or Linus Torvalds, but God.\"\n(By Matt Welsh)",
+      "sha1": "266d5ea09b0e66174c870dfa75e2eb356c57c1e1"
+    },
+    {
+      "content": "LILO, you've got me on my knees!\n(from David Black, dblack@pilot.njin.net, with apologies to Derek and the\nDominos, and Werner Almsberger)",
+      "sha1": "fe423260b50ae9228dd1d95d6e6305d9a8107d13"
+    },
+    {
+      "content": "Linux is obsolete\n(Andrew Tanenbaum)",
+      "sha1": "49648b2f79512c9cd65fb04e0afa295a9c1a2d60"
+    },
+    {
+      "content": "\"Linux poses a real challenge for those with a taste for late-night\nhacking (and/or conversations with God).\"\n(By Matt Welsh)",
+      "sha1": "0a21924bbccc5457ebee617473bcda6c25cfdead"
+    },
+    {
+      "content": "Linux!  Guerrilla UNIX Development     Venimus, Vidimus, Dolavimus.\n(By mah@ka4ybr.com, Mark A. Horton KA4YBR)",
+      "sha1": "40acb2ca906125fb101461799bb756478e6acaf1"
+    },
+    {
+      "content": "\"...[Linux's] capacity to talk via any medium except smoke signals.\"\n(By Dr. Greg Wettstein, Roger Maris Cancer Center)",
+      "sha1": "a0b4cf03497d6ba361659c7a7ed6a559912cd3a1"
+    },
+    {
+      "content": "linux: because a PC is a terrible thing to waste\n(ksh@cis.ufl.edu put this on Tshirts in '93)",
+      "sha1": "115eb1b85294aa0573c85a4e4c978a60e212a877"
+    },
+    {
+      "content": "Linux: Because a PC is a terrible thing to waste.\n(By komarimf@craft.camp.clarkson.edu, Mark Komarinski)",
+      "sha1": "96c75b72f02477b1b04043194108e5ead3943d6a"
+    },
+    {
+      "content": "linux: the choice of a GNU generation\n(ksh@cis.ufl.edu put this on Tshirts in '93)",
+      "sha1": "d9997fe86932e64a18e2901d1bcfd2aa438dffbe"
+    },
+    {
+      "content": "\"Linux: the operating system with a CLUE...\nCommand Line User Environment\".\n(seen in a posting in comp.software.testing)",
+      "sha1": "70797fd5a3840f181eb0c5ae3f04f35b224a4ce0"
+    },
+    {
+      "content": "lp1 on fire\n(One of the more obfuscated kernel messages)",
+      "sha1": "8e0b9cdfd453703e1ebacb3db86eece03745bef1"
+    },
+    {
+      "content": "Microsoft is not the answer.\nMicrosoft is the question.\nNO (or Linux) is the answer.\n(Taken from a .signature from someone from the UK, source unknown)",
+      "sha1": "f02f74fbf1ff85ed98335513307801b25e69ff09"
+    },
+    {
+      "content": "'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'\nvon Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.\n(Christa Keil in a German posting: \"Mounting is used for three things:\nclimbing on a horse, linking in a hard disk unit in data systems, and, well,\nmounting during sex\".)",
+      "sha1": "4e030b1f28fc79f42d9888f8a0631feb193b347b"
+    },
+    {
+      "content": "\"MSDOS didn't get as bad as it is overnight -- it took over ten years\nof careful development.\"\n(By dmeggins@aix1.uottawa.ca)",
+      "sha1": "d233bb8029be0d33c738e11ecb968fbecdb92d95"
+    },
+    {
+      "content": "\"Never make any mistaeks.\"\n(Anonymous, in a mail discussion about to a kernel bug report.)",
+      "sha1": "becd980498a812d60dfe940841d395e993679301"
+    },
+    {
+      "content": "> No manual is ever necessary.\nMay I politely interject here: BULLSHIT.  That's the biggest Apple lie of all!\n(Discussion in comp.os.linux.misc on the intuitiveness of interfaces.)",
+      "sha1": "f74e107a0900980593f938ae24c9d387e55ad04b"
+    },
+    {
+      "content": "Not me, guy. I read the Bash man page each day like a Jehovah's Witness reads\nthe Bible. No wait, the Bash man page IS the bible. Excuse me...\n(More on confusing aliases, taken from comp.os.linux.misc)",
+      "sha1": "6e7068c2f3e536652d18a3639d77da7bc04ffa15"
+    },
+    {
+      "content": "\"Note that if I can get you to \\\"su and say\\\" something just by asking,\nyou have a very serious security problem on your system and you should\nlook into it.\"\n(By Paul Vixie, vixie-cron 3.0.1 installation notes)",
+      "sha1": "5af26a6ae3df43ae0dfb9e897425e599cdd74b46"
+    },
+    {
+      "content": "Now I know someone out there is going to claim, \"Well then, UNIX is intuitive,\nbecause you only need to learn 5000 commands, and then everything else follows\nfrom that! Har har har!\"\n(Andy Bates in comp.os.linux.misc, on \"intuitive interfaces\", slightly\ndefending Macs.)",
+      "sha1": "0430347492551db7c91eecd716ffa24609c2a85b"
+    },
+    {
+      "content": "Now, it we had this sort of thing:\n  yield -a     for yield to all traffic\n  yield -t     for yield to trucks\n  yield -f     for yield to people walking (yield foot)\n  yield -d t*  for yield on days starting with t\n...you'd have a lot of dead people at intersections, and traffic jams you\nwouldn't believe...\n(Discussion in comp.os.linux.misc on the intuitiveness of commands.)",
+      "sha1": "dd9f1d5d0e4eb97be012c80e88a3f2ea7f49da21"
+    },
+    {
+      "content": "\"Oh, I've seen copies [of Linux Journal] around the terminal room at The\nLabs.\"\n(By Dennis Ritchie)",
+      "sha1": "a0a9973df41eaa2879639385e287ee622efcd18c"
+    },
+    {
+      "content": "\"On a normal ascii line, the only safe condition to detect is a 'BREAK'\n- everything else having been assigned functions by Gnu EMACS.\"\n(By Tarl Neustaedter)",
+      "sha1": "1e429746cba402af712f9feda6e5cd7687609b37"
+    },
+    {
+      "content": "\"On the Internet, no one knows you're using Windows NT\"\n(Submitted by Ramiro Estrugo, restrugo@fateware.com)",
+      "sha1": "416180e95835ca1840a215192bc4dca3711ff0de"
+    },
+    {
+      "content": "Once upon a time there was a DOS user who saw Unix, and saw that it was\ngood. After typing cp on his DOS machine at home, he downloaded GNU's\nunix tools ported to DOS and installed them. He rm'd, cp'd, and mv'd\nhappily for many days, and upon finding elvis, he vi'd and was happy. After\na long day at work (on a Unix box) he came home, started editing a file,\nand couldn't figure out why he couldn't suspend vi (w/ ctrl-z) to do\na compile.\n(By ewt@tipper.oit.unc.edu (Erik Troan)",
+      "sha1": "2c3af0ad75a35e064b49f0f0c0d37d2feac15cb2"
+    },
+    {
+      "content": "> > Other than the fact Linux has a cool name, could someone explain why I\n> > should use Linux over BSD?\n>\n> No.  That's it.  The cool name, that is.  We worked very hard on\n> creating a name that would appeal to the majority of people, and it\n> certainly paid off: thousands of people are using linux just to be able\n> to say \"OS/2? Hah.  I've got Linux.  What a cool name\".  386BSD made the\n> mistake of putting a lot of numbers and weird abbreviations into the\n> name, and is scaring away a lot of people just because it sounds too\n> technical.\n(Linus Torvalds' follow-up to a question about Linux)",
+      "sha1": "7c7c43ddde824d6da5bd54ed34d5ef131f24346b"
+    },
+    {
+      "content": "Personally, I think my choice in the mostest-superlative-computer wars has to\nbe the HP-48 series of calculators.  They'll run almost anything.  And if they\ncan't, while I'll just plug a Linux box into the serial port and load up the\nHP-48 VT-100 emulator.\n(By jdege@winternet.com, Jeff Dege)",
+      "sha1": "df8014ffd3fd7d610620e36a3b28f2e5a9fd8712"
+    },
+    {
+      "content": "There are no threads in a.b.p.erotica,  so there's no  gain in using a\nthreaded news reader.\n(Unknown source)",
+      "sha1": "4cf7a73dd67c0d5eff4c342a130b8dc35f61d244"
+    },
+    {
+      "content": "\"Problem solving under linux has never been the circus that it is under\nAIX.\"\n(By Pete Ehlke in comp.unix.aix)",
+      "sha1": "acf901170b00f2ab6c37662310f6037a324d8782"
+    },
+    {
+      "content": "quit   When the quit statement is read, the  bc  processor\n       is  terminated, regardless of where the quit state-\n       ment is found.  For example, \"if  (0  ==  1)  quit\"\n       will cause bc to terminate.\n(Seen in the manpage for \"bc\". Note the \"if\" statement's logic)",
+      "sha1": "7f95a4704cfa5e005e9652144ab97e8cc572bc57"
+    },
+    {
+      "content": "Running Windows on a Pentium is like having a brand new Porsche but only\nbe able to drive backwards with the handbrake on.\n(Unknown source)",
+      "sha1": "bdc9da5706a68bba2091a7afe5b930b49598f863"
+    },
+    {
+      "content": "\"sic transit discus mundi\"\n(From the System Administrator's Guide, by Lars Wirzenius)",
+      "sha1": "afb43342bc8991dc779af74ebbd8cea451c46541"
+    },
+    {
+      "content": "Sigh.  I like to think it's just the Linux people who want to be on\nthe \"leading edge\" so bad they walk right off the precipice.\n(Craig E. Groeschel)",
+      "sha1": "bc1a1e6dbdb56d6613bcec2b14096a802f487ca7"
+    },
+    {
+      "content": "The chat program is in public domain. This is not the GNU public license. If\nit breaks then you get to keep both pieces.\n(Copyright notice for the chat program)",
+      "sha1": "072d52f1647c85ac530cb089f55dffbd25c741ab"
+    },
+    {
+      "content": "> The day people think linux would be better served by somebody else (FSF\n> being the natural alternative), I'll \"abdicate\".  I don't think that\n> it's something people have to worry about right now - I don't see it\n> happening in the near future.  I enjoy doing linux, even though it does\n> mean some work, and I haven't gotten any complaints (some almost timid\n> reminders about a patch I have forgotten or ignored, but nothing\n> negative so far).\n>\n> Don't take the above to mean that I'll stop the day somebody complains:\n> I'm thick-skinned (Lasu, who is reading this over my shoulder commented\n> that \"thick-HEADED is closer to the truth\") enough to take some abuse.\n> If I weren't, I'd have stopped developing linux the day ast ridiculed me\n> on c.o.minix.  What I mean is just that while linux has been my baby so\n> far, I don't want to stand in the way if people want to make something\n> better of it (*).\n>\n>                 Linus\n>\n> (*) Hey, maybe I could apply for a saint-hood from the Pope.  Does\n> somebody know what his email-address is? I'm so nice it makes you puke.\n(Taken from Linus's reply to someone worried about the future of Linux)",
+      "sha1": "311dbd3def82ccd320360efa613f645408ae43b5"
+    },
+    {
+      "content": "The nice thing about Windows is - It does not just crash, it displays a\ndialog box and lets you press 'OK' first.\n(Arno Schaefer's .sig)",
+      "sha1": "2c45adcb9a266f6807f2c2952647ca7687e0483b"
+    },
+    {
+      "content": "The only \"intuitive\" interface is the nipple. After that, it's all learned.\n(Bruce Ediger, bediger@teal.csn.org, in comp.os.linux.misc, on X interfaces.)",
+      "sha1": "851ccafcfbc00e8ac23074c9a0e8472ac5b641b4"
+    },
+    {
+      "content": "There are two types of Linux developers - those who can spell, and\nthose who can't. There is a constant pitched battle between the two.\n(From one of the post-1.1.54 kernel update messages posted to c.o.l.a)",
+      "sha1": "2fea48557cdd7c5a30293db3c8c6e71946a0212a"
+    },
+    {
+      "content": "This  message was brought to  you by Linux, the free  unix.\nWindows without the X is like making love without a partner.\nSex, Drugs & Linux Rules\nwin-nt from the people who invented edlin\napples  have  meant  trouble  since  eden\nLinux, the way to get rid of boot viruses\n(By mwikholm@at8.abo.fi, MaDsen Wikholm)",
+      "sha1": "a959f2479c2d315d68ba70156b551ccd764aa49a"
+    },
+    {
+      "content": "\"...Unix, MS-DOS, and Windows NT (also known as the Good, the Bad, and\nthe Ugly).\"\n(By Matt Welsh)",
+      "sha1": "5b19aa6c920b884a22cf3ddf5975f96f2ac205eb"
+    },
+    {
+      "content": "\"...very few phenomena can pull someone out of Deep Hack Mode, with two\nnoted exceptions: being struck by lightning, or worse, your *computer*\nbeing struck by lightning.\"\n(By Matt Welsh)",
+      "sha1": "6fd61b669ff677a49fe7e01ea3cfcb65e8891559"
+    },
+    {
+      "content": "\"Waving away a cloud of smoke, I look up, and am blinded by a bright, white\nlight. It's God. No, not Richard Stallman, or Linus Torvalds, but God. In\na booming voice, He says: \"THIS IS A SIGN. USE LINUX, THE FREE UNIX SYSTEM\nFOR THE 386.\"\n(Matt Welsh)",
+      "sha1": "527e2009c997cadd1ab754dee7004dbc89113873"
+    },
+    {
+      "content": "\"We all know Linux is great...it does infinite loops in 5 seconds.\"\n(Linus Torvalds about the superiority of Linux on the Amterdam\nLinux Symposium)",
+      "sha1": "8d635cfaae1eec30ec0217fa2ec818d7f6e83d89"
+    },
+    {
+      "content": "We are MicroSoft.  You will be assimilated.  Resistance is futile.\n(Attributed to B.G., Gill Bates)",
+      "sha1": "1e14406001c38986292b06c69f520996e5ca487c"
+    },
+    {
+      "content": "We are Pentium of Borg. Division is futile. You will be approximated.\n(seen in someone's .signature)",
+      "sha1": "875b87f4db9c64fab2feacf82f217dd80d3dd595"
+    },
+    {
+      "content": "We are using Linux daily to UP our productivity - so UP yours!\n(Adapted from Pat Paulsen by Joe Sloan)",
+      "sha1": "86c377564c91aa99512af97c9763ec99fc313c44"
+    },
+    {
+      "content": "We come to bury DOS, not to praise it.\n(Paul Vojta, vojta@math.berkeley.edu, paraphrasing a quote of Shakespeare)",
+      "sha1": "de7246d088fca04c51a2669923bd61445253cced"
+    },
+    {
+      "content": "We use Linux for all our mission-critical applications. Having the source code\nmeans that we are not held hostage by anyone's support department.\n(Russell Nelson, President of Crynwr Software)",
+      "sha1": "2bc59953faa73fbbb14b5f8a626bd1959893464a"
+    },
+    {
+      "content": "\"What you end up with, after running an operating system concept through\nthese many marketing coffee filters, is something not unlike plain hot\nwater.\"\n(By Matt Welsh)",
+      "sha1": "dff3603f96f4fcd7cb6aa48f63e0747c2a91cba6"
+    },
+    {
+      "content": "What's this script do?\n    unzip ; touch ; finger ; mount ; gasp ; yes ; umount ; sleep\nHint for the answer: not everything is computer-oriented. Sometimes you're\nin a sleeping bag, camping out.\n(Contributed by Frans van der Zande.)",
+      "sha1": "758796a52c6ad6da224feccb81b07ce3a2868bbe"
+    },
+    {
+      "content": "`When you say \"I wrote a program that crashed Windows\", people just stare at\nyou blankly and say \"Hey, I got those with the system, *for free*\".'\n(By Linus Torvalds)",
+      "sha1": "b9c304e14d57664bbeaa744718930732fc9e4e1a"
+    },
+    {
+      "content": "\"Whip me.  Beat me.  Make me maintain AIX.\"\n(By Stephan Zielinski)",
+      "sha1": "06fd03c45a5e471aa56cd45361d2f32be2349a00"
+    },
+    {
+      "content": "\"Who is General Failure and why is he reading my hard disk ?\"\nMicrosoft spel chekar vor sail, worgs grate !!\n(By leitner@inf.fu-berlin.de, Felix von Leitner)",
+      "sha1": "8111b287ac869075f6cfaeaaa2df3a8f574f3549"
+    },
+    {
+      "content": "Who wants to remember that escape-x-alt-control-left shift-b puts you into\nsuper-edit-debug-compile mode?\n(Discussion in comp.os.linux.misc on the intuitiveness of commands, especially\nEmacs.)",
+      "sha1": "a1fca0f62332797eb25cba4264b6e50c593f7bc0"
+    },
+    {
+      "content": "Why use Windows, since there is a door?\n(By fachat@galileo.rhein-neckar.de, Andre Fachat)",
+      "sha1": "d34a8c8fb7dabe3d8c3f8da54ea12e6232e2b0da"
+    },
+    {
+      "content": "\"World domination.  Fast\"\n(By Linus Torvalds)",
+      "sha1": "b870e97eb86bc071a663ba6694db724139a60c41"
+    },
+    {
+      "content": "..you could spend *all day* customizing the title bar.  Believe me.  I\nspeak from experience.\"\n(By Matt Welsh)",
+      "sha1": "667ea65b90d0333b5042774f15f2e7e69bbe1291"
+    },
+    {
+      "content": "\"...you might as well skip the Xmas celebration completely, and instead\nsit in front of your linux computer playing with the\nall-new-and-improved linux kernel version.\"\n(By Linus Torvalds)",
+      "sha1": "bc77b35e20aa6f24813fc207d91a83f62bea90fd"
+    },
+    {
+      "content": "Your job is being a professor and researcher: That's one hell of a good excuse\nfor some of the brain-damages of minix.\n(Linus Torvalds to Andrew Tanenbaum)\n%",
+      "sha1": "186209a530b11c95acaa43cc7f87a6d45f25f810"
+    }
   ]
 }

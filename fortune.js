@@ -46,10 +46,10 @@ class Fortune {
     for (const json of jsons) {
       if (idx < json.count) {
         const file = json.file;
-        const content = json.data[idx];
+        const data = json.data[idx];
         return {
           file,
-          content,
+          data,
         };
       }
       idx -= json.count;

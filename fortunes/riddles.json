@@ -2,133 +2,517 @@
   "file": "riddles",
   "count": 128,
   "data": [
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13\nA:\tDoc, Happy, Bashful, Dopey, Sneezy, Sleepy, & Grumpy\nQ:\tWho were the Democratic presidential candidates?",
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15\nA:\tThe Royal Canadian Mounted Police.\nQ:\tWhat was the greatest achievement in taxidermy?",
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19\nA:\tTo be or not to be.\nQ:\tWhat is the square root of 4b^2?",
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #21\nA:\tDr. Livingston I. Presume.\nQ:\tWhat's Dr. Presume's full name?",
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #31\nA:\tChicken Teriyaki.\nQ:\tWhat is the name of the world's oldest kamikaze pilot?",
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #4\nA:\tGo west, young man, go west!\nQ:\tWhat do wabbits do when they get tiwed of wunning awound?",
-    "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #5\nA:\tThe Halls of Montezuma and the Shores of Tripoli.\nQ:\tName two families whose kids won't join the Marines.",
-    "Knock, knock!\n\tWho's there?\nSam and Janet.\n\tSam and Janet who?\nSam and Janet Evening...",
-    "Knucklehead:\t\"Knock, knock\"\nPee Wee:\t\"Who's there?\"\nKnucklehead:\t\"Little ol' lady.\"\nPee Wee:\t\"Liddle ol' lady who?\"\nKnucklehead:\t\"I didn't know you could yodel\"",
-    "Q:\t\"What is the burning question on the mind of every dyslexic\n\texistentialist?\"\nA:\t\"Is there a dog?\"",
-    "Q:\tAre we not men?\nA:\tWe are Vaxen.",
-    "Q:\tDo you know what the death rate around here is?\nA:\tOne per person.",
-    "Q:\tHow can you tell when a Burroughs salesman is lying?\nA:\tWhen his lips move.",
-    "Q:\tHow did you get into artificial intelligence?\nA:\tSeemed logical -- I didn't have any real intelligence.",
-    "Q:\tHow do you catch a unique rabbit?\nA:\tUnique up on it!\n\nQ:\tHow do you catch a tame rabbit?\nA:\tThe tame way!",
-    "Q:\tHow do you keep a moron in suspense?",
-    "Q:\tHow do you play religious roulette?\nA:\tYou stand around in a circle and blaspheme and see who gets\n\tstruck by lightning first.",
-    "Q:\tHow do you save a drowning lawyer?\nA:\tThrow him a rock.",
-    "Q:\tHow do you shoot a blue elephant?\nA:\tWith a blue-elephant gun.\n\nQ:\tHow do you shoot a pink elephant?\nA:\tTwist its trunk until it turns blue, then shoot it with\n\ta blue-elephant gun.",
-    "Q:\tHow do you stop an elephant from charging?\nA:\tTake away his credit cards.",
-    "Q:\tHow does a hacker fix a function which\n\tdoesn't work for all of the elements in its domain?\nA:\tHe changes the domain.",
-    "Q:\tHow does the Polish Constitution differ from the American?\nA:\tUnder the Polish Constitution citizens are guaranteed freedom of\n\tspeech, but under the United States constitution they are\n\tguaranteed freedom after speech.\n\t\t-- being told in Poland, 1987",
-    "Q:\tHow many Bell Labs Vice Presidents does it take to change a light bulb?\nA:\tThat's proprietary information.  Answer available from AT&T on payment\n\tof license fee (binary only).",
-    "Q:\tHow many bureaucrats does it take to screw in a light bulb?\nA:\tTwo.  One to assure everyone that everything possible is being\n\tdone while the other screws the bulb into the water faucet.",
-    "Q:\tHow many Californians does it take to screw in a light bulb?\nA:\tFive.  One to screw in the light bulb and four to share the\n\t\texperience.  (Actually, Californians don't screw in\n\t\tlight bulbs, they screw in hot tubs.)\n\nQ:\tHow many Oregonians does it take to screw in a light bulb?\nA:\tThree.  One to screw in the light bulb and two to fend off all\n\t\tthose Californians trying to share the experience.",
-    "Q:\tHow many college football players does it take to screw in a light bulb?\nA:\tOnly one, but he gets three credits for it.",
-    "Q:\tHow many DEC repairman does it take to fix a flat?\nA:\tFive; four to hold the car up and one to swap tires.\n\nQ:\tHow long does it take?\nA:\tIt's indeterminate.\n\tIt will depend upon how many flats they've brought with them.\n\nQ:\tWhat happens if you've got TWO flats?\nA:\tThey replace your generator.",
-    "Q:\tHow many elephants can you fit in a VW Bug?\nA:\tFour.  Two in the front, two in the back.\n\nQ:\tHow can you tell if an elephant is in your refrigerator?\nA:\tThere's a footprint in the mayo.\n\nQ:\tHow can you tell if two elephants are in your refrigerator?\nA:\tThere's two footprints in the mayo.\n\nQ:\tHow can you tell if three elephants are in your refrigerator?\nA:\tThe door won't shut.\n\nQ:\tHow can you tell if four elephants are in your refrigerator?\nA:\tThere's a VW Bug in your driveway.",
-    "Q:\tHow many existentialists does it take to screw in a light bulb?\nA:\tTwo.  One to screw it in and one to observe how the light bulb\n\titself symbolizes a single incandescent beacon of subjective\n\treality in a netherworld of endless absurdity reaching out toward a\n\tmaudlin cosmos of nothingness.",
-    "Q:\tHow many gradual (sorry, that's supposed to be \"graduate\") students\n\tdoes it take to screw in a light bulb?\nA:\t\"I'm afraid we don't know, but make my stipend tax-free, give my\n\tadvisor a $30,000 grant of the taxpayer's money, and I'm sure he\n\tcan tell me how to do the gruntwork for him so he can take the\n\tcredit for answering this incredibly vital question.\"",
-    "Q:\tHow many hardware engineers does it take to change a light bulb?\nA:\tNone.  We'll fix it in software.\n\nQ:\tHow many system programmers does it take to change a light bulb?\nA:\tNone.  The application can work around it.\n\nQ:\tHow many software engineers does it take to change a light bulb?\nA:\tNone.  We'll document it in the manual.\n\nQ:\tHow many tech writers does it take to change a light bulb?\nA:\tNone.  The user can figure it out.",
-    "Q:\tHow many Harvard MBA's does it take to screw in a light bulb?\nA:\tJust one.  He grasps it firmly and the universe revolves around him.",
-    "Q:\tHow many IBM 370's does it take to execute a job?\nA:\tFour, three to hold it down, and one to rip its head off.",
-    "Q:\tHow many IBM CPU's does it take to do a logical right shift?\nA:\t33.  1 to hold the bits and 32 to push the register.",
-    "Q:\tHow many IBM types does it take to change a light bulb?\nA:\tFifteen.  One to do it, and fourteen to write document number\n\tGC7500439-0001, Multitasking Incandescent Source System Facility,\n\tof which 10% of the pages state only \"This page intentionally\n\tleft blank\", and 20% of the definitions are of the form \"A:.....\n\tconsists of sequences of non-blank characters separated by blanks\".",
-    "Q:\tHow many journalists does it take to screw in a light bulb?\nA:\tThree.  One to report it as an inspired government program to bring\n\tlight to the people, one to report it as a diabolical government plot\n\tto deprive the poor of darkness, and one to win a Pulitzer prize for\n\treporting that Electric Company hired a light bulb-assassin to break\n\tthe bulb in the first place.",
-    "Q:\tHow many lawyers does it take to change a light bulb?\nA:\tOne.  Only it's his light bulb when he's done.",
-    "Q:\tHow many lawyers does it take to change a light bulb?\nA:\tWhereas the party of the first part, also known as \"Lawyer\", and the\nparty of the second part, also known as \"Light Bulb\", do hereby and forthwith\nagree to a transaction wherein the party of the second part shall be removed\nfrom the current position as a result of failure to perform previously agreed\nupon duties, i.e., the lighting, elucidation, and otherwise illumination of\nthe area ranging from the front (north) door, through the entryway, terminating\nat an area just inside the primary living area, demarcated by the beginning of\nthe carpet, any spillover illumination being at the option of the party of the\nsecond part and not required by the aforementioned agreement between the\nparties.\n\tThe aforementioned removal transaction shall include, but not be\nlimited to, the following.  The party of the first part shall, with or without\nelevation at his option, by means of a chair, stepstool, ladder or any other\nmeans of elevation, grasp the party of the second part and rotate the party\nof the second part in a counter-clockwise direction, this point being tendered\nnon-negotiable.  Upon reaching a point where the party of the second part\nbecomes fully detached from the receptacle, the party of the first part shall\nhave the option of disposing of the party of the second part in a manner\nconsistent with all relevant and applicable local, state and federal statutes.\nOnce separation and disposal have been achieved, the party of the first part\nshall have the option of beginning installation.  Aforesaid installation shall\noccur in a manner consistent with the reverse of the procedures described in\nstep one of this self-same document, being careful to note that the rotation\nshould occur in a clockwise direction, this point also being non-negotiable.\nThe above described steps may be performed, at the option of the party of the\nfirst part, by any or all agents authorized by him, the objective being to\nproduce the most possible revenue for the Partnership.",
-    "Q:\tHow many lawyers does it take to change a light bulb?\nA:\tYou won't find a lawyer who can change a light bulb.  Now, if\n\tyou're looking for a lawyer to screw a light bulb...",
-    "Q:\tHow many marketing people does it take to change a light bulb?\nA:\tI'll have to get back to you on that.",
-    "Q:\tHow many Martians does it take to screw in a light bulb?\nA:\tOne and a half.",
-    "Q:\tHow many Marxists does it take to screw in a light bulb?\nA:\tNone:  The light bulb contains the seeds of its own revolution.",
-    "Q:\tHow many mathematicians does it take to screw in a light bulb?\nA:\tOne.  He gives it to six Californians, thereby reducing the problem\n\tto the earlier joke.",
-    "Q:\tHow many members of the U.S.S. Enterprise does it take to change a\n\tlight bulb?\nA:\tSeven.  Scotty has to report to Captain Kirk that the light bulb in\n\tthe Engineering Section is getting dim, at which point Kirk will send\n\tBones to pronounce the bulb dead (although he'll immediately claim\n\tthat he's a doctor, not an electrician).  Scotty, after checking\n\taround, realizes that they have no more new light bulbs, and complains\n\tthat he \"canna\" see in the dark.  Kirk will make an emergency stop at\n\tthe next uncharted planet, Alpha Regula IV, to procure a light bulb\n\tfrom the natives, who, are friendly, but seem to be hiding something.\n\tKirk, Spock, Bones, Yeoman Rand and two red shirt security officers\n\tbeam down to the planet, where the two security officers are promply\n\tkilled by the natives, and the rest of the landing party is captured.\n\tAs something begins to develop between the Captain and Yeoman Rand,\n\tScotty, back in orbit, is attacked by a Klingon destroyer and must\n\twarp out of orbit.  Although badly outgunned, he cripples the Klingon\n\tand races back to the planet in order to rescue Kirk et. al. who have\n\tjust saved the natives' from an awful fate and, as a reward, been\n\tgiven all light bulbs they can carry.  The new bulb is then inserted\n\tand the Enterprise continues on its five year mission.",
-    "Q:\tHow many Oregonians does it take to screw in a light bulb?\nA:\tThree.  One to screw in the light bulb and two to fend off all those\n\tCalifornians trying to share the experience.",
-    "Q:\tHow many psychiatrists does it take to change a light bulb?\nA:\tOnly one, but it takes a long time, and the light bulb has\n\tto really want to change.",
-    "Q:\tHow many supply-siders does it take to change a light bulb?\nA:\tNone.  The darkness will cause the light bulb to change by itself.",
-    "Q:\tHow many surrealists does it take to change a light bulb?\nA:\tTwo, one to hold the giraffe, and the other to fill the bathtub\n\twith brightly colored machine tools.\n\n\t[Surrealist jokes just aren't my cup of fur.  Ed.]",
-    "Q:\tHow many WASPs does it take to change a light bulb?\nA:\tOne.",
-    "Q:\tHow many Zen masters does it take to screw in a light bulb?\nA:\tNone.  The Universe spins the bulb, and the Zen master stays out\n\tof the way.",
-    "Q:\tHow much does it cost to ride the Unibus?\nA:\t2 bits.",
-    "Q:\tHow was Thomas J. Watson buried?\nA:\t9 edge down.",
-    "Q:\tKnow what the difference between your latest project\n\tand putting wings on an elephant is?\nA:\tWho knows?  The elephant *might* fly, heh, heh...",
-    "Q:\tMinnesotans ask, \"Why aren't there more pharmacists from Alabama?\"\nA:\tEasy.  It's because they can't figure out how to get the little\n\tbottles into the typewriter.",
-    "Q:\tWhat did Tarzan say when he saw the elephants coming over the hill?\nA:\t\"The elephants are coming over the hill.\"\n\nQ:\tWhat did he say when saw them coming over the hill wearing\n\t\tsunglasses?\nA:\tNothing, for he didn't recognize them.",
-    "Q:\tWhat do agnostic, insomniac dyslexics do at night?\nA:\tStay awake and wonder if there's a dog.",
-    "Q:\tWhat do little WASPs want to be when they grow up?\nA:\tThe very best person they can possibly be.",
-    "Q:\tWhat do monsters eat?\nA:\tThings.\n\nQ:\tWhat do monsters drink?\nA:\tCoke.  (Because Things go better with Coke.)",
-    "Q:\tWhat do they call the alphabet in Arkansas?\nA:\tThe impossible dream.",
-    "Q:\tWhat do Winnie the Pooh and John the Baptist have in common?\nA:\tThe same middle name.",
-    "Q:\tWhat do you call 15 blondes in a circle?\nA:\tA dope ring.\n\nQ:\tWhy do blondes put their hair in ponytails?\nA:\tTo cover up the valve stem.",
-    "Q:\tWhat do you call a blind pre-historic animal?\nA:\tDiyathinkhesaurus.\n\nQ:\tWhat do you call a blind pre-historic animal with a dog?\nA:\tDiyathinkhesaurus Rex.",
-    "Q:\tWhat do you call a blind, deaf-mute, quadraplegic Virginian?\nA:\tTrustworthy.",
-    "Q:\tWhat do you call a boomerang that doesn't come back?\nA:\tA stick.",
-    "Q:\tWhat do you call a half-dozen Indians with Asian flu?\nA:\tSix sick Sikhs (sic).",
-    "Q:\tWhat do you call a principal female opera singer whose high C\n\tis lower than those of other principal female opera singers?\nA:\tA deep C diva.",
-    "Q:\tWhat do you call a WASP who doesn't work for his father, isn't a\n\tlawyer, and believes in social causes?\nA:\tA failure.",
-    "Q:\tWhat do you call the money you pay to the government when\n\tyou ride into the country on the back of an elephant?\nA:\tA howdah duty.",
-    "Q:\tWhat do you call the scratches that you get when a female\n\tsheep bites you?\nA:\tEwe nicks.",
-    "Q:\tWhat do you get when you cross a mobster with an international standard?\nA:\tYou get someone who makes you an offer that you can't understand!",
-    "Q:\tWhat do you get when you cross the Godfather with an attorney?\nA:\tAn offer you can't understand.",
-    "Q:\tWhat do you have when you have a lawyer buried up to his neck in sand?\nA:\tNot enough sand.",
-    "Q:\tWhat do you say to a New Yorker with a job?\nA:\tBig Mac, fries and a Coke, please!",
-    "Q:\tWhat does a WASP Mom make for dinner?\nA:\tA crisp salad, a hearty soup, a lovely entree, followed by\n\ta delicious dessert.",
-    "Q:\tWhat does it say on the bottom of Coke cans in North Dakota?\nA:\tOpen other end.",
-    "Q:\tWhat happens when four WASPs find themselves in the same room?\nA:\tA dinner party.",
-    "Q:\tWhat is green and lives in the ocean?\nA:\tMoby Pickle.",
-    "Q:\tWhat is orange and goes \"click, click?\"\nA:\tA ball point carrot.",
-    "Q:\tWhat is printed on the bottom of beer bottles in Minnesota?\nA:\tOpen other end.",
-    "Q:\tWhat is purple and commutes?\nA:\tAn Abelian grape.",
-    "Q:\tWhat is purple and conquered the world?\nA:\tAlexander the Grape.",
-    "Q:\tWhat is the difference between a duck?\nA:\tOne leg is both the same.",
-    "Q:\tWhat is the difference between Texas and yogurt?\nA:\tYogurt has culture.",
-    "Q:\tWhat is the sound of one cat napping?\nA:\tMu.",
-    "Q:\tWhat lies on the bottom of the ocean and twitches?\nA:\tA nervous wreck.",
-    "Q:\tWhat looks like a cat, flies like a bat, brays like a donkey, and\n\tplays like a monkey?\nA:\tNothing.",
-    "Q:\tWhat's a light-year?\nA:\tOne-third less calories than a regular year.",
-    "Q:\tWhat's a WASP's idea of open-mindedness?\nA:\tDating a Canadian.",
-    "Q:\tWhat's buried in Grant's tomb?\nA:\tA corpse.",
-    "Q:\tWhat's hard going in and soft and sticky coming out?\nA:\tChewing gum.",
-    "Q:\tWhat's tan and black and looks great on a lawyer?\nA:\tA doberman.",
-    "Q:\tWhat's the contour integral around Western Europe?\nA:\tZero, because all the Poles are in Eastern Europe!\n\nAddendum: Actually, there ARE some Poles in Western Europe, but they\n\tare removable!\n\nQ:\tAn English mathematician (I forgot who) was asked by his\n\tvery religious colleague: Do you believe in one God?\nA:\tYes, up to isomorphism!\n\nQ:\tWhat is a compact city?\nA:\tIt's a city that can be guarded by finitely many near-sighted\n\tpolicemen!\n\t\t-- Peter Lax",
-    "Q:\tWhat's the difference betweeen USL and the Graf Zeppelin?\nA:\tThe Graf Zeppelin represented cutting edge technology for its time.",
-    "Q:\tWhat's the difference between a dead dog in the road and a dead\n\tlawyer in the road?\nA:\tThere are skid marks in front of the dog.",
-    "Q:\tWhat's the difference between a duck and an elephant?\nA:\tYou can't get down off an elephant.",
-    "Q:\tWhat's the difference between a Mac and an Etch-a-Sketch?\nA:\tYou don't have to shake the Mac to clear the screen.",
-    "Q:\tWhat's the difference between an Irish wedding and an Irish wake?\nA:\tOne less drunk.",
-    "Q:\tWhat's the difference between Bell Labs and the Boy Scouts of America?\nA:\tThe Boy Scouts have adult supervision.",
-    "Q:\tWhat's the difference between the 1950's and the 1980's?\nA:\tIn the 80's, a man walks into a drugstore and states loudly, \"I'd\n\tlike some condoms,\" and then, leaning over the counter, whispers,\n\t\"and some cigarettes.\"",
-    "Q:\tWhat's the difference between USL and the Titanic?\nA:\tThe Titanic had a band.",
-    "Q:\tWhat's tiny and yellow and very, very, dangerous?\nA:\tA canary with the super-user password.",
-    "Q:\tWhat's yellow, and equivalent to the Axiom of Choice?\nA:\tZorn's Lemon.",
-    "Q:\tWhere's the Lone Ranger take his garbage?\nA:\tTo the dump, to the dump, to the dump dump dump!\n\nQ:\tWhat's the Pink Panther say when he steps on an ant hill?\nA:\tDead ant, dead ant, dead ant dead ant dead ant...",
-    "Q:\tWho cuts the grass on Walton's Mountain?\nA:\tLawn Boy.",
-    "Q:\tWhy did Menachem Begin invade Lebanon?\nA:\tTo impress Jodie Foster.",
-    "Q:\tWhy did the astrophysicist order three hamburgers?\nA:\tBecause he was hungry.",
-    "Q:\tWhy did the chicken cross the road?\nA:\tHe was giving it last rites.",
-    "Q:\tWhy did the chicken cross the road?\nA:\tTo see his friend Gregory peck.\n\nQ:\tWhy did the chicken cross the playground?\nA:\tTo get to the other slide.",
-    "Q:\tWhy did the germ cross the microscope?\nA:\tTo get to the other slide.",
-    "Q:\tWhy did the lone ranger kill Tonto?\nA:\tHe found out what \"kimosabe\" really means.",
-    "Q:\tWhy did the programmer call his mother long distance?\nA:\tBecause that was her name.",
-    "Q:\tWhy did the tachyon cross the road?\nA:\tBecause it was on the other side.",
-    "Q:\tWhy did the WASP cross the road?\nA:\tTo get to the middle.",
-    "Q:\tWhy do ducks have big flat feet?\nA:\tTo stamp out forest fires.\n\nQ:\tWhy do elephants have big flat feet?\nA:\tTo stamp out flaming ducks.",
-    "Q:\tWhy do firemen wear red suspenders?\nA:\tTo conform with departmental regulations concerning uniform dress.",
-    "Q:\tWhy do mountain climbers rope themselves together?\nA:\tTo prevent the sensible ones from going home.",
-    "Q:\tWhy do people who live near Niagara Falls have flat foreheads?\nA:\tBecause every morning they wake up thinking \"What *is* that noise?\n\tOh, right, *of course*!",
-    "Q:\tWhy do the police always travel in threes?\nA:\tOne to do the reading, one to do the writing, and the other keeps\n\tan eye on the two intellectuals.",
-    "Q:\tWhy do WASPs play golf ?\nA:\tSo they can dress like pimps.",
-    "Q:\tWhy does Washington have the most lawyers per capita and\n\tNew Jersey the most toxic waste dumps?\nA:\tGod gave New Jersey first choice.",
-    "Q:\tWhy don't lawyers go to the beach?\nA:\tThe cats keep trying to bury them.",
-    "Q:\tWhy don't Scotsmen ever have coffee the way they like it?\nA:\tWell, they like it with two lumps of sugar.  If they drink\n\tit at home, they only take one, and if they drink it while\n\tvisiting, they always take three.",
-    "Q:\tWhy haven't you graduated yet?\nA:\tWell, Dad, I could have finished years ago, but I wanted\n\tmy dissertation to rhyme.",
-    "Q:\tWhy is Christmas just like a day at the office?\nA:\tYou do all of the work and the fat guy in the suit\n\tgets all the credit.",
-    "Q:\tWhy is it that the more accuracy you demand from an interpolation\n\tfunction, the more expensive it becomes to compute?\nA:\tThat's the Law of Spline Demand.",
-    "Q:\tWhy is Poland just like the United States?\nA:\tIn the United States you can't buy anything for zlotys and in\n\tPoland you can't either, while in the U.S. you can get whatever\n\tyou want for dollars, just as you can in Poland.\n\t\t-- being told in Poland, 1987",
-    "Q:\tWhy should you always serve a Southern Carolina football man\n\tsoup in a plate?\nA:\t'Cause if you give him a bowl, he'll throw it away.",
-    "Q:\tWhy was Stonehenge abandoned?\nA:\tIt wasn't IBM compatible.\n%"
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13\nA:\tDoc, Happy, Bashful, Dopey, Sneezy, Sleepy, & Grumpy\nQ:\tWho were the Democratic presidential candidates?",
+      "sha1": "21b7375a1105057e310e68f724fe52fd8edcea83"
+    },
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #15\nA:\tThe Royal Canadian Mounted Police.\nQ:\tWhat was the greatest achievement in taxidermy?",
+      "sha1": "b9c66e46cc0a419f1a957d2a00720a7f8f73c27c"
+    },
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19\nA:\tTo be or not to be.\nQ:\tWhat is the square root of 4b^2?",
+      "sha1": "958117aabbf9246ea4f4538ef07c742347dcbffd"
+    },
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #21\nA:\tDr. Livingston I. Presume.\nQ:\tWhat's Dr. Presume's full name?",
+      "sha1": "49d06c89efa9806a6f1cfba5e1ef0bd3deb70310"
+    },
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #31\nA:\tChicken Teriyaki.\nQ:\tWhat is the name of the world's oldest kamikaze pilot?",
+      "sha1": "0931d6bb76ded10224c33484546ee7c03e4536ee"
+    },
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #4\nA:\tGo west, young man, go west!\nQ:\tWhat do wabbits do when they get tiwed of wunning awound?",
+      "sha1": "87d4feb9b7cdb90041eb3ab59ad6a6a7b6fb4e83"
+    },
+    {
+      "content": "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #5\nA:\tThe Halls of Montezuma and the Shores of Tripoli.\nQ:\tName two families whose kids won't join the Marines.",
+      "sha1": "d7b5830889d99459e701c6e1f7f18fe4b08e51f5"
+    },
+    {
+      "content": "Knock, knock!\n\tWho's there?\nSam and Janet.\n\tSam and Janet who?\nSam and Janet Evening...",
+      "sha1": "12369955f8b2cb610f81d357cfde37925cd57193"
+    },
+    {
+      "content": "Knucklehead:\t\"Knock, knock\"\nPee Wee:\t\"Who's there?\"\nKnucklehead:\t\"Little ol' lady.\"\nPee Wee:\t\"Liddle ol' lady who?\"\nKnucklehead:\t\"I didn't know you could yodel\"",
+      "sha1": "b3d8aa67c40051df683f1ca9f08d537058fc4867"
+    },
+    {
+      "content": "Q:\t\"What is the burning question on the mind of every dyslexic\n\texistentialist?\"\nA:\t\"Is there a dog?\"",
+      "sha1": "82fa11838bd64d12ceb1292fad176022198f232a"
+    },
+    {
+      "content": "Q:\tAre we not men?\nA:\tWe are Vaxen.",
+      "sha1": "47e08f619a9d8e2b12fa2d7320d4c30543eb55e2"
+    },
+    {
+      "content": "Q:\tDo you know what the death rate around here is?\nA:\tOne per person.",
+      "sha1": "d59b8e18e10f34711366023501533d47ca53d885"
+    },
+    {
+      "content": "Q:\tHow can you tell when a Burroughs salesman is lying?\nA:\tWhen his lips move.",
+      "sha1": "0f100021cd593ed91cf8e494e9aca625845419b6"
+    },
+    {
+      "content": "Q:\tHow did you get into artificial intelligence?\nA:\tSeemed logical -- I didn't have any real intelligence.",
+      "sha1": "7258c6e7f01ed2f5e0986b1864decf39d5a8de34"
+    },
+    {
+      "content": "Q:\tHow do you catch a unique rabbit?\nA:\tUnique up on it!\n\nQ:\tHow do you catch a tame rabbit?\nA:\tThe tame way!",
+      "sha1": "1ee5e84ef8e0721e52c747d2262eee1cb1fdc94f"
+    },
+    {
+      "content": "Q:\tHow do you keep a moron in suspense?",
+      "sha1": "4d444b6d4575cd1af1eff02a046930e82e687b41"
+    },
+    {
+      "content": "Q:\tHow do you play religious roulette?\nA:\tYou stand around in a circle and blaspheme and see who gets\n\tstruck by lightning first.",
+      "sha1": "d3ad8e3a26baedb7c5624001b088787e6e174c17"
+    },
+    {
+      "content": "Q:\tHow do you save a drowning lawyer?\nA:\tThrow him a rock.",
+      "sha1": "9fa4df80269e2a4cc2adc91f2ee1d93b14bd70a4"
+    },
+    {
+      "content": "Q:\tHow do you shoot a blue elephant?\nA:\tWith a blue-elephant gun.\n\nQ:\tHow do you shoot a pink elephant?\nA:\tTwist its trunk until it turns blue, then shoot it with\n\ta blue-elephant gun.",
+      "sha1": "ccb1925e3a6b5f2b5fa1ead0ea097b0e4a2f7906"
+    },
+    {
+      "content": "Q:\tHow do you stop an elephant from charging?\nA:\tTake away his credit cards.",
+      "sha1": "f7b273dcb14a8cc5d080dbb88022d060f78acc0b"
+    },
+    {
+      "content": "Q:\tHow does a hacker fix a function which\n\tdoesn't work for all of the elements in its domain?\nA:\tHe changes the domain.",
+      "sha1": "1e67beb84dfa1d4dfea27a5398a604e5665b8b96"
+    },
+    {
+      "content": "Q:\tHow does the Polish Constitution differ from the American?\nA:\tUnder the Polish Constitution citizens are guaranteed freedom of\n\tspeech, but under the United States constitution they are\n\tguaranteed freedom after speech.\n\t\t-- being told in Poland, 1987",
+      "sha1": "f66ef2abb1164866eef201ef6d980a14781eed32"
+    },
+    {
+      "content": "Q:\tHow many Bell Labs Vice Presidents does it take to change a light bulb?\nA:\tThat's proprietary information.  Answer available from AT&T on payment\n\tof license fee (binary only).",
+      "sha1": "13f890d369b3ba4050b31413af51000f551768b3"
+    },
+    {
+      "content": "Q:\tHow many bureaucrats does it take to screw in a light bulb?\nA:\tTwo.  One to assure everyone that everything possible is being\n\tdone while the other screws the bulb into the water faucet.",
+      "sha1": "ef7d6bb013e81786a238ed334b5a231329d839f7"
+    },
+    {
+      "content": "Q:\tHow many Californians does it take to screw in a light bulb?\nA:\tFive.  One to screw in the light bulb and four to share the\n\t\texperience.  (Actually, Californians don't screw in\n\t\tlight bulbs, they screw in hot tubs.)\n\nQ:\tHow many Oregonians does it take to screw in a light bulb?\nA:\tThree.  One to screw in the light bulb and two to fend off all\n\t\tthose Californians trying to share the experience.",
+      "sha1": "3d54f0fc39142435319c69eded513805bd794dd5"
+    },
+    {
+      "content": "Q:\tHow many college football players does it take to screw in a light bulb?\nA:\tOnly one, but he gets three credits for it.",
+      "sha1": "a6dc3abd9e372b44dd85db58e82c892c4dbae569"
+    },
+    {
+      "content": "Q:\tHow many DEC repairman does it take to fix a flat?\nA:\tFive; four to hold the car up and one to swap tires.\n\nQ:\tHow long does it take?\nA:\tIt's indeterminate.\n\tIt will depend upon how many flats they've brought with them.\n\nQ:\tWhat happens if you've got TWO flats?\nA:\tThey replace your generator.",
+      "sha1": "4f700d5a087db67923a1f1b4700a35653ad4e4c6"
+    },
+    {
+      "content": "Q:\tHow many elephants can you fit in a VW Bug?\nA:\tFour.  Two in the front, two in the back.\n\nQ:\tHow can you tell if an elephant is in your refrigerator?\nA:\tThere's a footprint in the mayo.\n\nQ:\tHow can you tell if two elephants are in your refrigerator?\nA:\tThere's two footprints in the mayo.\n\nQ:\tHow can you tell if three elephants are in your refrigerator?\nA:\tThe door won't shut.\n\nQ:\tHow can you tell if four elephants are in your refrigerator?\nA:\tThere's a VW Bug in your driveway.",
+      "sha1": "57a9ea2fecffebf3b0088baaedc942cbc8c64ab4"
+    },
+    {
+      "content": "Q:\tHow many existentialists does it take to screw in a light bulb?\nA:\tTwo.  One to screw it in and one to observe how the light bulb\n\titself symbolizes a single incandescent beacon of subjective\n\treality in a netherworld of endless absurdity reaching out toward a\n\tmaudlin cosmos of nothingness.",
+      "sha1": "9e4068bb6e2bf53ce4c77ea4e3ab979e8cf08609"
+    },
+    {
+      "content": "Q:\tHow many gradual (sorry, that's supposed to be \"graduate\") students\n\tdoes it take to screw in a light bulb?\nA:\t\"I'm afraid we don't know, but make my stipend tax-free, give my\n\tadvisor a $30,000 grant of the taxpayer's money, and I'm sure he\n\tcan tell me how to do the gruntwork for him so he can take the\n\tcredit for answering this incredibly vital question.\"",
+      "sha1": "be6517f3d1e615df599814bb4351e780622c6c72"
+    },
+    {
+      "content": "Q:\tHow many hardware engineers does it take to change a light bulb?\nA:\tNone.  We'll fix it in software.\n\nQ:\tHow many system programmers does it take to change a light bulb?\nA:\tNone.  The application can work around it.\n\nQ:\tHow many software engineers does it take to change a light bulb?\nA:\tNone.  We'll document it in the manual.\n\nQ:\tHow many tech writers does it take to change a light bulb?\nA:\tNone.  The user can figure it out.",
+      "sha1": "84683c82091d49f6c49135cf003a7105f8de7b1e"
+    },
+    {
+      "content": "Q:\tHow many Harvard MBA's does it take to screw in a light bulb?\nA:\tJust one.  He grasps it firmly and the universe revolves around him.",
+      "sha1": "7a91f5a855e30327bcf4d507511dec570ccae093"
+    },
+    {
+      "content": "Q:\tHow many IBM 370's does it take to execute a job?\nA:\tFour, three to hold it down, and one to rip its head off.",
+      "sha1": "63691cd1c36b6837c55cca528252a4374b1865cc"
+    },
+    {
+      "content": "Q:\tHow many IBM CPU's does it take to do a logical right shift?\nA:\t33.  1 to hold the bits and 32 to push the register.",
+      "sha1": "5921b15e566655336371bd93f287ab15c36fc1b0"
+    },
+    {
+      "content": "Q:\tHow many IBM types does it take to change a light bulb?\nA:\tFifteen.  One to do it, and fourteen to write document number\n\tGC7500439-0001, Multitasking Incandescent Source System Facility,\n\tof which 10% of the pages state only \"This page intentionally\n\tleft blank\", and 20% of the definitions are of the form \"A:.....\n\tconsists of sequences of non-blank characters separated by blanks\".",
+      "sha1": "9bcd44cbd28da0f942d24d4ca875fb73a8c2cddc"
+    },
+    {
+      "content": "Q:\tHow many journalists does it take to screw in a light bulb?\nA:\tThree.  One to report it as an inspired government program to bring\n\tlight to the people, one to report it as a diabolical government plot\n\tto deprive the poor of darkness, and one to win a Pulitzer prize for\n\treporting that Electric Company hired a light bulb-assassin to break\n\tthe bulb in the first place.",
+      "sha1": "bea688fdc9967e6c07d446e7c8c879ffcc613602"
+    },
+    {
+      "content": "Q:\tHow many lawyers does it take to change a light bulb?\nA:\tOne.  Only it's his light bulb when he's done.",
+      "sha1": "75b03808be20315926b9420de0930e52c62aa381"
+    },
+    {
+      "content": "Q:\tHow many lawyers does it take to change a light bulb?\nA:\tWhereas the party of the first part, also known as \"Lawyer\", and the\nparty of the second part, also known as \"Light Bulb\", do hereby and forthwith\nagree to a transaction wherein the party of the second part shall be removed\nfrom the current position as a result of failure to perform previously agreed\nupon duties, i.e., the lighting, elucidation, and otherwise illumination of\nthe area ranging from the front (north) door, through the entryway, terminating\nat an area just inside the primary living area, demarcated by the beginning of\nthe carpet, any spillover illumination being at the option of the party of the\nsecond part and not required by the aforementioned agreement between the\nparties.\n\tThe aforementioned removal transaction shall include, but not be\nlimited to, the following.  The party of the first part shall, with or without\nelevation at his option, by means of a chair, stepstool, ladder or any other\nmeans of elevation, grasp the party of the second part and rotate the party\nof the second part in a counter-clockwise direction, this point being tendered\nnon-negotiable.  Upon reaching a point where the party of the second part\nbecomes fully detached from the receptacle, the party of the first part shall\nhave the option of disposing of the party of the second part in a manner\nconsistent with all relevant and applicable local, state and federal statutes.\nOnce separation and disposal have been achieved, the party of the first part\nshall have the option of beginning installation.  Aforesaid installation shall\noccur in a manner consistent with the reverse of the procedures described in\nstep one of this self-same document, being careful to note that the rotation\nshould occur in a clockwise direction, this point also being non-negotiable.\nThe above described steps may be performed, at the option of the party of the\nfirst part, by any or all agents authorized by him, the objective being to\nproduce the most possible revenue for the Partnership.",
+      "sha1": "22cb63bcc9e25951139433ae6f5acce5e73204b7"
+    },
+    {
+      "content": "Q:\tHow many lawyers does it take to change a light bulb?\nA:\tYou won't find a lawyer who can change a light bulb.  Now, if\n\tyou're looking for a lawyer to screw a light bulb...",
+      "sha1": "861b5621820791533ef09ef9b2756a9eed72bc4c"
+    },
+    {
+      "content": "Q:\tHow many marketing people does it take to change a light bulb?\nA:\tI'll have to get back to you on that.",
+      "sha1": "241bd46d6e4847c7ce309835835f031aaca7eaa9"
+    },
+    {
+      "content": "Q:\tHow many Martians does it take to screw in a light bulb?\nA:\tOne and a half.",
+      "sha1": "7d959bf4c1f66bea111d135515a8ff468536d18a"
+    },
+    {
+      "content": "Q:\tHow many Marxists does it take to screw in a light bulb?\nA:\tNone:  The light bulb contains the seeds of its own revolution.",
+      "sha1": "87172f7f6221faadf4eb509126ed185f66017f43"
+    },
+    {
+      "content": "Q:\tHow many mathematicians does it take to screw in a light bulb?\nA:\tOne.  He gives it to six Californians, thereby reducing the problem\n\tto the earlier joke.",
+      "sha1": "a8e3306e4ee5b7e2cf6021febc124bf5ae2c63e6"
+    },
+    {
+      "content": "Q:\tHow many members of the U.S.S. Enterprise does it take to change a\n\tlight bulb?\nA:\tSeven.  Scotty has to report to Captain Kirk that the light bulb in\n\tthe Engineering Section is getting dim, at which point Kirk will send\n\tBones to pronounce the bulb dead (although he'll immediately claim\n\tthat he's a doctor, not an electrician).  Scotty, after checking\n\taround, realizes that they have no more new light bulbs, and complains\n\tthat he \"canna\" see in the dark.  Kirk will make an emergency stop at\n\tthe next uncharted planet, Alpha Regula IV, to procure a light bulb\n\tfrom the natives, who, are friendly, but seem to be hiding something.\n\tKirk, Spock, Bones, Yeoman Rand and two red shirt security officers\n\tbeam down to the planet, where the two security officers are promply\n\tkilled by the natives, and the rest of the landing party is captured.\n\tAs something begins to develop between the Captain and Yeoman Rand,\n\tScotty, back in orbit, is attacked by a Klingon destroyer and must\n\twarp out of orbit.  Although badly outgunned, he cripples the Klingon\n\tand races back to the planet in order to rescue Kirk et. al. who have\n\tjust saved the natives' from an awful fate and, as a reward, been\n\tgiven all light bulbs they can carry.  The new bulb is then inserted\n\tand the Enterprise continues on its five year mission.",
+      "sha1": "c0f3e754bcda5e5056ee3bfe95340bf15dce8601"
+    },
+    {
+      "content": "Q:\tHow many Oregonians does it take to screw in a light bulb?\nA:\tThree.  One to screw in the light bulb and two to fend off all those\n\tCalifornians trying to share the experience.",
+      "sha1": "e094a2c5cd059385155b09595bb583229e503ad8"
+    },
+    {
+      "content": "Q:\tHow many psychiatrists does it take to change a light bulb?\nA:\tOnly one, but it takes a long time, and the light bulb has\n\tto really want to change.",
+      "sha1": "e5931924657092fd8de7a343f2dc96fee4cc7211"
+    },
+    {
+      "content": "Q:\tHow many supply-siders does it take to change a light bulb?\nA:\tNone.  The darkness will cause the light bulb to change by itself.",
+      "sha1": "6ec374a39e246ed1f474c9db920d40aa82c9a239"
+    },
+    {
+      "content": "Q:\tHow many surrealists does it take to change a light bulb?\nA:\tTwo, one to hold the giraffe, and the other to fill the bathtub\n\twith brightly colored machine tools.\n\n\t[Surrealist jokes just aren't my cup of fur.  Ed.]",
+      "sha1": "a6a3f2eb87a5d902598a60ca89dc3972ab065cae"
+    },
+    {
+      "content": "Q:\tHow many WASPs does it take to change a light bulb?\nA:\tOne.",
+      "sha1": "45ae6b68969f96ff16c28bd9bf362212a5a35f7b"
+    },
+    {
+      "content": "Q:\tHow many Zen masters does it take to screw in a light bulb?\nA:\tNone.  The Universe spins the bulb, and the Zen master stays out\n\tof the way.",
+      "sha1": "da76a205ee8fe558124822b92e4a0ad9de91f6b0"
+    },
+    {
+      "content": "Q:\tHow much does it cost to ride the Unibus?\nA:\t2 bits.",
+      "sha1": "97234d0810b883657af219d5d446b25a34400ebf"
+    },
+    {
+      "content": "Q:\tHow was Thomas J. Watson buried?\nA:\t9 edge down.",
+      "sha1": "afa4b07c179d12b4010f2e953d55447773926869"
+    },
+    {
+      "content": "Q:\tKnow what the difference between your latest project\n\tand putting wings on an elephant is?\nA:\tWho knows?  The elephant *might* fly, heh, heh...",
+      "sha1": "9eeda81262ec2fccb282975a938f57ded52408ad"
+    },
+    {
+      "content": "Q:\tMinnesotans ask, \"Why aren't there more pharmacists from Alabama?\"\nA:\tEasy.  It's because they can't figure out how to get the little\n\tbottles into the typewriter.",
+      "sha1": "33c47fa82109d3b33096fa3852958b94ef4caea9"
+    },
+    {
+      "content": "Q:\tWhat did Tarzan say when he saw the elephants coming over the hill?\nA:\t\"The elephants are coming over the hill.\"\n\nQ:\tWhat did he say when saw them coming over the hill wearing\n\t\tsunglasses?\nA:\tNothing, for he didn't recognize them.",
+      "sha1": "fd3de8b1f8cfcca0e6c98017a2804095296ad819"
+    },
+    {
+      "content": "Q:\tWhat do agnostic, insomniac dyslexics do at night?\nA:\tStay awake and wonder if there's a dog.",
+      "sha1": "6bbee4b30994e2452343b920e038530c1310667f"
+    },
+    {
+      "content": "Q:\tWhat do little WASPs want to be when they grow up?\nA:\tThe very best person they can possibly be.",
+      "sha1": "785016fe5959a5bb47e26cb8bb779f00ef0c3c2d"
+    },
+    {
+      "content": "Q:\tWhat do monsters eat?\nA:\tThings.\n\nQ:\tWhat do monsters drink?\nA:\tCoke.  (Because Things go better with Coke.)",
+      "sha1": "547bcc6a9e75cdf6fe1775899eaec8812d4eda9e"
+    },
+    {
+      "content": "Q:\tWhat do they call the alphabet in Arkansas?\nA:\tThe impossible dream.",
+      "sha1": "698b75499c3bd3fc7c6e755b0b97d905f77548da"
+    },
+    {
+      "content": "Q:\tWhat do Winnie the Pooh and John the Baptist have in common?\nA:\tThe same middle name.",
+      "sha1": "0310e92faf3ace972463c6411ac764c6301d9d06"
+    },
+    {
+      "content": "Q:\tWhat do you call 15 blondes in a circle?\nA:\tA dope ring.\n\nQ:\tWhy do blondes put their hair in ponytails?\nA:\tTo cover up the valve stem.",
+      "sha1": "c2e8483523d462d7fd9d4b9d5e938627d7ffa5c9"
+    },
+    {
+      "content": "Q:\tWhat do you call a blind pre-historic animal?\nA:\tDiyathinkhesaurus.\n\nQ:\tWhat do you call a blind pre-historic animal with a dog?\nA:\tDiyathinkhesaurus Rex.",
+      "sha1": "44f7bf32c62c909b56f41e99046ea6a470b9ad88"
+    },
+    {
+      "content": "Q:\tWhat do you call a blind, deaf-mute, quadraplegic Virginian?\nA:\tTrustworthy.",
+      "sha1": "12a6103c6b11b190252151c6ca40ef212ff2a6bd"
+    },
+    {
+      "content": "Q:\tWhat do you call a boomerang that doesn't come back?\nA:\tA stick.",
+      "sha1": "03146570611fc7141af3732b5fd5dc080655e71b"
+    },
+    {
+      "content": "Q:\tWhat do you call a half-dozen Indians with Asian flu?\nA:\tSix sick Sikhs (sic).",
+      "sha1": "800ccb92ef93b005cb37386736dd3fd87e6408a9"
+    },
+    {
+      "content": "Q:\tWhat do you call a principal female opera singer whose high C\n\tis lower than those of other principal female opera singers?\nA:\tA deep C diva.",
+      "sha1": "84ca2d166d17ce34fa9dc667ab556adfe35adbc4"
+    },
+    {
+      "content": "Q:\tWhat do you call a WASP who doesn't work for his father, isn't a\n\tlawyer, and believes in social causes?\nA:\tA failure.",
+      "sha1": "af8d41b7b07f076c9cf1d7d4334ee65705ff0397"
+    },
+    {
+      "content": "Q:\tWhat do you call the money you pay to the government when\n\tyou ride into the country on the back of an elephant?\nA:\tA howdah duty.",
+      "sha1": "f43014e0d1bd80af413a13f8e07b1ce9d0f70473"
+    },
+    {
+      "content": "Q:\tWhat do you call the scratches that you get when a female\n\tsheep bites you?\nA:\tEwe nicks.",
+      "sha1": "b317e49218db7becd0082c0116cd2e3b19e1e2af"
+    },
+    {
+      "content": "Q:\tWhat do you get when you cross a mobster with an international standard?\nA:\tYou get someone who makes you an offer that you can't understand!",
+      "sha1": "f4153b8c2bb71d5f9eb19a844fd44563442af079"
+    },
+    {
+      "content": "Q:\tWhat do you get when you cross the Godfather with an attorney?\nA:\tAn offer you can't understand.",
+      "sha1": "6652a77663cf937b933e3f42a7edf0e53f511d99"
+    },
+    {
+      "content": "Q:\tWhat do you have when you have a lawyer buried up to his neck in sand?\nA:\tNot enough sand.",
+      "sha1": "b183d4c9e381891e9da11ac67cf54cd0c80fc411"
+    },
+    {
+      "content": "Q:\tWhat do you say to a New Yorker with a job?\nA:\tBig Mac, fries and a Coke, please!",
+      "sha1": "c2e9c56c6ac0cba79f88e25b122036e63c971592"
+    },
+    {
+      "content": "Q:\tWhat does a WASP Mom make for dinner?\nA:\tA crisp salad, a hearty soup, a lovely entree, followed by\n\ta delicious dessert.",
+      "sha1": "a7c439d1257e3081820d7bffadf4bcdd6ee0f677"
+    },
+    {
+      "content": "Q:\tWhat does it say on the bottom of Coke cans in North Dakota?\nA:\tOpen other end.",
+      "sha1": "99ef3ec2c2a64617f11385d3eed24353eb6df9dd"
+    },
+    {
+      "content": "Q:\tWhat happens when four WASPs find themselves in the same room?\nA:\tA dinner party.",
+      "sha1": "ce83f4009df9c47d90021321c98c915f32af06b1"
+    },
+    {
+      "content": "Q:\tWhat is green and lives in the ocean?\nA:\tMoby Pickle.",
+      "sha1": "e107a9c00fe09b87bcef9b7ae3fc348718e6f0d5"
+    },
+    {
+      "content": "Q:\tWhat is orange and goes \"click, click?\"\nA:\tA ball point carrot.",
+      "sha1": "148cf5005d863ebdcaf8ca6db668760f7f6498e7"
+    },
+    {
+      "content": "Q:\tWhat is printed on the bottom of beer bottles in Minnesota?\nA:\tOpen other end.",
+      "sha1": "34021118c3b76399374cd5b98f570a9556759fb0"
+    },
+    {
+      "content": "Q:\tWhat is purple and commutes?\nA:\tAn Abelian grape.",
+      "sha1": "8513d7c6aeb82c3903bb43656ceddfaa7ce19cf6"
+    },
+    {
+      "content": "Q:\tWhat is purple and conquered the world?\nA:\tAlexander the Grape.",
+      "sha1": "a8b0f0558543b98a02b663e55a81690045c86056"
+    },
+    {
+      "content": "Q:\tWhat is the difference between a duck?\nA:\tOne leg is both the same.",
+      "sha1": "37da74edc66790d4fb2559203f007db0126bcbce"
+    },
+    {
+      "content": "Q:\tWhat is the difference between Texas and yogurt?\nA:\tYogurt has culture.",
+      "sha1": "a1adc2627989e451a1013f4e0d5f6ff5b85ba05b"
+    },
+    {
+      "content": "Q:\tWhat is the sound of one cat napping?\nA:\tMu.",
+      "sha1": "51f00b5e61b2c5f4ccc3c7e3bcd7d41d8c1871c2"
+    },
+    {
+      "content": "Q:\tWhat lies on the bottom of the ocean and twitches?\nA:\tA nervous wreck.",
+      "sha1": "fe1e4b43b08733d93556b96fefc6412ffc9bd927"
+    },
+    {
+      "content": "Q:\tWhat looks like a cat, flies like a bat, brays like a donkey, and\n\tplays like a monkey?\nA:\tNothing.",
+      "sha1": "5ae9f4cd593b2609668c20e68e0a1213c85e9e2c"
+    },
+    {
+      "content": "Q:\tWhat's a light-year?\nA:\tOne-third less calories than a regular year.",
+      "sha1": "5b7eaa82a0c173ebf867f870f2abda90b67117ec"
+    },
+    {
+      "content": "Q:\tWhat's a WASP's idea of open-mindedness?\nA:\tDating a Canadian.",
+      "sha1": "d976601cfc13d5c146c570b17597519504b32dea"
+    },
+    {
+      "content": "Q:\tWhat's buried in Grant's tomb?\nA:\tA corpse.",
+      "sha1": "07edb168ab7514e3230d05b7943b799e221b7f51"
+    },
+    {
+      "content": "Q:\tWhat's hard going in and soft and sticky coming out?\nA:\tChewing gum.",
+      "sha1": "4be6c0e33a8411af01fd3d648fd157610d9cc763"
+    },
+    {
+      "content": "Q:\tWhat's tan and black and looks great on a lawyer?\nA:\tA doberman.",
+      "sha1": "d25e8aa9f3f4fd7dde143b81da9b2d71f0aafa25"
+    },
+    {
+      "content": "Q:\tWhat's the contour integral around Western Europe?\nA:\tZero, because all the Poles are in Eastern Europe!\n\nAddendum: Actually, there ARE some Poles in Western Europe, but they\n\tare removable!\n\nQ:\tAn English mathematician (I forgot who) was asked by his\n\tvery religious colleague: Do you believe in one God?\nA:\tYes, up to isomorphism!\n\nQ:\tWhat is a compact city?\nA:\tIt's a city that can be guarded by finitely many near-sighted\n\tpolicemen!\n\t\t-- Peter Lax",
+      "sha1": "45c00938414bc62f2317427a84fa87d849ed2006"
+    },
+    {
+      "content": "Q:\tWhat's the difference betweeen USL and the Graf Zeppelin?\nA:\tThe Graf Zeppelin represented cutting edge technology for its time.",
+      "sha1": "638fcbb5a1a91018e3bf0dc5cf1d431550b56867"
+    },
+    {
+      "content": "Q:\tWhat's the difference between a dead dog in the road and a dead\n\tlawyer in the road?\nA:\tThere are skid marks in front of the dog.",
+      "sha1": "9b5ba0fb735b386bdbf27ef3562cbdbe287c3454"
+    },
+    {
+      "content": "Q:\tWhat's the difference between a duck and an elephant?\nA:\tYou can't get down off an elephant.",
+      "sha1": "95ff3d27c6679e7e57cb0f370c9b8d2c30231fd1"
+    },
+    {
+      "content": "Q:\tWhat's the difference between a Mac and an Etch-a-Sketch?\nA:\tYou don't have to shake the Mac to clear the screen.",
+      "sha1": "20a6f409cc9ede66e788c4692e4d85c09de6e66c"
+    },
+    {
+      "content": "Q:\tWhat's the difference between an Irish wedding and an Irish wake?\nA:\tOne less drunk.",
+      "sha1": "a057e920c1cbdad4b041246e673b38df0f21cbd2"
+    },
+    {
+      "content": "Q:\tWhat's the difference between Bell Labs and the Boy Scouts of America?\nA:\tThe Boy Scouts have adult supervision.",
+      "sha1": "9711e9deee4e59078d7aa9370fb013de65df0323"
+    },
+    {
+      "content": "Q:\tWhat's the difference between the 1950's and the 1980's?\nA:\tIn the 80's, a man walks into a drugstore and states loudly, \"I'd\n\tlike some condoms,\" and then, leaning over the counter, whispers,\n\t\"and some cigarettes.\"",
+      "sha1": "682cc0c629eeff2dd627cead2262fbb489c30312"
+    },
+    {
+      "content": "Q:\tWhat's the difference between USL and the Titanic?\nA:\tThe Titanic had a band.",
+      "sha1": "5142b120dd0f007ee2d5417f7517a3bca783250f"
+    },
+    {
+      "content": "Q:\tWhat's tiny and yellow and very, very, dangerous?\nA:\tA canary with the super-user password.",
+      "sha1": "b11e72c1d98fad57565373eef424edd511f8d9ec"
+    },
+    {
+      "content": "Q:\tWhat's yellow, and equivalent to the Axiom of Choice?\nA:\tZorn's Lemon.",
+      "sha1": "c4e14b74b485821fdcb93476a4f7f20aeaab6265"
+    },
+    {
+      "content": "Q:\tWhere's the Lone Ranger take his garbage?\nA:\tTo the dump, to the dump, to the dump dump dump!\n\nQ:\tWhat's the Pink Panther say when he steps on an ant hill?\nA:\tDead ant, dead ant, dead ant dead ant dead ant...",
+      "sha1": "ce8ef435e89e46e466e93804288dd1a5fd201f21"
+    },
+    {
+      "content": "Q:\tWho cuts the grass on Walton's Mountain?\nA:\tLawn Boy.",
+      "sha1": "75280bb7c31460aa947da93bba839223c592732a"
+    },
+    {
+      "content": "Q:\tWhy did Menachem Begin invade Lebanon?\nA:\tTo impress Jodie Foster.",
+      "sha1": "30ce4d9d0781b03d827cad959d4b751ed83ca68b"
+    },
+    {
+      "content": "Q:\tWhy did the astrophysicist order three hamburgers?\nA:\tBecause he was hungry.",
+      "sha1": "4adb69d3b75f626f58360267cd566248a1dac186"
+    },
+    {
+      "content": "Q:\tWhy did the chicken cross the road?\nA:\tHe was giving it last rites.",
+      "sha1": "03b1f6992edd704ad7ae090135f2601bf0003cfa"
+    },
+    {
+      "content": "Q:\tWhy did the chicken cross the road?\nA:\tTo see his friend Gregory peck.\n\nQ:\tWhy did the chicken cross the playground?\nA:\tTo get to the other slide.",
+      "sha1": "a6f3d3622845fbaf80b05ad03cd783e177bfd56d"
+    },
+    {
+      "content": "Q:\tWhy did the germ cross the microscope?\nA:\tTo get to the other slide.",
+      "sha1": "33b4222dee719d99da44e43ce109589826df0788"
+    },
+    {
+      "content": "Q:\tWhy did the lone ranger kill Tonto?\nA:\tHe found out what \"kimosabe\" really means.",
+      "sha1": "275ad5dcb08463edac6b1b805e27cb916da7e5ff"
+    },
+    {
+      "content": "Q:\tWhy did the programmer call his mother long distance?\nA:\tBecause that was her name.",
+      "sha1": "f9c97051e0d3830848ce629409a08325e8d2c422"
+    },
+    {
+      "content": "Q:\tWhy did the tachyon cross the road?\nA:\tBecause it was on the other side.",
+      "sha1": "0be63743ea22821456f6d00643c53c0bd6cba958"
+    },
+    {
+      "content": "Q:\tWhy did the WASP cross the road?\nA:\tTo get to the middle.",
+      "sha1": "bb91bb4202fcf95f34fc488d962b7aeca4997328"
+    },
+    {
+      "content": "Q:\tWhy do ducks have big flat feet?\nA:\tTo stamp out forest fires.\n\nQ:\tWhy do elephants have big flat feet?\nA:\tTo stamp out flaming ducks.",
+      "sha1": "2913b4099dfc5c01795f951e90a9088830d285da"
+    },
+    {
+      "content": "Q:\tWhy do firemen wear red suspenders?\nA:\tTo conform with departmental regulations concerning uniform dress.",
+      "sha1": "952503ac9ddaeeaa7be797e3fd589f7825cf451b"
+    },
+    {
+      "content": "Q:\tWhy do mountain climbers rope themselves together?\nA:\tTo prevent the sensible ones from going home.",
+      "sha1": "1be5fe10216e33159a9f6c348640b35501bc0df6"
+    },
+    {
+      "content": "Q:\tWhy do people who live near Niagara Falls have flat foreheads?\nA:\tBecause every morning they wake up thinking \"What *is* that noise?\n\tOh, right, *of course*!",
+      "sha1": "e12ec644bc51e6aa907f7c7a49d812040d36c54e"
+    },
+    {
+      "content": "Q:\tWhy do the police always travel in threes?\nA:\tOne to do the reading, one to do the writing, and the other keeps\n\tan eye on the two intellectuals.",
+      "sha1": "956bd945091d0a10d2ebd05c1a2f7829c46c41c2"
+    },
+    {
+      "content": "Q:\tWhy do WASPs play golf ?\nA:\tSo they can dress like pimps.",
+      "sha1": "53e5cf08c7decb9386fed57973e9f0724ce1f474"
+    },
+    {
+      "content": "Q:\tWhy does Washington have the most lawyers per capita and\n\tNew Jersey the most toxic waste dumps?\nA:\tGod gave New Jersey first choice.",
+      "sha1": "56235fa0130aef704b6f25e1db68a5bb1345dc6c"
+    },
+    {
+      "content": "Q:\tWhy don't lawyers go to the beach?\nA:\tThe cats keep trying to bury them.",
+      "sha1": "501f963c85849d6e10125d0e894501b440aca93a"
+    },
+    {
+      "content": "Q:\tWhy don't Scotsmen ever have coffee the way they like it?\nA:\tWell, they like it with two lumps of sugar.  If they drink\n\tit at home, they only take one, and if they drink it while\n\tvisiting, they always take three.",
+      "sha1": "87ce251304bb676181dd17ffc4b8b1ca1bd0ae7e"
+    },
+    {
+      "content": "Q:\tWhy haven't you graduated yet?\nA:\tWell, Dad, I could have finished years ago, but I wanted\n\tmy dissertation to rhyme.",
+      "sha1": "e7f9863130bc30034160f2bd39ac0c4507e9bcd8"
+    },
+    {
+      "content": "Q:\tWhy is Christmas just like a day at the office?\nA:\tYou do all of the work and the fat guy in the suit\n\tgets all the credit.",
+      "sha1": "d8ad9dbeceff32e2bbceaf2354a356141dc82095"
+    },
+    {
+      "content": "Q:\tWhy is it that the more accuracy you demand from an interpolation\n\tfunction, the more expensive it becomes to compute?\nA:\tThat's the Law of Spline Demand.",
+      "sha1": "46fa767ec2407378c9c6db0910afb7fef278861e"
+    },
+    {
+      "content": "Q:\tWhy is Poland just like the United States?\nA:\tIn the United States you can't buy anything for zlotys and in\n\tPoland you can't either, while in the U.S. you can get whatever\n\tyou want for dollars, just as you can in Poland.\n\t\t-- being told in Poland, 1987",
+      "sha1": "90789b48507c66d848b32fca29ab0f8b98857153"
+    },
+    {
+      "content": "Q:\tWhy should you always serve a Southern Carolina football man\n\tsoup in a plate?\nA:\t'Cause if you give him a bowl, he'll throw it away.",
+      "sha1": "34545ad5e940e0e0dec78e0c565f3e1c9bfb6efa"
+    },
+    {
+      "content": "Q:\tWhy was Stonehenge abandoned?\nA:\tIt wasn't IBM compatible.\n%",
+      "sha1": "8091927ef95561c32a80d8ed6b4696d806065468"
+    }
   ]
 }

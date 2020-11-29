@@ -43,7 +43,8 @@
         if (json.error) {
           form.output.textContent = `Error: ${json.error}`;
         } else {
-          form.output.innerHTML = `<pre>${json.content}</pre>`;
+          const { content, sha1 } = json.data;
+          form.output.innerHTML = `<pre>${content}</pre>`;
         }
         form.submitBtn.disabled = false;
       };

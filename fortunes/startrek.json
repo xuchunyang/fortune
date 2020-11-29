@@ -2,230 +2,905 @@
   "file": "startrek",
   "count": 225,
   "data": [
-    "A father doesn't destroy his children.\n\t\t-- Lt. Carolyn Palamas, \"Who Mourns for Adonais?\",\n\t\t   stardate 3468.1.",
-    "A little suffering is good for the soul.\n\t\t-- Kirk, \"The Corbomite Maneuver\", stardate 1514.0",
-    "A man either lives life as it happens to him, meets it head-on and\nlicks it, or he turns his back on it and starts to wither away.\n\t\t-- Dr. Boyce, \"The Menagerie\" (\"The Cage\"), stardate unknown",
-    "A princess should not be afraid -- not with a brave knight to protect her.\n\t\t-- McCoy, \"Shore Leave\", stardate 3025.3",
-    "A star captain's most solemn oath is that he will give his life, even\nhis entire crew, rather than violate the Prime Directive.\n\t\t-- Kirk, \"The Omega Glory\", stardate unknown",
-    "A Vulcan can no sooner be disloyal than he can exist without breathing.\n\t\t-- Kirk, \"The Menagerie\", stardate 3012.4",
-    "A woman should have compassion.\n\t\t-- Kirk, \"Catspaw\", stardate 3018.2",
-    "Actual war is a very messy business.  Very, very messy business.\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.0",
-    "After a time, you may find that \"having\" is not so pleasing a thing,\nafter all, as \"wanting.\"  It is not logical, but it is often true.\n\t\t-- Spock, \"Amok Time\", stardate 3372.7",
-    "Ahead warp factor one, Mr. Sulu.",
-    "All your people must learn before you can reach for the stars.\n\t\t-- Kirk, \"The Gamesters of Triskelion\", stardate 3259.2",
-    "Another Armenia, Belgium ... the weak innocents who always seem to be\nlocated on a natural invasion route.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3198.4",
-    "Another dream that failed.  There's nothing sadder.\n\t\t-- Kirk, \"This side of Paradise\", stardate 3417.3",
-    "Another war ... must it always be so?  How many comrades have we lost\nin this way? ...  Obedience.  Duty.  Death, and more death ...\n\t\t-- Romulan Commander, \"Balance of Terror\", stardate 1709.2",
-    "... bacteriological warfare ... hard to believe we were once foolish\nenough to play around with that.\n\t\t-- McCoy, \"The Omega Glory\", stardate unknown",
-    "Beam me up, Scotty!",
-    "Beam me up, Scotty!  It ate my phaser!",
-    "Beam me up, Scotty, there's no intelligent life down here!",
-    "\t\"Beauty is transitory.\"\n\t\"Beauty survives.\"\n\t\t-- Spock and Kirk, \"That Which Survives\", stardate unknown",
-    "Behind every great man, there is a woman -- urging him on.\n\t\t-- Harry Mudd, \"I, Mudd\", stardate 4513.3",
-    "Blast medicine anyway!  We've learned to tie into every organ in the\nhuman body but one.  The brain!  The brain is what life is all about.\n\t\t-- McCoy, \"The Menagerie\", stardate 3012.4",
-    "Bones: \"The man's DEAD, Jim!\"",
-    "But Captain -- the engines can't take this much longer!",
-    "But it's real.  And if it's real it can be affected ...  we may not be able\nto break it, but, I'll bet you credits to Navy Beans we can put a dent in it.\n\t\t-- deSalle, \"Catspaw\", stardate 3018.2",
-    "\"Can you imagine how life could be improved if we could do away with\njealousy, greed, hate ...\"\n\n\"It can also be improved by eliminating love, tenderness, sentiment --\nthe other side of the coin\"\n\t\t-- Dr. Roger Corby and Kirk, \"What are Little Girls Made Of?\",\n\t\t   stardate 2712.4",
-    "Captain's Log, star date 21:34.5...",
-    "Change is the essential process of all existence.\n\t\t-- Spock, \"Let That Be Your Last Battlefield\", stardate 5730.2",
-    "Compassion -- that's the one things no machine ever had.  Maybe it's\nthe one thing that keeps men ahead of them.\n\t\t-- McCoy, \"The Ultimate Computer\", stardate 4731.3",
-    "Computers make excellent and efficient servants, but I have no wish to\nserve under them.  Captain, a starship also runs on loyalty to one\nman.  And nothing can replace it or him.\n\t\t-- Spock, \"The Ultimate Computer\", stardate 4729.4",
-    "Conquest is easy. Control is not.\n\t\t-- Kirk, \"Mirror, Mirror\", stardate unknown",
-    "Dammit Jim, I'm an actor, not a doctor.",
-    "Death, when unnecessary, is a tragic thing.\n\t\t-- Flint, \"Requiem for Methuselah\", stardate 5843.7",
-    "Death.  Destruction.  Disease.  Horror.  That's what war is all about.\nThat's what makes it a thing to be avoided.\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.0",
-    "Deflector shields just came on, Captain.",
-    "Do you know about being with somebody?  Wanting to be?  If I had the\nwhole universe, I'd give it to you, Janice.  When I see you, I feel\nlike I'm hungry all over.  Do you know how that feels?\n\t\t-- Charlie Evans, \"Charlie X\", stardate 1535.8",
-    "Do you know the one -- \"All I ask is a tall ship, and a star to steer\nher by ...\"  You could feel the wind at your back, about you ...  the\nsounds of the sea beneath you.  And even if you take away the wind and\nthe water, it's still the same.  The ship is yours ... you can feel her\n... and the stars are still there.\n\t\t-- Kirk, \"The Ultimate Computer\", stardate 4729.4",
-    "[Doctors and Bartenders], We both get the same two kinds of customers\n-- the living and the dying.\n\t\t-- Dr. Boyce, \"The Menagerie\" (\"The Cage\"), stardate unknown",
-    "Each kiss is as the first.\n\t\t-- Miramanee, Kirk's wife, \"The Paradise Syndrome\",\n\t\t   stardate 4842.6",
-    "EARL GREY PROFILES\n\nNAME:\t\tJean-Luc Perriwinkle Picard\nOCCUPATION:\tStarship Big Cheese\nAGE:\t\t94\nBIRTHPLACE:\tParis, Terra Sector\nEYES:\t\tGrey\nSKIN:\t\tTanned\nHAIR:\t\tNot much\nLAST MAGAZINE READ:\n\t\tLobes 'n' Probes, the Ferengi-Betazoid Sex Quarterly\nTEA:\t\tEarl Grey.  Hot.\n\nEARL GREY NEVER VARIES.",
-    "Earth -- mother of the most beautiful women in the universe.\n\t\t-- Apollo, \"Who Mourns for Adonais?\" stardate 3468.1",
-    "Either one of us, by himself, is expendable.  Both of us are not.\n\t\t-- Kirk, \"The Devil in the Dark\", stardate 3196.1",
-    "Emotions are alien to me.  I'm a scientist.\n\t\t-- Spock, \"This Side of Paradise\", stardate 3417.3",
-    "Even historians fail to learn from history -- they repeat the same mistakes.\n\t\t-- John Gill, \"Patterns of Force\", stardate 2534.7",
-    "Every living thing wants to survive.\n\t\t-- Spock, \"The Ultimate Computer\", stardate 4731.3",
-    "\t\"Evil does seek to maintain power by suppressing the truth.\"\n\t\"Or by misleading the innocent.\"\n\t\t-- Spock and McCoy, \"And The Children Shall Lead\",\n\t\t   stardate 5029.5.",
-    "Extreme feminine beauty is always disturbing.\n\t\t-- Spock, \"The Cloud Minders\", stardate 5818.4",
-    "Fascinating is a word I use for the unexpected.\n\t\t-- Spock, \"The Squire of Gothos\", stardate 2124.5",
-    "Fascinating, a totally parochial attitude.\n\t\t-- Spock, \"Metamorphosis\", stardate 3219.8",
-    "First study the enemy.  Seek weakness.\n\t\t-- Romulan Commander, \"Balance of Terror\", stardate 1709.2",
-    "Four thousand throats may be cut in one night by a running man.\n\t\t-- Klingon Soldier, \"Day of the Dove\", stardate unknown",
-    "\t\"... freedom ... is a worship word...\"\n\t\"It is our worship word too.\"\n\t\t-- Cloud William and Kirk, \"The Omega Glory\", stardate unknown",
-    "Genius doesn't work on an assembly line basis.  You can't simply say,\n\"Today I will be brilliant.\"\n\t\t-- Kirk, \"The Ultimate Computer\", stardate 4731.3",
-    "\t\"Get back to your stations!\"\n\t\"We're beaming down to the planet, sir.\"\n\t\t-- Kirk and Mr. Leslie, \"This Side of Paradise\",\n\t\t   stardate 3417.3",
-    "Hailing frequencies open, Captain.",
-    "He's dead, Jim.\n\t\t-- McCoy, \"The Devil in the Dark\", stardate 3196.1",
-    "History tends to exaggerate.\n\t\t-- Col. Green, \"The Savage Curtain\", stardate 5906.4",
-    "Humans do claim a great deal for that particular emotion (love).\n\t\t-- Spock, \"The Lights of Zetar\", stardate 5725.6",
-    "I am pleased to see that we have differences.  May we together become\ngreater than the sum of both of us.\n\t\t-- Surak of Vulcan, \"The Savage Curtain\", stardate 5906.4",
-    "I have never understood the female capacity to avoid a direct answer to\nany question.\n\t\t-- Spock, \"This Side of Paradise\", stardate 3417.3",
-    "I object to intellect without discipline;  I object to power without\nconstructive purpose.\n\t\t-- Spock, \"The Squire of Gothos\", stardate 2124.5",
-    "I realize that command does have its fascination, even under\ncircumstances such as these, but I neither enjoy the idea of command\nnor am I frightened of it.  It simply exists, and I will do whatever\nlogically needs to be done.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2812.7",
-    "\t\"I think they're going to take all this money that we spend now on war\nand death --\"\n\t\"And make them spend it on life.\"\n\t\t-- Edith Keeler and Kirk, \"The City on the Edge of Forever\",\n\t\t   stardate unknown.",
-    "I thought my people would grow tired of killing.  But you were right,\nthey see it is easier than trading.  And it has its pleasures.  I feel\nit myself.  Like the hunt, but with richer rewards.\n\t\t-- Apella, \"A Private Little War\", stardate 4211.8",
-    "\"I'm a doctor, not a mechanic.\"\n\t\t-- \"The Doomsday Machine\", when asked if he had heard of\n\t\t   the idea of a doomsday machine.\n\"I'm a doctor, not an escalator.\"\n\t\t-- \"Friday's Child\", when asked to help the very pregnant\n\t\t   Ellen up a steep incline.\n\"I'm a doctor, not a bricklayer.\"\n\t\t-- Devil in the Dark\", when asked to patch up the Horta.\n\"I'm a doctor, not an engineer.\"\n\t\t-- \"Mirror, Mirror\", when asked by Scotty for help in\n\t\t   Engineering aboard the ISS Enterprise.\n\"I'm a doctor, not a coalminer.\"\n\t\t-- \"The Empath\", on being beneath the surface of Minara 2.\n\"I'm a surgeon, not a psychiatrist.\"\n\t\t-- \"City on the Edge of Forever\", on Edith Keeler's remark\n\t\t   that Kirk talked strangely.\n\"I'm no magician, Spock, just an old country doctor.\"\n\t\t-- \"The Deadly Years\", to Spock while trying to cure the\n\t\t   aging effects of the rogue comet near Gamma Hydra 4.\n\"What am I, a doctor or a moonshuttle conductor?\"\n\t\t-- \"The Corbomite Maneuver\", when Kirk rushed off from a\n\t\t   physical exam to answer the alert.",
-    "I'm a soldier, not a diplomat.  I can only tell the truth.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3198.9",
-    "I'm frequently appalled by the low regard you Earthmen have for life.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
-    "I've already got a female to worry about.  Her name is the Enterprise.\n\t\t-- Kirk, \"The Corbomite Maneuver\", stardate 1514.0",
-    "If a man had a child who'd gone anti-social, killed perhaps, he'd still\ntend to protect that child.\n\t\t-- McCoy, \"The Ultimate Computer\", stardate 4731.3",
-    "If I can have honesty, it's easier to overlook mistakes.\n\t\t-- Kirk, \"Space Seed\", stardate 3141.9",
-    "If some day we are defeated, well, war has its fortunes, good and bad.\n\t\t-- Commander Kor, \"Errand of Mercy\", stardate 3201.7",
-    "If there are self-made purgatories, then we all have to live in them.\n\t\t-- Spock, \"This Side of Paradise\", stardate 3417.7",
-    "Immortality consists largely of boredom.\n\t\t-- Zefrem Cochrane, \"Metamorphosis\", stardate 3219.8",
-    "In the strict scientific sense we all feed on death -- even vegetarians.\n\t\t-- Spock, \"Wolf in the Fold\", stardate 3615.4",
-    "Insufficient facts always invite danger.\n\t\t-- Spock, \"Space Seed\", stardate 3141.9",
-    "Insults are effective only where emotion is present.\n\t\t-- Spock, \"Who Mourns for Adonais?\"  stardate 3468.1",
-    "Intuition, however illogical, is recognized as a command prerogative.\n\t\t-- Kirk, \"Obsession\", stardate 3620.7",
-    "Is not that the nature of men and women -- that the pleasure is in the\nlearning of each other?\n\t\t-- Natira, the High Priestess of Yonada, \"For the World is\n\t\t   Hollow and I Have Touched the Sky\", stardate 5476.3.",
-    "Is truth not truth for all?\n\t\t-- Natira, \"For the World is Hollow and I have Touched\n\t\t   the Sky\", stardate 5476.4.",
-    "It [being a Vulcan] means to adopt a philosophy, a way of life which is\nlogical and beneficial.  We cannot disregard that philosophy merely for\npersonal gain, no matter how important that gain might be.\n\t\t-- Spock, \"Journey to Babel\", stardate 3842.4",
-    "It is a human characteristic to love little animals, especially if\nthey're attractive in some way.\n\t\t-- McCoy, \"The Trouble with Tribbles\", stardate 4525.6",
-    "It is more rational to sacrifice one life than six.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
-    "It is necessary to have purpose.\n\t\t-- Alice #1, \"I, Mudd\", stardate 4513.3",
-    "It is undignified for a woman to play servant to a man who is not hers.\n\t\t-- Spock, \"Amok Time\", stardate 3372.7",
-    "It would be illogical to assume that all conditions remain stable.\n\t\t-- Spock, \"The Enterprise\" Incident\", stardate 5027.3",
-    "It would be illogical to kill without reason.\n\t\t-- Spock, \"Journey to Babel\", stardate 3842.4",
-    "It would seem that evil retreats when forcibly confronted.\n\t\t-- Yarnek of Excalbia, \"The Savage Curtain\", stardate 5906.5",
-    "\t\"It's hard to believe that something which is neither seen nor felt can\ndo so much harm.\"\n\t\"That's true.  But an idea can't be seen or felt.  And that's what kept\nthe Troglytes in the mines all these centuries.  A mistaken idea.\"\n\t\t-- Vanna and Kirk, \"The Cloud Minders\", stardate 5819.0",
-    "Killing is stupid; useless!\n\t\t-- McCoy, \"A Private Little War\", stardate 4211.8",
-    "Killing is wrong.\n\t\t-- Losira, \"That Which Survives\", stardate unknown",
-    "Kirk to Enterprise -- beam down yeoman Rand and a six-pack.",
-    "Klingon phaser attack from front!!!!!\n100% Damage to life support!!!!",
-    "Knowledge, sir, should be free to all!\n\t\t-- Harry Mudd, \"I, Mudd\", stardate 4513.3",
-    "Landru! Guide us!\n\t\t-- A Beta 3-oid, \"The Return of the Archons\", stardate 3157.4",
-    "Leave bigotry in your quarters; there's no room for it on the bridge.\n\t\t-- Kirk, \"Balance of Terror\", stardate 1709.2",
-    "\t\"Life and death are seldom logical.\"\n\t\"But attaining a desired goal always is.\"\n\t\t-- McCoy and Spock, \"The Galileo Seven\", stardate 2821.7",
-    "Live long and prosper.\n\t\t-- Spock, \"Amok Time\", stardate 3372.7",
-    "\t\"Logic and practical information do not seem to apply here.\"\n\t\"You admit that?\"\n\t\"To deny the facts would be illogical, Doctor\"\n\t\t-- Spock and McCoy, \"A Piece of the Action\", stardate unknown",
-    "Lots of people drink from the wrong bottle sometimes.\n\t\t-- Edith Keeler, \"The City on the Edge of Forever\",\n\t\t   stardate unknown",
-    "Love sometimes expresses itself in sacrifice.\n\t\t-- Kirk, \"Metamorphosis\", stardate 3220.3",
-    "Madness has no purpose.  Or reason.  But it may have a goal.\n\t\t-- Spock, \"The Alternative Factor\", stardate 3088.7",
-    "Many Myths are based on truth\n\t\t-- Spock, \"The Way to Eden\",  stardate 5832.3",
-    "Men of peace usually are [brave].\n\t\t-- Spock, \"The Savage Curtain\", stardate 5906.5",
-    "Men will always be men -- no matter where they are.\n\t\t-- Harry Mudd, \"Mudd's Women\", stardate 1329.8",
-    "Military secrets are the most fleeting of all.\n\t\t-- Spock, \"The Enterprise Incident\", stardate 5027.4",
-    "Mind your own business, Spock.  I'm sick of your halfbreed interference.",
-    "Most legends have their basis in facts.\n\t\t-- Kirk, \"And The Children Shall Lead\", stardate 5029.5",
-    "Murder is contrary to the laws of man and God.\n\t\t-- M-5 Computer, \"The Ultimate Computer\", stardate 4731.3",
-    "No more blah, blah, blah!\n\t\t-- Kirk, \"Miri\", stardate 2713.6",
-    "No one can guarantee the actions of another.\n\t\t-- Spock, \"Day of the Dove\", stardate unknown",
-    "No one may kill a man.  Not for any purpose.  It cannot be condoned.\n\t\t-- Kirk, \"Spock's Brain\", stardate 5431.6",
-    "\t\"No one talks peace unless he's ready to back it up with war.\"\n\t\"He talks of peace if it is the only way to live.\"\n\t\t-- Colonel Green and Surak of Vulcan, \"The Savage Curtain\",\n\t\t   stardate 5906.5.",
-    "No one wants war.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3201.7",
-    "No problem is insoluble.\n\t\t-- Dr. Janet Wallace, \"The Deadly Years\", stardate 3479.4",
-    "Not one hundred percent efficient, of course ... but nothing ever is.\n\t\t-- Kirk, \"Metamorphosis\", stardate 3219.8",
-    "Oblivion together does not frighten me, beloved.\n\t\t-- Thalassa (in Anne Mulhall's body), \"Return to Tomorrow\",\n\t\t   stardate 4770.3.",
-    "Oh, that sound of male ego.  You travel halfway across the galaxy and\nit's still the same song.\n\t\t-- Eve McHuron, \"Mudd's Women\", stardate 1330.1",
-    "On my planet, to rest is to rest -- to cease using energy.  To me, it\nis quite illogical to run up and down on green grass, using energy,\ninstead of saving it.\n\t\t-- Spock, \"Shore Leave\", stardate 3025.2",
-    "One does not thank logic.\n\t\t-- Sarek, \"Journey to Babel\", stardate 3842.4",
-    "One of the advantages of being a captain is being able to ask for\nadvice without necessarily having to take it.\n\t\t-- Kirk, \"Dagger of the Mind\", stardate 2715.2",
-    "Only a fool fights in a burning house.\n\t\t-- Kank the Klingon, \"Day of the Dove\", stardate unknown",
-    "Our missions are peaceful -- not for conquest.  When we do battle, it\nis only because we have no choice.\n\t\t-- Kirk, \"The Squire of Gothos\", stardate 2124.5",
-    "Our way is peace.\n\t\t-- Septimus, the Son Worshiper, \"Bread and Circuses\",\n\t\t   stardate 4040.7.",
-    "Pain is a thing of the mind.  The mind can be controlled.\n\t\t-- Spock, \"Operation -- Annihilate!\" stardate 3287.2",
-    "Peace was the way.\n\t\t-- Kirk, \"The City on the Edge of Forever\", stardate unknown",
-    "Phasers locked on target, Captain.",
-    "Power is danger.\n\t\t-- The Centurion, \"Balance of Terror\", stardate 1709.2",
-    "Prepare for tomorrow -- get ready.\n\t\t-- Edith Keeler, \"The City On the Edge of Forever\",\n\t\t   stardate unknown",
-    "Punishment becomes ineffective after a certain point.  Men become insensitive.\n\t\t-- Eneg, \"Patterns of Force\", stardate 2534.7",
-    "Respect is a rational process\n\t\t-- McCoy, \"The Galileo Seven\", stardate 2822.3",
-    "Romulan women are not like Vulcan females.  We are not dedicated to\npure logic and the sterility of non-emotion.\n\t\t-- Romulan Commander, \"The Enterprise Incident\",\n\t\t   stardate 5027.3",
-    "Schshschshchsch.\n\t\t-- The Gorn, \"Arena\", stardate 3046.2",
-    "She won' go Warp 7, Cap'n!  The batteries are dead!",
-    "Sometimes a feeling is all we humans have to go on.\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.9",
-    "Sometimes a man will tell his bartender things he'll never tell his doctor.\n\t\t-- Dr. Phillip Boyce, \"The Menagerie\" (\"The Cage\"),\n\t\t   stardate unknown.",
-    "Space: the final frontier.  These are the voyages of the starship Enterprise.\nIts five-year mission: to explore strange new worlds; to seek out new life\nand new civilizations; to boldly go where no man has gone before.\n\t\t-- Captain James T. Kirk",
-    "Spock: The odds of surviving another attack are 13562190123 to 1, Captain.",
-    "Spock: We suffered 23 casualties in that attack, Captain.",
-    "Star Trek Lives!",
-    "Suffocating together ... would create heroic camaraderie.\n\t\t-- Khan Noonian Singh, \"Space Seed\", stardate 3142.8",
-    "Superior ability breeds superior ambition.\n\t\t-- Spock, \"Space Seed\", stardate 3141.9",
-    "\t\"That unit is a woman.\"\n\t\"A mass of conflicting impulses.\"\n\t\t-- Spock and Nomad, \"The Changeling\", stardate 3541.9",
-    "The best diplomat I know is a fully activated phaser bank.\n\t\t-- Scotty",
-    "\t\"The combination of a number of things to make existence worthwhile.\"\n\t\"Yes, the philosophy of 'none,' meaning 'all.'\"\n\t\t-- Spock and Lincoln, \"The Savage Curtain\", stardate 5906.4",
-    "The face of war has never changed.  Surely it is more logical to heal\nthan to kill.\n\t\t-- Surak of Vulcan, \"The Savage Curtain\", stardate 5906.5",
-    "The games have always strengthened us.  Death becomes a familiar\npattern.  We don't fear it as you do.\n\t\t-- Proconsul Marcus Claudius, \"Bread and Circuses\",\n\t\t   stardate 4041.2",
-    "\t\"The glory of creation is in its infinite diversity.\"\n\t\"And in the way our differences combine to create meaning and beauty.\"\n\t\t-- Dr. Miranda Jones and Spock, \"Is There in Truth No Beauty?\",\n\t\t   stardate 5630.8",
-    "The heart is not a logical organ.\n\t\t-- Dr. Janet Wallace, \"The Deadly Years\", stardate 3479.4",
-    "The idea of male and female are universal constants.\n\t\t-- Kirk, \"Metamorphosis\", stardate 3219.8",
-    "The joys of love made her human and the agonies of love destroyed her.\n\t\t-- Spock, \"Requiem for Methuselah\", stardate 5842.8",
-    "The man on tops walks a lonely street; the \"chain\" of command is often a noose.",
-    "The more complex the mind, the greater the need for the simplicity of play.\n\t\t-- Kirk, \"Shore Leave\", stardate 3025.8",
-    "The only solution is ... a balance of power.  We arm our side with exactly\nthat much more.  A balance of power -- the trickiest, most difficult,\ndirtiest game of them all.  But the only one that preserves both sides.\n\t\t-- Kirk, \"A Private Little War\", stardate 4211.8",
-    "The people of Gideon have always believed that life is sacred.  That\nthe love of life is the greatest gift ... We are incapable of\ndestroying or interfering with the creation of that which we love so\ndeeply -- life in every form from fetus to developed being.\n\t\t-- Hodin of Gideon, \"The Mark of Gideon\", stardate 5423.4",
-    "... The prejudices people feel about each other disappear when then get\nto know each other.\n\t\t-- Kirk, \"Elaan of Troyius\", stardate 4372.5",
-    "\t\"The release of emotion is what keeps us health.  Emotionally healthy.\"\n\t\"That may be, Doctor.  However, I have noted that the healthy release\nof emotion is frequently unhealthy for those closest to you.\"\n\t\t-- McCoy and Spock, \"Plato's Stepchildren\", stardate 5784.3",
-    "The sight of death frightens them [Earthers].\n\t\t-- Kras the Klingon, \"Friday's Child\", stardate 3497.2",
-    "The sooner our happiness together begins, the longer it will last.\n\t\t-- Miramanee, \"The Paradise Syndrome\", stardate 4842.6",
-    "... The things love can drive a man to -- the ecstasies, the\nthe miseries, the broken rules, the desperate chances, the glorious\nfailures and the glorious victories.\n\t\t-- McCoy, \"Requiem for Methuselah\", stardate 5843.7",
-    "There are always alternatives.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
-    "There are certain things men must do to remain men.\n\t\t-- Kirk, \"The Ultimate Computer\", stardate 4929.4",
-    "There are some things worth dying for.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3201.7",
-    "There comes to all races an ultimate crisis which you have yet to face\n.... One day our minds became so powerful we dared think of ourselves as gods.\n\t\t-- Sargon, \"Return to Tomorrow\", stardate 4768.3",
-    "There is a multi-legged creature crawling on your shoulder.\n\t\t-- Spock, \"A Taste of Armageddon\", stardate 3193.9",
-    "There is an old custom among my people.  When a woman saves a man's\nlife, he is grateful.\n\t\t-- Nona, the Kanuto witch woman, \"A Private Little War\",\n\t\t   stardate 4211.8.",
-    "There is an order of things in this universe.\n\t\t-- Apollo, \"Who Mourns for Adonais?\" stardate 3468.1",
-    "There's a way out of any cage.\n\t\t-- Captain Christopher Pike, \"The Menagerie\" (\"The Cage\"),\n\t\t   stardate unknown.",
-    "There's another way to survive.  Mutual trust -- and help.\n\t\t-- Kirk, \"Day of the Dove\", stardate unknown",
-    "There's no honorable way to kill, no gentle way to destroy.  There is\nnothing good in war.  Except its ending.\n\t\t-- Abraham Lincoln, \"The Savage Curtain\", stardate 5906.5",
-    "There's nothing disgusting about it [the Companion].  It's just another\nlife form, that's all.  You get used to those things.\n\t\t-- McCoy, \"Metamorphosis\", stardate 3219.8",
-    "\t\"There's only one kind of woman ...\"\n\t\"Or man, for that matter.  You either believe in yourself or you don't.\"\n\t\t-- Kirk and Harry Mudd, \"Mudd's Women\", stardate 1330.1",
-    "This cultural mystique surrounding the biological function -- you\nrealize humans are overly preoccupied with the subject.\n\t\t-- Kelinda the Kelvan, \"By Any Other Name\", stardate 4658.9",
-    "Those who hate and fight must stop themselves -- otherwise it is not stopped.\n\t\t-- Spock, \"Day of the Dove\", stardate unknown",
-    "Time is fluid ... like a river with currents, eddies, backwash.\n\t\t-- Spock, \"The City on the Edge of Forever\", stardate 3134.0",
-    "To live is always desirable.\n\t\t-- Eleen the Capellan, \"Friday's Child\", stardate 3498.9",
-    "Too much of anything, even love, isn't necessarily a good thing.\n\t\t-- Kirk, \"The Trouble with Tribbles\", stardate 4525.6",
-    "Totally illogical, there was no chance.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
-    "Uncontrolled power will turn even saints into savages.  And we can all\nbe counted on to live down to our lowest impulses.\n\t\t-- Parmen, \"Plato's Stepchildren\", stardate 5784.3",
-    "Violence in reality is quite different from theory.\n\t\t-- Spock, \"The Cloud Minders\", stardate 5818.4",
-    "Virtue is a relative term.\n\t\t-- Spock, \"Friday's Child\", stardate 3499.1",
-    "Vulcans believe peace should not depend on force.\n\t\t-- Amanda, \"Journey to Babel\", stardate 3842.3",
-    "Vulcans do not approve of violence.\n\t\t-- Spock, \"Journey to Babel\", stardate 3842.4",
-    "Vulcans never bluff.\n\t\t-- Spock, \"The Doomsday Machine\", stardate 4202.1",
-    "Vulcans worship peace above all.\n\t\t-- McCoy, \"Return to Tomorrow\", stardate 4768.3",
-    "Wait!  You have not been prepared!\n\t\t-- Mr. Atoz, \"Tomorrow is Yesterday\", stardate 3113.2",
-    "War is never imperative.\n\t\t-- McCoy, \"Balance of Terror\", stardate 1709.2",
-    "War isn't a good life, but it's life.\n\t\t-- Kirk, \"A Private Little War\", stardate 4211.8",
-    "[War] is instinctive.  But the instinct can be fought.  We're human\nbeings with the blood of a million savage years on our hands!  But we\ncan stop it.  We can admit that we're killers ... but we're not going\nto kill today.  That's all it takes!  Knowing that we're not going to\nkill today!\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.0",
-    "Warp 7 -- It's a law we can live with.",
-    "We do not colonize.  We conquer.  We rule.  There is no other way for us.\n\t\t-- Rojan, \"By Any Other Name\", stardate 4657.5",
-    "We fight only when there is no other choice.  We prefer the ways of\npeaceful contact.\n\t\t-- Kirk, \"Spectre of the Gun\", stardate 4385.3",
-    "We have found all life forms in the galaxy are capable of superior\ndevelopment.\n\t\t-- Kirk, \"The Gamesters of Triskelion\", stardate 3211.7",
-    "We have phasers, I vote we blast 'em!\n\t\t-- Bailey, \"The Corbomite Maneuver\", stardate 1514.2",
-    "\t\"We have the right to survive!\"\n\t\"Not by killing others.\"\n\t\t-- Deela and Kirk, \"Wink of An Eye\", stardate 5710.5",
-    "We Klingons believe as you do -- the sick should die.  Only the strong\nshould live.\n\t\t-- Kras, \"Friday's Child\", stardate 3497.2",
-    "We'll pivot at warp 2 and bring all tubes to bear, Mr. Sulu!",
-    "We're all sorry for the other guy when he loses his job to a machine.\nBut when it comes to your job -- that's different.  And it always will\nbe different.\n\t\t-- McCoy, \"The Ultimate Computer\", stardate 4729.4",
-    "Well, Jim, I'm not much of an actor either.",
-    "\t\"What happened to the crewman?\"\n\t\"The M-5 computer needed a new power source, the crewman merely got in\nthe way.\"\n\t\t-- Kirk and Dr. Richard Daystrom, \"The Ultimate Computer\",\n\t\t   stardate 4731.3.",
-    "What kind of love is that?  Not to be loved; never to have shown love.\n\t\t-- Commissioner Nancy Hedford, \"Metamorphosis\",\n\t\t   stardate 3219.8",
-    "\t\"What terrible way to die.\"\n\t\"There are no good ways.\"\n\t\t-- Sulu and Kirk, \"That Which Survives\", stardate unknown",
-    "When a child is taught ... its programmed with simple instructions --\nand at some point, if its mind develops properly, it exceeds the sum of\nwhat it was taught, thinks independently.\n\t\t-- Dr. Richard Daystrom, \"The Ultimate Computer\",\n\t\t   stardate 4731.3.",
-    "When dreams become more important than reality, you give up travel,\nbuilding, creating; you even forget how to repair the machines left\nbehind by your ancestors.  You just sit living and reliving other lives\nleft behind in the thought records.\n\t\t-- Vina, \"The Menagerie\" (\"The Cage\"), stardate unknown",
-    "Where there's no emotion, there's no motive for violence.\n\t\t-- Spock, \"Dagger of the Mind\", stardate 2715.1",
-    "Witch!  Witch!  They'll burn ya!\n\t\t-- Hag, \"Tomorrow is Yesterday\", stardate unknown",
-    "Without facts, the decision cannot be made logically.  You must rely on\nyour human intuition.\n\t\t-- Spock, \"Assignment: Earth\", stardate unknown",
-    "Without followers, evil cannot spread.\n\t\t-- Spock, \"And The Children Shall Lead\", stardate 5029.5",
-    "Without freedom of choice there is no creativity.\n\t\t-- Kirk, \"The return of the Archons\", stardate 3157.4",
-    "Women are more easily and more deeply terrified ... generating more\nsheer horror than the male of the species.\n\t\t-- Spock, \"Wolf in the Fold\", stardate 3615.4",
-    "Women professionals do tend to over-compensate.\n\t\t-- Dr. Elizabeth Dehaver, \"Where No Man Has Gone Before\",\n\t\t   stardate 1312.9.",
-    "Worlds are conquered, galaxies destroyed -- but a woman is always a woman.\n\t\t-- Kirk, \"The Conscience of the King\", stardate 2818.9",
-    "Yes, it is written.  Good shall always destroy evil.\n\t\t-- Sirah the Yang, \"The Omega Glory\", stardate unknown",
-    "You are an excellent tactician, Captain.  You let your second in\ncommand attack while you sit and watch for weakness.\n\t\t-- Khan Noonian Singh, \"Space Seed\", stardate 3141.9",
-    "You can't evaluate a man by logic alone.\n\t\t-- McCoy, \"I, Mudd\", stardate 4513.3",
-    "You canna change the laws of physics, Captain; I've got to have thirty minutes!",
-    "You Earth people glorified organized violence for forty centuries.  But\nyou imprison those who employ it privately.\n\t\t-- Spock, \"Dagger of the Mind\", stardate 2715.1",
-    "You go slow, be gentle.  It's no one-way street -- you know how you\nfeel and that's all.  It's how the girl feels too.  Don't press.  If\nthe girl feels anything for you at all, you'll know.\n\t\t-- Kirk, \"Charlie X\", stardate 1535.8",
-    "You humans have that emotional need to express gratitude.  \"You're\nwelcome,\" I believe, is the correct response.\n\t\t-- Spock, \"Bread and Circuses\", stardate 4041.2",
-    "You say you are lying.  But if everything you say is a lie, then you are\ntelling the truth.  You cannot tell the truth because everything you say\nis a lie.  You lie, you tell the truth ... but you cannot, for you lie.\n\t\t-- Norman the android, \"I, Mudd\", stardate 4513.3",
-    "You speak of courage.  Obviously you do not know the difference between\ncourage and foolhardiness.  Always it is the brave ones who die, the soldiers.\n\t\t-- Kor, the Klingon Commander, \"Errand of Mercy\",\n\t\t   stardate 3201.7",
-    "You!  What PLANET is this!\n\t\t-- McCoy, \"The City on the Edge of Forever\", stardate 3134.0",
-    "You'll learn something about men and women -- the way they're supposed\nto be.  Caring for each other, being happy with each other, being good\nto each other.  That's what we call love.  You'll like that a lot.\n\t\t-- Kirk, \"The Apple\", stardate 3715.6",
-    "You're dead, Jim.\n\t\t-- McCoy, \"Amok Time\", stardate 3372.7",
-    "You're dead, Jim.\n\t\t-- McCoy, \"The Tholian Web\", stardate unknown",
-    "You're too beautiful to ignore.  Too much woman.\n\t\t-- Kirk to Yeoman Rand, \"The Enemy Within\", stardate unknown",
-    "Youth doesn't excuse everything.\n\t\t-- Dr. Janice Lester (in Kirk's body), \"Turnabout Intruder\",\n\t\t   stardate 5928.5.\n%"
+    {
+      "content": "A father doesn't destroy his children.\n\t\t-- Lt. Carolyn Palamas, \"Who Mourns for Adonais?\",\n\t\t   stardate 3468.1.",
+      "sha1": "43eba5ca18551d2d70b605b7912077fd205d240c"
+    },
+    {
+      "content": "A little suffering is good for the soul.\n\t\t-- Kirk, \"The Corbomite Maneuver\", stardate 1514.0",
+      "sha1": "c2f3f2ce6eafeb39196e71fb35968ed360e21d94"
+    },
+    {
+      "content": "A man either lives life as it happens to him, meets it head-on and\nlicks it, or he turns his back on it and starts to wither away.\n\t\t-- Dr. Boyce, \"The Menagerie\" (\"The Cage\"), stardate unknown",
+      "sha1": "9243b74df5b466850b1f47ba592e48b78c27f6d7"
+    },
+    {
+      "content": "A princess should not be afraid -- not with a brave knight to protect her.\n\t\t-- McCoy, \"Shore Leave\", stardate 3025.3",
+      "sha1": "ec702c1e9040e6da1b89a49e8078a099272c93d0"
+    },
+    {
+      "content": "A star captain's most solemn oath is that he will give his life, even\nhis entire crew, rather than violate the Prime Directive.\n\t\t-- Kirk, \"The Omega Glory\", stardate unknown",
+      "sha1": "19d2a890b2da6de864864a577241cdb0d7643a21"
+    },
+    {
+      "content": "A Vulcan can no sooner be disloyal than he can exist without breathing.\n\t\t-- Kirk, \"The Menagerie\", stardate 3012.4",
+      "sha1": "86c192a7c7305b58c7c0bc8f715af0f754a0d072"
+    },
+    {
+      "content": "A woman should have compassion.\n\t\t-- Kirk, \"Catspaw\", stardate 3018.2",
+      "sha1": "c8e79d08e7c0e33df128256586cb5b7ac5975ddd"
+    },
+    {
+      "content": "Actual war is a very messy business.  Very, very messy business.\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.0",
+      "sha1": "64006fc191c8133a219a78e02bba8dda27185141"
+    },
+    {
+      "content": "After a time, you may find that \"having\" is not so pleasing a thing,\nafter all, as \"wanting.\"  It is not logical, but it is often true.\n\t\t-- Spock, \"Amok Time\", stardate 3372.7",
+      "sha1": "cda3d05df473ec6a865f2f75cf70b56b53f06c35"
+    },
+    {
+      "content": "Ahead warp factor one, Mr. Sulu.",
+      "sha1": "a47452b44e52456d253a64f51184c4e069a4f740"
+    },
+    {
+      "content": "All your people must learn before you can reach for the stars.\n\t\t-- Kirk, \"The Gamesters of Triskelion\", stardate 3259.2",
+      "sha1": "09d211795e0e284cdf475497cdae05c977c50bc5"
+    },
+    {
+      "content": "Another Armenia, Belgium ... the weak innocents who always seem to be\nlocated on a natural invasion route.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3198.4",
+      "sha1": "befe77ec46f59f6f6b2179e7d3dc95c118d720cc"
+    },
+    {
+      "content": "Another dream that failed.  There's nothing sadder.\n\t\t-- Kirk, \"This side of Paradise\", stardate 3417.3",
+      "sha1": "4fc71bd1fda9fc7835ef969b26008b0c11a268ac"
+    },
+    {
+      "content": "Another war ... must it always be so?  How many comrades have we lost\nin this way? ...  Obedience.  Duty.  Death, and more death ...\n\t\t-- Romulan Commander, \"Balance of Terror\", stardate 1709.2",
+      "sha1": "bc795173ecbf10e63f93d0e65492e0cacf79365a"
+    },
+    {
+      "content": "... bacteriological warfare ... hard to believe we were once foolish\nenough to play around with that.\n\t\t-- McCoy, \"The Omega Glory\", stardate unknown",
+      "sha1": "06ba24177656a5f5266fa7a5112daf81a989119e"
+    },
+    {
+      "content": "Beam me up, Scotty!",
+      "sha1": "5b20c498088386542f4a7c8165bf767024e14192"
+    },
+    {
+      "content": "Beam me up, Scotty!  It ate my phaser!",
+      "sha1": "52f22e51733877cef3976c96f0cdc85766cbfee5"
+    },
+    {
+      "content": "Beam me up, Scotty, there's no intelligent life down here!",
+      "sha1": "75d920428b252381144099ae72ac6062c1869417"
+    },
+    {
+      "content": "\t\"Beauty is transitory.\"\n\t\"Beauty survives.\"\n\t\t-- Spock and Kirk, \"That Which Survives\", stardate unknown",
+      "sha1": "1c82bc815c2e495c1e25103711fd69ea269d0f38"
+    },
+    {
+      "content": "Behind every great man, there is a woman -- urging him on.\n\t\t-- Harry Mudd, \"I, Mudd\", stardate 4513.3",
+      "sha1": "9b5a6ac3351f1aa9ac9e38c5600398e2093d9ff2"
+    },
+    {
+      "content": "Blast medicine anyway!  We've learned to tie into every organ in the\nhuman body but one.  The brain!  The brain is what life is all about.\n\t\t-- McCoy, \"The Menagerie\", stardate 3012.4",
+      "sha1": "5cc3998e83987f409fa014089ca788a7950d2037"
+    },
+    {
+      "content": "Bones: \"The man's DEAD, Jim!\"",
+      "sha1": "8074b46d71d8c6ca891618f0a4ceea91f0b23eed"
+    },
+    {
+      "content": "But Captain -- the engines can't take this much longer!",
+      "sha1": "704c64665a15a2c0e6d0fd1c14cca1751b1c6beb"
+    },
+    {
+      "content": "But it's real.  And if it's real it can be affected ...  we may not be able\nto break it, but, I'll bet you credits to Navy Beans we can put a dent in it.\n\t\t-- deSalle, \"Catspaw\", stardate 3018.2",
+      "sha1": "e2485624ae9ccbf1c9a575f3d465920dcad4f7bb"
+    },
+    {
+      "content": "\"Can you imagine how life could be improved if we could do away with\njealousy, greed, hate ...\"\n\n\"It can also be improved by eliminating love, tenderness, sentiment --\nthe other side of the coin\"\n\t\t-- Dr. Roger Corby and Kirk, \"What are Little Girls Made Of?\",\n\t\t   stardate 2712.4",
+      "sha1": "b99ea1d592a5dc99d7dde92239c0374e7f634e33"
+    },
+    {
+      "content": "Captain's Log, star date 21:34.5...",
+      "sha1": "20e7468111c2ae8fdc70bcb787af507ca6cd15be"
+    },
+    {
+      "content": "Change is the essential process of all existence.\n\t\t-- Spock, \"Let That Be Your Last Battlefield\", stardate 5730.2",
+      "sha1": "0e6bb2abe4323e0bd08ed6facb0ee4d9e546c91f"
+    },
+    {
+      "content": "Compassion -- that's the one things no machine ever had.  Maybe it's\nthe one thing that keeps men ahead of them.\n\t\t-- McCoy, \"The Ultimate Computer\", stardate 4731.3",
+      "sha1": "7702fc5256046c53034cac1dc8d459c13a5ee8e9"
+    },
+    {
+      "content": "Computers make excellent and efficient servants, but I have no wish to\nserve under them.  Captain, a starship also runs on loyalty to one\nman.  And nothing can replace it or him.\n\t\t-- Spock, \"The Ultimate Computer\", stardate 4729.4",
+      "sha1": "a48dec6e4c8186d8b8ad131381d6cca079f09c0f"
+    },
+    {
+      "content": "Conquest is easy. Control is not.\n\t\t-- Kirk, \"Mirror, Mirror\", stardate unknown",
+      "sha1": "184cb737f55d7ab3a192491b98f227f73effdbe8"
+    },
+    {
+      "content": "Dammit Jim, I'm an actor, not a doctor.",
+      "sha1": "f0ff09380fab51c614d7e262599831966a0dd194"
+    },
+    {
+      "content": "Death, when unnecessary, is a tragic thing.\n\t\t-- Flint, \"Requiem for Methuselah\", stardate 5843.7",
+      "sha1": "7bb971abca88b7a3c273153dac8621672c04fb50"
+    },
+    {
+      "content": "Death.  Destruction.  Disease.  Horror.  That's what war is all about.\nThat's what makes it a thing to be avoided.\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.0",
+      "sha1": "280d2e1eda762bab4e7abd73bd1831af17e8d577"
+    },
+    {
+      "content": "Deflector shields just came on, Captain.",
+      "sha1": "0df7493373ca47a1c816498ff4260985b965674b"
+    },
+    {
+      "content": "Do you know about being with somebody?  Wanting to be?  If I had the\nwhole universe, I'd give it to you, Janice.  When I see you, I feel\nlike I'm hungry all over.  Do you know how that feels?\n\t\t-- Charlie Evans, \"Charlie X\", stardate 1535.8",
+      "sha1": "175f9297253dfae8371f508d1827367e418ba2c4"
+    },
+    {
+      "content": "Do you know the one -- \"All I ask is a tall ship, and a star to steer\nher by ...\"  You could feel the wind at your back, about you ...  the\nsounds of the sea beneath you.  And even if you take away the wind and\nthe water, it's still the same.  The ship is yours ... you can feel her\n... and the stars are still there.\n\t\t-- Kirk, \"The Ultimate Computer\", stardate 4729.4",
+      "sha1": "4ba73ecb86a5e5ccb1030a6d655798748695532e"
+    },
+    {
+      "content": "[Doctors and Bartenders], We both get the same two kinds of customers\n-- the living and the dying.\n\t\t-- Dr. Boyce, \"The Menagerie\" (\"The Cage\"), stardate unknown",
+      "sha1": "d96b171de9aa09782117ab40028273a6d5557bda"
+    },
+    {
+      "content": "Each kiss is as the first.\n\t\t-- Miramanee, Kirk's wife, \"The Paradise Syndrome\",\n\t\t   stardate 4842.6",
+      "sha1": "a88ec58f1bda9a19a7cd2e0b2b9e2012634b516d"
+    },
+    {
+      "content": "EARL GREY PROFILES\n\nNAME:\t\tJean-Luc Perriwinkle Picard\nOCCUPATION:\tStarship Big Cheese\nAGE:\t\t94\nBIRTHPLACE:\tParis, Terra Sector\nEYES:\t\tGrey\nSKIN:\t\tTanned\nHAIR:\t\tNot much\nLAST MAGAZINE READ:\n\t\tLobes 'n' Probes, the Ferengi-Betazoid Sex Quarterly\nTEA:\t\tEarl Grey.  Hot.\n\nEARL GREY NEVER VARIES.",
+      "sha1": "0292b9d2a8e8f8140b5005dca7b64fe59964d90a"
+    },
+    {
+      "content": "Earth -- mother of the most beautiful women in the universe.\n\t\t-- Apollo, \"Who Mourns for Adonais?\" stardate 3468.1",
+      "sha1": "cca7ca2eaf0ff6c0d41c2f4179a7d8e511cc3734"
+    },
+    {
+      "content": "Either one of us, by himself, is expendable.  Both of us are not.\n\t\t-- Kirk, \"The Devil in the Dark\", stardate 3196.1",
+      "sha1": "d814639722a199d0d2415a7a6297d548213153ab"
+    },
+    {
+      "content": "Emotions are alien to me.  I'm a scientist.\n\t\t-- Spock, \"This Side of Paradise\", stardate 3417.3",
+      "sha1": "7b9ffe8c4c68b457730714422e7dbaad02a1600a"
+    },
+    {
+      "content": "Even historians fail to learn from history -- they repeat the same mistakes.\n\t\t-- John Gill, \"Patterns of Force\", stardate 2534.7",
+      "sha1": "67c47862c5e3fb51b4442862420914fdf6d8d9ca"
+    },
+    {
+      "content": "Every living thing wants to survive.\n\t\t-- Spock, \"The Ultimate Computer\", stardate 4731.3",
+      "sha1": "808a713a6314fa39a8e48b6bc035c426070c11cc"
+    },
+    {
+      "content": "\t\"Evil does seek to maintain power by suppressing the truth.\"\n\t\"Or by misleading the innocent.\"\n\t\t-- Spock and McCoy, \"And The Children Shall Lead\",\n\t\t   stardate 5029.5.",
+      "sha1": "4e54f122a171e19247ad736a894240374d628113"
+    },
+    {
+      "content": "Extreme feminine beauty is always disturbing.\n\t\t-- Spock, \"The Cloud Minders\", stardate 5818.4",
+      "sha1": "2b48f8b7127cac1473eb4886e17b5787081f20eb"
+    },
+    {
+      "content": "Fascinating is a word I use for the unexpected.\n\t\t-- Spock, \"The Squire of Gothos\", stardate 2124.5",
+      "sha1": "b15d6f995a22c407eed5f2a3aff80e204f8b061d"
+    },
+    {
+      "content": "Fascinating, a totally parochial attitude.\n\t\t-- Spock, \"Metamorphosis\", stardate 3219.8",
+      "sha1": "080ad8bffb914765caa209be06717f4cd2a274ad"
+    },
+    {
+      "content": "First study the enemy.  Seek weakness.\n\t\t-- Romulan Commander, \"Balance of Terror\", stardate 1709.2",
+      "sha1": "7def28c66ba4f952b6a16498c38e3726ce000e47"
+    },
+    {
+      "content": "Four thousand throats may be cut in one night by a running man.\n\t\t-- Klingon Soldier, \"Day of the Dove\", stardate unknown",
+      "sha1": "e567520285c0214f689c94c3e06a5e29459c82b7"
+    },
+    {
+      "content": "\t\"... freedom ... is a worship word...\"\n\t\"It is our worship word too.\"\n\t\t-- Cloud William and Kirk, \"The Omega Glory\", stardate unknown",
+      "sha1": "26aff8287dcaf0bbabdc15dd8a234a25e8b59fb7"
+    },
+    {
+      "content": "Genius doesn't work on an assembly line basis.  You can't simply say,\n\"Today I will be brilliant.\"\n\t\t-- Kirk, \"The Ultimate Computer\", stardate 4731.3",
+      "sha1": "e57ce695a2f8eeef8310cd74edef9b783873c202"
+    },
+    {
+      "content": "\t\"Get back to your stations!\"\n\t\"We're beaming down to the planet, sir.\"\n\t\t-- Kirk and Mr. Leslie, \"This Side of Paradise\",\n\t\t   stardate 3417.3",
+      "sha1": "de24840322c1e13d8eb562e432c0b8aa5b7cda84"
+    },
+    {
+      "content": "Hailing frequencies open, Captain.",
+      "sha1": "de060f914aecf7d7d738da8c76a42e745ec5f9a2"
+    },
+    {
+      "content": "He's dead, Jim.\n\t\t-- McCoy, \"The Devil in the Dark\", stardate 3196.1",
+      "sha1": "433abf055e948de933b1057c528d2d838516974d"
+    },
+    {
+      "content": "History tends to exaggerate.\n\t\t-- Col. Green, \"The Savage Curtain\", stardate 5906.4",
+      "sha1": "7c424aaf8b1d672dbb0d0684974b0e7be474ff19"
+    },
+    {
+      "content": "Humans do claim a great deal for that particular emotion (love).\n\t\t-- Spock, \"The Lights of Zetar\", stardate 5725.6",
+      "sha1": "dea85b02307f8ce6c2121766c5513ef9a40b57c6"
+    },
+    {
+      "content": "I am pleased to see that we have differences.  May we together become\ngreater than the sum of both of us.\n\t\t-- Surak of Vulcan, \"The Savage Curtain\", stardate 5906.4",
+      "sha1": "f5607593a4115e25612e61939998fc1ab7c47f68"
+    },
+    {
+      "content": "I have never understood the female capacity to avoid a direct answer to\nany question.\n\t\t-- Spock, \"This Side of Paradise\", stardate 3417.3",
+      "sha1": "d3b683b5027787a2761b67ef66da78a586f216f6"
+    },
+    {
+      "content": "I object to intellect without discipline;  I object to power without\nconstructive purpose.\n\t\t-- Spock, \"The Squire of Gothos\", stardate 2124.5",
+      "sha1": "b266e0c232b408ace9fe2fa5891310c1e5ce480c"
+    },
+    {
+      "content": "I realize that command does have its fascination, even under\ncircumstances such as these, but I neither enjoy the idea of command\nnor am I frightened of it.  It simply exists, and I will do whatever\nlogically needs to be done.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2812.7",
+      "sha1": "bfffe9a80ab4bb6c01866001984362410d17fad4"
+    },
+    {
+      "content": "\t\"I think they're going to take all this money that we spend now on war\nand death --\"\n\t\"And make them spend it on life.\"\n\t\t-- Edith Keeler and Kirk, \"The City on the Edge of Forever\",\n\t\t   stardate unknown.",
+      "sha1": "5e7b456d4d9c7bfa8212dc163923d313fe1ad616"
+    },
+    {
+      "content": "I thought my people would grow tired of killing.  But you were right,\nthey see it is easier than trading.  And it has its pleasures.  I feel\nit myself.  Like the hunt, but with richer rewards.\n\t\t-- Apella, \"A Private Little War\", stardate 4211.8",
+      "sha1": "c81a6689cd5ac65c9ddea8ce2d309cc1d6901e08"
+    },
+    {
+      "content": "\"I'm a doctor, not a mechanic.\"\n\t\t-- \"The Doomsday Machine\", when asked if he had heard of\n\t\t   the idea of a doomsday machine.\n\"I'm a doctor, not an escalator.\"\n\t\t-- \"Friday's Child\", when asked to help the very pregnant\n\t\t   Ellen up a steep incline.\n\"I'm a doctor, not a bricklayer.\"\n\t\t-- Devil in the Dark\", when asked to patch up the Horta.\n\"I'm a doctor, not an engineer.\"\n\t\t-- \"Mirror, Mirror\", when asked by Scotty for help in\n\t\t   Engineering aboard the ISS Enterprise.\n\"I'm a doctor, not a coalminer.\"\n\t\t-- \"The Empath\", on being beneath the surface of Minara 2.\n\"I'm a surgeon, not a psychiatrist.\"\n\t\t-- \"City on the Edge of Forever\", on Edith Keeler's remark\n\t\t   that Kirk talked strangely.\n\"I'm no magician, Spock, just an old country doctor.\"\n\t\t-- \"The Deadly Years\", to Spock while trying to cure the\n\t\t   aging effects of the rogue comet near Gamma Hydra 4.\n\"What am I, a doctor or a moonshuttle conductor?\"\n\t\t-- \"The Corbomite Maneuver\", when Kirk rushed off from a\n\t\t   physical exam to answer the alert.",
+      "sha1": "4b948eb5c244d1572561ce55b23958729db27ef1"
+    },
+    {
+      "content": "I'm a soldier, not a diplomat.  I can only tell the truth.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3198.9",
+      "sha1": "13fe81420af24c994c9e848fb87955c20c38d32e"
+    },
+    {
+      "content": "I'm frequently appalled by the low regard you Earthmen have for life.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
+      "sha1": "60a803208361507c5d1d3d5e65052df46444a58f"
+    },
+    {
+      "content": "I've already got a female to worry about.  Her name is the Enterprise.\n\t\t-- Kirk, \"The Corbomite Maneuver\", stardate 1514.0",
+      "sha1": "d00be33d26889bf6f4f43b9d89a2d36f4627865b"
+    },
+    {
+      "content": "If a man had a child who'd gone anti-social, killed perhaps, he'd still\ntend to protect that child.\n\t\t-- McCoy, \"The Ultimate Computer\", stardate 4731.3",
+      "sha1": "c415dcc2b10be97c24cded70fb6ec5e7152f23e9"
+    },
+    {
+      "content": "If I can have honesty, it's easier to overlook mistakes.\n\t\t-- Kirk, \"Space Seed\", stardate 3141.9",
+      "sha1": "4d02fffb18d758a132c293c90c4b9bcb3abb47ee"
+    },
+    {
+      "content": "If some day we are defeated, well, war has its fortunes, good and bad.\n\t\t-- Commander Kor, \"Errand of Mercy\", stardate 3201.7",
+      "sha1": "8898d91fba4a3aa76276bac0e9671d77448307df"
+    },
+    {
+      "content": "If there are self-made purgatories, then we all have to live in them.\n\t\t-- Spock, \"This Side of Paradise\", stardate 3417.7",
+      "sha1": "8fa0d7d0e98412cef9e95db63b1079de1a13c68a"
+    },
+    {
+      "content": "Immortality consists largely of boredom.\n\t\t-- Zefrem Cochrane, \"Metamorphosis\", stardate 3219.8",
+      "sha1": "d9421eca3ef966ea3c79e8b8daee149470fe0032"
+    },
+    {
+      "content": "In the strict scientific sense we all feed on death -- even vegetarians.\n\t\t-- Spock, \"Wolf in the Fold\", stardate 3615.4",
+      "sha1": "a01bfb3b4492dfe05958399981df5c77431f3b07"
+    },
+    {
+      "content": "Insufficient facts always invite danger.\n\t\t-- Spock, \"Space Seed\", stardate 3141.9",
+      "sha1": "95feb550dbad41365dbaa0d4aff0b0af8bbe31c4"
+    },
+    {
+      "content": "Insults are effective only where emotion is present.\n\t\t-- Spock, \"Who Mourns for Adonais?\"  stardate 3468.1",
+      "sha1": "77a8a8a9be3287751415cd996d12a5a252d361c0"
+    },
+    {
+      "content": "Intuition, however illogical, is recognized as a command prerogative.\n\t\t-- Kirk, \"Obsession\", stardate 3620.7",
+      "sha1": "d7d8d836dd51fa4d4d424db78fe10f9605bb7e33"
+    },
+    {
+      "content": "Is not that the nature of men and women -- that the pleasure is in the\nlearning of each other?\n\t\t-- Natira, the High Priestess of Yonada, \"For the World is\n\t\t   Hollow and I Have Touched the Sky\", stardate 5476.3.",
+      "sha1": "35f763342085684c2f88ad9cc1d8ce6e1386ef4e"
+    },
+    {
+      "content": "Is truth not truth for all?\n\t\t-- Natira, \"For the World is Hollow and I have Touched\n\t\t   the Sky\", stardate 5476.4.",
+      "sha1": "b82d116f13d367a086557b9f81ad2c72b70ff2b0"
+    },
+    {
+      "content": "It [being a Vulcan] means to adopt a philosophy, a way of life which is\nlogical and beneficial.  We cannot disregard that philosophy merely for\npersonal gain, no matter how important that gain might be.\n\t\t-- Spock, \"Journey to Babel\", stardate 3842.4",
+      "sha1": "487f0e090829e58da321fe18864b1673c55fd368"
+    },
+    {
+      "content": "It is a human characteristic to love little animals, especially if\nthey're attractive in some way.\n\t\t-- McCoy, \"The Trouble with Tribbles\", stardate 4525.6",
+      "sha1": "84b6fcb170a22ac3b1ce7c1eaaa3d5da0399012c"
+    },
+    {
+      "content": "It is more rational to sacrifice one life than six.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
+      "sha1": "8f7662707cf180b1708d620523182e6b9cdf8c68"
+    },
+    {
+      "content": "It is necessary to have purpose.\n\t\t-- Alice #1, \"I, Mudd\", stardate 4513.3",
+      "sha1": "bb587bd5e248c89db333eb78f30e240ebfa65906"
+    },
+    {
+      "content": "It is undignified for a woman to play servant to a man who is not hers.\n\t\t-- Spock, \"Amok Time\", stardate 3372.7",
+      "sha1": "b26a8ba5c9c6d641c0cd9b775dc5e7376197600a"
+    },
+    {
+      "content": "It would be illogical to assume that all conditions remain stable.\n\t\t-- Spock, \"The Enterprise\" Incident\", stardate 5027.3",
+      "sha1": "d91dba7814ea95e90959a097536c0284b1bec0ba"
+    },
+    {
+      "content": "It would be illogical to kill without reason.\n\t\t-- Spock, \"Journey to Babel\", stardate 3842.4",
+      "sha1": "5adfe1d9a9661028bf593353576d426ab6b36259"
+    },
+    {
+      "content": "It would seem that evil retreats when forcibly confronted.\n\t\t-- Yarnek of Excalbia, \"The Savage Curtain\", stardate 5906.5",
+      "sha1": "ee856f70f7a30c964884f9f0e9c291e7cd1a8809"
+    },
+    {
+      "content": "\t\"It's hard to believe that something which is neither seen nor felt can\ndo so much harm.\"\n\t\"That's true.  But an idea can't be seen or felt.  And that's what kept\nthe Troglytes in the mines all these centuries.  A mistaken idea.\"\n\t\t-- Vanna and Kirk, \"The Cloud Minders\", stardate 5819.0",
+      "sha1": "6e15a4205cc6fdbeb28e7865da03a96d9abb0046"
+    },
+    {
+      "content": "Killing is stupid; useless!\n\t\t-- McCoy, \"A Private Little War\", stardate 4211.8",
+      "sha1": "32601ccfd10a488dbf543a7bca4a5cd1c235b764"
+    },
+    {
+      "content": "Killing is wrong.\n\t\t-- Losira, \"That Which Survives\", stardate unknown",
+      "sha1": "e63b2722d5702be697531d935070b2656d6595f4"
+    },
+    {
+      "content": "Kirk to Enterprise -- beam down yeoman Rand and a six-pack.",
+      "sha1": "5b5065b8d94cb6965f875d7e0e271a9a1cd341fe"
+    },
+    {
+      "content": "Klingon phaser attack from front!!!!!\n100% Damage to life support!!!!",
+      "sha1": "4539178b67ceb5c7a2d277af202ff0c8aac0ced3"
+    },
+    {
+      "content": "Knowledge, sir, should be free to all!\n\t\t-- Harry Mudd, \"I, Mudd\", stardate 4513.3",
+      "sha1": "5c41e7e1c7f0bac971a8559c8db971da05fe47d0"
+    },
+    {
+      "content": "Landru! Guide us!\n\t\t-- A Beta 3-oid, \"The Return of the Archons\", stardate 3157.4",
+      "sha1": "01dd79b2683bedc74f9ef80a9f176a3d004d2413"
+    },
+    {
+      "content": "Leave bigotry in your quarters; there's no room for it on the bridge.\n\t\t-- Kirk, \"Balance of Terror\", stardate 1709.2",
+      "sha1": "f16d74792da12be26753c8cf524c20aa8c774baa"
+    },
+    {
+      "content": "\t\"Life and death are seldom logical.\"\n\t\"But attaining a desired goal always is.\"\n\t\t-- McCoy and Spock, \"The Galileo Seven\", stardate 2821.7",
+      "sha1": "7356652f16ff8bee83512487ec54c5e868c4b805"
+    },
+    {
+      "content": "Live long and prosper.\n\t\t-- Spock, \"Amok Time\", stardate 3372.7",
+      "sha1": "b8e61a3b5ecacb7006feef5521815af5e9f8feb6"
+    },
+    {
+      "content": "\t\"Logic and practical information do not seem to apply here.\"\n\t\"You admit that?\"\n\t\"To deny the facts would be illogical, Doctor\"\n\t\t-- Spock and McCoy, \"A Piece of the Action\", stardate unknown",
+      "sha1": "3adfb69557ebc0b0025883ffa2280eeba63f9c6c"
+    },
+    {
+      "content": "Lots of people drink from the wrong bottle sometimes.\n\t\t-- Edith Keeler, \"The City on the Edge of Forever\",\n\t\t   stardate unknown",
+      "sha1": "3b2762a4a07da64a0e95ded9be62fc4ca83d4f4a"
+    },
+    {
+      "content": "Love sometimes expresses itself in sacrifice.\n\t\t-- Kirk, \"Metamorphosis\", stardate 3220.3",
+      "sha1": "eb7fa25e247328353a09add4e12f2f5e39be9727"
+    },
+    {
+      "content": "Madness has no purpose.  Or reason.  But it may have a goal.\n\t\t-- Spock, \"The Alternative Factor\", stardate 3088.7",
+      "sha1": "2208641d546a23f68a61368dcc5b4e2fe5e40566"
+    },
+    {
+      "content": "Many Myths are based on truth\n\t\t-- Spock, \"The Way to Eden\",  stardate 5832.3",
+      "sha1": "35ed00411d43048ddd9376aa87d238c580c8c3f4"
+    },
+    {
+      "content": "Men of peace usually are [brave].\n\t\t-- Spock, \"The Savage Curtain\", stardate 5906.5",
+      "sha1": "b279de76a13c188dc85626d3fd2409d08a09a1fe"
+    },
+    {
+      "content": "Men will always be men -- no matter where they are.\n\t\t-- Harry Mudd, \"Mudd's Women\", stardate 1329.8",
+      "sha1": "6b7dcd721dda4038a4ee55369724ddad0fc079cc"
+    },
+    {
+      "content": "Military secrets are the most fleeting of all.\n\t\t-- Spock, \"The Enterprise Incident\", stardate 5027.4",
+      "sha1": "d84437ca69c67ca100b63463a59b140cb34d2944"
+    },
+    {
+      "content": "Mind your own business, Spock.  I'm sick of your halfbreed interference.",
+      "sha1": "fa5cd8e8fa3257a7482191200c9a4fb1da5d6055"
+    },
+    {
+      "content": "Most legends have their basis in facts.\n\t\t-- Kirk, \"And The Children Shall Lead\", stardate 5029.5",
+      "sha1": "dba3acd5a5ddf798bbba31b7fcc8e6898ffbdd61"
+    },
+    {
+      "content": "Murder is contrary to the laws of man and God.\n\t\t-- M-5 Computer, \"The Ultimate Computer\", stardate 4731.3",
+      "sha1": "2f03461a2909c6f3652223e56a4a133a93b65cf0"
+    },
+    {
+      "content": "No more blah, blah, blah!\n\t\t-- Kirk, \"Miri\", stardate 2713.6",
+      "sha1": "ac805a40531f1f56f201426b26639cddb00507c8"
+    },
+    {
+      "content": "No one can guarantee the actions of another.\n\t\t-- Spock, \"Day of the Dove\", stardate unknown",
+      "sha1": "fd1f1d49ed10f806c6edcc734345cb0b10f7fdc7"
+    },
+    {
+      "content": "No one may kill a man.  Not for any purpose.  It cannot be condoned.\n\t\t-- Kirk, \"Spock's Brain\", stardate 5431.6",
+      "sha1": "5b308aaae85496eed5483697dc1d785862f06461"
+    },
+    {
+      "content": "\t\"No one talks peace unless he's ready to back it up with war.\"\n\t\"He talks of peace if it is the only way to live.\"\n\t\t-- Colonel Green and Surak of Vulcan, \"The Savage Curtain\",\n\t\t   stardate 5906.5.",
+      "sha1": "360255fde023a421e52bfd49f8c212ca932efa03"
+    },
+    {
+      "content": "No one wants war.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3201.7",
+      "sha1": "e0c17bdb61cd67b961b6a87d87b5dcf322cc6d68"
+    },
+    {
+      "content": "No problem is insoluble.\n\t\t-- Dr. Janet Wallace, \"The Deadly Years\", stardate 3479.4",
+      "sha1": "4c59c863659f236359a0858dcdf99e31c8fd22c3"
+    },
+    {
+      "content": "Not one hundred percent efficient, of course ... but nothing ever is.\n\t\t-- Kirk, \"Metamorphosis\", stardate 3219.8",
+      "sha1": "ce7244b0f00aaf322092de7759cf7b0d14cadda6"
+    },
+    {
+      "content": "Oblivion together does not frighten me, beloved.\n\t\t-- Thalassa (in Anne Mulhall's body), \"Return to Tomorrow\",\n\t\t   stardate 4770.3.",
+      "sha1": "affc7eff56659be06c1324f95a7d0894d71696e9"
+    },
+    {
+      "content": "Oh, that sound of male ego.  You travel halfway across the galaxy and\nit's still the same song.\n\t\t-- Eve McHuron, \"Mudd's Women\", stardate 1330.1",
+      "sha1": "dea35aee99a2d47ca89072a1632a8a15aee2795d"
+    },
+    {
+      "content": "On my planet, to rest is to rest -- to cease using energy.  To me, it\nis quite illogical to run up and down on green grass, using energy,\ninstead of saving it.\n\t\t-- Spock, \"Shore Leave\", stardate 3025.2",
+      "sha1": "88f3bb4a5a670392a58bbe2d8147d904d8880a81"
+    },
+    {
+      "content": "One does not thank logic.\n\t\t-- Sarek, \"Journey to Babel\", stardate 3842.4",
+      "sha1": "63522bf4d377b2bccafbb691609c41723a20fd66"
+    },
+    {
+      "content": "One of the advantages of being a captain is being able to ask for\nadvice without necessarily having to take it.\n\t\t-- Kirk, \"Dagger of the Mind\", stardate 2715.2",
+      "sha1": "e6af65fc283ed2494433a49fc6171c2d36fe7c30"
+    },
+    {
+      "content": "Only a fool fights in a burning house.\n\t\t-- Kank the Klingon, \"Day of the Dove\", stardate unknown",
+      "sha1": "14be273bbd60ea46a6843f4466697a49c86856a4"
+    },
+    {
+      "content": "Our missions are peaceful -- not for conquest.  When we do battle, it\nis only because we have no choice.\n\t\t-- Kirk, \"The Squire of Gothos\", stardate 2124.5",
+      "sha1": "d65129ca07eb4f3dbb462ca97db56528cd779ba2"
+    },
+    {
+      "content": "Our way is peace.\n\t\t-- Septimus, the Son Worshiper, \"Bread and Circuses\",\n\t\t   stardate 4040.7.",
+      "sha1": "9919946db54055cec9ce399d296dec85044255b1"
+    },
+    {
+      "content": "Pain is a thing of the mind.  The mind can be controlled.\n\t\t-- Spock, \"Operation -- Annihilate!\" stardate 3287.2",
+      "sha1": "31b800ec4ac56c4fa37ea88d0298d7e046d3b6d8"
+    },
+    {
+      "content": "Peace was the way.\n\t\t-- Kirk, \"The City on the Edge of Forever\", stardate unknown",
+      "sha1": "20031b14186b031e093020958ab003bb8d4d1e53"
+    },
+    {
+      "content": "Phasers locked on target, Captain.",
+      "sha1": "fd5d6faa26c2a7440df01307def0922a6806ba3c"
+    },
+    {
+      "content": "Power is danger.\n\t\t-- The Centurion, \"Balance of Terror\", stardate 1709.2",
+      "sha1": "666eda53ee9926c478dfc192b42ed03ecb478fd2"
+    },
+    {
+      "content": "Prepare for tomorrow -- get ready.\n\t\t-- Edith Keeler, \"The City On the Edge of Forever\",\n\t\t   stardate unknown",
+      "sha1": "7a6494484151cb6963ea080ebda2824c7b3448f4"
+    },
+    {
+      "content": "Punishment becomes ineffective after a certain point.  Men become insensitive.\n\t\t-- Eneg, \"Patterns of Force\", stardate 2534.7",
+      "sha1": "f649a1cde5457b145bf64e303db949d0bcb41b4b"
+    },
+    {
+      "content": "Respect is a rational process\n\t\t-- McCoy, \"The Galileo Seven\", stardate 2822.3",
+      "sha1": "3f5290211ec3c808d231a123be5c8d69c1e2ba86"
+    },
+    {
+      "content": "Romulan women are not like Vulcan females.  We are not dedicated to\npure logic and the sterility of non-emotion.\n\t\t-- Romulan Commander, \"The Enterprise Incident\",\n\t\t   stardate 5027.3",
+      "sha1": "c67d27980c7cc533a1b701d36e37f48ec31ad107"
+    },
+    {
+      "content": "Schshschshchsch.\n\t\t-- The Gorn, \"Arena\", stardate 3046.2",
+      "sha1": "73db3577f48dd8a8bc7263432438852b1adbe5ef"
+    },
+    {
+      "content": "She won' go Warp 7, Cap'n!  The batteries are dead!",
+      "sha1": "f5208a4d7a901e420aeed8f55c980d01650b80ba"
+    },
+    {
+      "content": "Sometimes a feeling is all we humans have to go on.\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.9",
+      "sha1": "25650b7043b12c0c6dc30c341088d47356b6a4ff"
+    },
+    {
+      "content": "Sometimes a man will tell his bartender things he'll never tell his doctor.\n\t\t-- Dr. Phillip Boyce, \"The Menagerie\" (\"The Cage\"),\n\t\t   stardate unknown.",
+      "sha1": "c1d5f7fe58680978c9ec25050ed7ea550814edb2"
+    },
+    {
+      "content": "Space: the final frontier.  These are the voyages of the starship Enterprise.\nIts five-year mission: to explore strange new worlds; to seek out new life\nand new civilizations; to boldly go where no man has gone before.\n\t\t-- Captain James T. Kirk",
+      "sha1": "de602e3d40d6c092d85bdff559537aef52a56d44"
+    },
+    {
+      "content": "Spock: The odds of surviving another attack are 13562190123 to 1, Captain.",
+      "sha1": "9bcbe9e4656cd60c3748ede964fdf5363c938b94"
+    },
+    {
+      "content": "Spock: We suffered 23 casualties in that attack, Captain.",
+      "sha1": "e62b803c398b9653c18f6ab9a53e3613f777cb73"
+    },
+    {
+      "content": "Star Trek Lives!",
+      "sha1": "78fe838d233f99defd3a149c5429628a5a19d02a"
+    },
+    {
+      "content": "Suffocating together ... would create heroic camaraderie.\n\t\t-- Khan Noonian Singh, \"Space Seed\", stardate 3142.8",
+      "sha1": "244243438706e186e88ef8d89033f7b7d3fe7850"
+    },
+    {
+      "content": "Superior ability breeds superior ambition.\n\t\t-- Spock, \"Space Seed\", stardate 3141.9",
+      "sha1": "82b5cc0bd3b746353140e21e5dc21aab41b2ac3e"
+    },
+    {
+      "content": "\t\"That unit is a woman.\"\n\t\"A mass of conflicting impulses.\"\n\t\t-- Spock and Nomad, \"The Changeling\", stardate 3541.9",
+      "sha1": "302e527894e552541124431df0cc0ecc6c08d40d"
+    },
+    {
+      "content": "The best diplomat I know is a fully activated phaser bank.\n\t\t-- Scotty",
+      "sha1": "12070708a044ad17076a5c1928842e67b45d2c63"
+    },
+    {
+      "content": "\t\"The combination of a number of things to make existence worthwhile.\"\n\t\"Yes, the philosophy of 'none,' meaning 'all.'\"\n\t\t-- Spock and Lincoln, \"The Savage Curtain\", stardate 5906.4",
+      "sha1": "42a4c644fdde10f8afe5d48da1e847c20cacd4ed"
+    },
+    {
+      "content": "The face of war has never changed.  Surely it is more logical to heal\nthan to kill.\n\t\t-- Surak of Vulcan, \"The Savage Curtain\", stardate 5906.5",
+      "sha1": "41c94e5c0aa5cfed64b6373db36bfd79eaff972e"
+    },
+    {
+      "content": "The games have always strengthened us.  Death becomes a familiar\npattern.  We don't fear it as you do.\n\t\t-- Proconsul Marcus Claudius, \"Bread and Circuses\",\n\t\t   stardate 4041.2",
+      "sha1": "0afdc1c9171cd21446710221f3a0f02becb82482"
+    },
+    {
+      "content": "\t\"The glory of creation is in its infinite diversity.\"\n\t\"And in the way our differences combine to create meaning and beauty.\"\n\t\t-- Dr. Miranda Jones and Spock, \"Is There in Truth No Beauty?\",\n\t\t   stardate 5630.8",
+      "sha1": "9e4a8579560acfa4543dac31e5c45bf58b6b833e"
+    },
+    {
+      "content": "The heart is not a logical organ.\n\t\t-- Dr. Janet Wallace, \"The Deadly Years\", stardate 3479.4",
+      "sha1": "8230bc4e3df2f04b3a754c0821184e90eb910f40"
+    },
+    {
+      "content": "The idea of male and female are universal constants.\n\t\t-- Kirk, \"Metamorphosis\", stardate 3219.8",
+      "sha1": "2ec8e4f7d68e0ec037eeb389a2d51326d66879a0"
+    },
+    {
+      "content": "The joys of love made her human and the agonies of love destroyed her.\n\t\t-- Spock, \"Requiem for Methuselah\", stardate 5842.8",
+      "sha1": "4a7c591d3313a208ca985dc1662d3eb7b03f5e94"
+    },
+    {
+      "content": "The man on tops walks a lonely street; the \"chain\" of command is often a noose.",
+      "sha1": "69100a02799e3ad1a34423f0d2e1fd9878279d49"
+    },
+    {
+      "content": "The more complex the mind, the greater the need for the simplicity of play.\n\t\t-- Kirk, \"Shore Leave\", stardate 3025.8",
+      "sha1": "c47d3e82342fed0db3774ceec6e2875756d799cf"
+    },
+    {
+      "content": "The only solution is ... a balance of power.  We arm our side with exactly\nthat much more.  A balance of power -- the trickiest, most difficult,\ndirtiest game of them all.  But the only one that preserves both sides.\n\t\t-- Kirk, \"A Private Little War\", stardate 4211.8",
+      "sha1": "c9b232d36d35175efb9443b6a3d7bcaa41ba1b57"
+    },
+    {
+      "content": "The people of Gideon have always believed that life is sacred.  That\nthe love of life is the greatest gift ... We are incapable of\ndestroying or interfering with the creation of that which we love so\ndeeply -- life in every form from fetus to developed being.\n\t\t-- Hodin of Gideon, \"The Mark of Gideon\", stardate 5423.4",
+      "sha1": "2b20ee8314af786f37f51a8e7d7299703f80e9c4"
+    },
+    {
+      "content": "... The prejudices people feel about each other disappear when then get\nto know each other.\n\t\t-- Kirk, \"Elaan of Troyius\", stardate 4372.5",
+      "sha1": "5f8f4a2697b9269c78bbb4eb68e94af81ec0c26c"
+    },
+    {
+      "content": "\t\"The release of emotion is what keeps us health.  Emotionally healthy.\"\n\t\"That may be, Doctor.  However, I have noted that the healthy release\nof emotion is frequently unhealthy for those closest to you.\"\n\t\t-- McCoy and Spock, \"Plato's Stepchildren\", stardate 5784.3",
+      "sha1": "79e8101bbd98f3faa45cde4929c744c5ae8efc6f"
+    },
+    {
+      "content": "The sight of death frightens them [Earthers].\n\t\t-- Kras the Klingon, \"Friday's Child\", stardate 3497.2",
+      "sha1": "b473fed7cd3c62a5d9f77b99a2cf479ff813b97c"
+    },
+    {
+      "content": "The sooner our happiness together begins, the longer it will last.\n\t\t-- Miramanee, \"The Paradise Syndrome\", stardate 4842.6",
+      "sha1": "c22965fd7f0edb96222a888e8bd67b8d52a6c0d6"
+    },
+    {
+      "content": "... The things love can drive a man to -- the ecstasies, the\nthe miseries, the broken rules, the desperate chances, the glorious\nfailures and the glorious victories.\n\t\t-- McCoy, \"Requiem for Methuselah\", stardate 5843.7",
+      "sha1": "5958a81c071c1f6d812ac7bc65cad9599ace19a8"
+    },
+    {
+      "content": "There are always alternatives.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
+      "sha1": "c155b62294d773a7e24764e0b6e8fa1d4d50c4e8"
+    },
+    {
+      "content": "There are certain things men must do to remain men.\n\t\t-- Kirk, \"The Ultimate Computer\", stardate 4929.4",
+      "sha1": "fad8278e923557413c8ca88063f4ec23498fddf1"
+    },
+    {
+      "content": "There are some things worth dying for.\n\t\t-- Kirk, \"Errand of Mercy\", stardate 3201.7",
+      "sha1": "23ba2c6cf43effb82372e0113520087fa28ad125"
+    },
+    {
+      "content": "There comes to all races an ultimate crisis which you have yet to face\n.... One day our minds became so powerful we dared think of ourselves as gods.\n\t\t-- Sargon, \"Return to Tomorrow\", stardate 4768.3",
+      "sha1": "b8b2e1dee38b2de597116d0c1657efc29baa56f8"
+    },
+    {
+      "content": "There is a multi-legged creature crawling on your shoulder.\n\t\t-- Spock, \"A Taste of Armageddon\", stardate 3193.9",
+      "sha1": "819ca117113be501a151abcfdbb22452d5d36fbf"
+    },
+    {
+      "content": "There is an old custom among my people.  When a woman saves a man's\nlife, he is grateful.\n\t\t-- Nona, the Kanuto witch woman, \"A Private Little War\",\n\t\t   stardate 4211.8.",
+      "sha1": "ac8018dce2fc4b93fb2d8a4e75c531fc4a80eafe"
+    },
+    {
+      "content": "There is an order of things in this universe.\n\t\t-- Apollo, \"Who Mourns for Adonais?\" stardate 3468.1",
+      "sha1": "395be30b043f8c86a166739403cc054acce50448"
+    },
+    {
+      "content": "There's a way out of any cage.\n\t\t-- Captain Christopher Pike, \"The Menagerie\" (\"The Cage\"),\n\t\t   stardate unknown.",
+      "sha1": "f61f5251f28e3ae18581f633b72159f2bbde3953"
+    },
+    {
+      "content": "There's another way to survive.  Mutual trust -- and help.\n\t\t-- Kirk, \"Day of the Dove\", stardate unknown",
+      "sha1": "e704f28758b8fc95f8712db1635bf45eaab596cc"
+    },
+    {
+      "content": "There's no honorable way to kill, no gentle way to destroy.  There is\nnothing good in war.  Except its ending.\n\t\t-- Abraham Lincoln, \"The Savage Curtain\", stardate 5906.5",
+      "sha1": "a7dc59acfa73543a68bee200810fc3d09f96c2af"
+    },
+    {
+      "content": "There's nothing disgusting about it [the Companion].  It's just another\nlife form, that's all.  You get used to those things.\n\t\t-- McCoy, \"Metamorphosis\", stardate 3219.8",
+      "sha1": "56341ab3ae35ff7dbb1257b7c4d50702522313f4"
+    },
+    {
+      "content": "\t\"There's only one kind of woman ...\"\n\t\"Or man, for that matter.  You either believe in yourself or you don't.\"\n\t\t-- Kirk and Harry Mudd, \"Mudd's Women\", stardate 1330.1",
+      "sha1": "fca6586a313da2baf5a93a00cbe5aacbe32e9d86"
+    },
+    {
+      "content": "This cultural mystique surrounding the biological function -- you\nrealize humans are overly preoccupied with the subject.\n\t\t-- Kelinda the Kelvan, \"By Any Other Name\", stardate 4658.9",
+      "sha1": "6dad81968fbd004fa8baab7dc7f646618eb05cb6"
+    },
+    {
+      "content": "Those who hate and fight must stop themselves -- otherwise it is not stopped.\n\t\t-- Spock, \"Day of the Dove\", stardate unknown",
+      "sha1": "a8dfc1e48fdde958bc61613dbac106ed66eb8f80"
+    },
+    {
+      "content": "Time is fluid ... like a river with currents, eddies, backwash.\n\t\t-- Spock, \"The City on the Edge of Forever\", stardate 3134.0",
+      "sha1": "99d0c7225d9e68407ef05a62320a7ecf0162a678"
+    },
+    {
+      "content": "To live is always desirable.\n\t\t-- Eleen the Capellan, \"Friday's Child\", stardate 3498.9",
+      "sha1": "40c5a2fac65d30e1a27db40d13e64210ae15a576"
+    },
+    {
+      "content": "Too much of anything, even love, isn't necessarily a good thing.\n\t\t-- Kirk, \"The Trouble with Tribbles\", stardate 4525.6",
+      "sha1": "d59b6a6a32d5f7e9d278657968a1657872f2a0ca"
+    },
+    {
+      "content": "Totally illogical, there was no chance.\n\t\t-- Spock, \"The Galileo Seven\", stardate 2822.3",
+      "sha1": "2f50596e4ef59325686410b51e9ef5b2824dbdb2"
+    },
+    {
+      "content": "Uncontrolled power will turn even saints into savages.  And we can all\nbe counted on to live down to our lowest impulses.\n\t\t-- Parmen, \"Plato's Stepchildren\", stardate 5784.3",
+      "sha1": "df427e98fa21049d3395130f8270c2a80b467bfd"
+    },
+    {
+      "content": "Violence in reality is quite different from theory.\n\t\t-- Spock, \"The Cloud Minders\", stardate 5818.4",
+      "sha1": "4774f99a1ea928e7c9dd04f03f3ce2e67ddb5dce"
+    },
+    {
+      "content": "Virtue is a relative term.\n\t\t-- Spock, \"Friday's Child\", stardate 3499.1",
+      "sha1": "496511556ca9acd010221e8d90b4a773a46858a4"
+    },
+    {
+      "content": "Vulcans believe peace should not depend on force.\n\t\t-- Amanda, \"Journey to Babel\", stardate 3842.3",
+      "sha1": "fb6d33b63a369dfc12bfd7e87dbd71186c009595"
+    },
+    {
+      "content": "Vulcans do not approve of violence.\n\t\t-- Spock, \"Journey to Babel\", stardate 3842.4",
+      "sha1": "a923bb14d1fe138c0174a6ff0f7fbe092d03b4a5"
+    },
+    {
+      "content": "Vulcans never bluff.\n\t\t-- Spock, \"The Doomsday Machine\", stardate 4202.1",
+      "sha1": "a1c38dad201f9ecea5c742cfc005c73575079fd3"
+    },
+    {
+      "content": "Vulcans worship peace above all.\n\t\t-- McCoy, \"Return to Tomorrow\", stardate 4768.3",
+      "sha1": "030ec925f407ff05eba599a8a30d64077f11c2b5"
+    },
+    {
+      "content": "Wait!  You have not been prepared!\n\t\t-- Mr. Atoz, \"Tomorrow is Yesterday\", stardate 3113.2",
+      "sha1": "9aa0bef976b43d153adceb89a3c022dabb84cc8d"
+    },
+    {
+      "content": "War is never imperative.\n\t\t-- McCoy, \"Balance of Terror\", stardate 1709.2",
+      "sha1": "3afbfc7f61896a55155c68f85286f707926e7575"
+    },
+    {
+      "content": "War isn't a good life, but it's life.\n\t\t-- Kirk, \"A Private Little War\", stardate 4211.8",
+      "sha1": "cc4de9361b499c478b0d06b73ac156874d5dbad8"
+    },
+    {
+      "content": "[War] is instinctive.  But the instinct can be fought.  We're human\nbeings with the blood of a million savage years on our hands!  But we\ncan stop it.  We can admit that we're killers ... but we're not going\nto kill today.  That's all it takes!  Knowing that we're not going to\nkill today!\n\t\t-- Kirk, \"A Taste of Armageddon\", stardate 3193.0",
+      "sha1": "07a8c55a1e82dc73c1d004dfd2b4641e69100e2e"
+    },
+    {
+      "content": "Warp 7 -- It's a law we can live with.",
+      "sha1": "6c8369f5c91d0a940b4b2b6eb0b07d021c7d7164"
+    },
+    {
+      "content": "We do not colonize.  We conquer.  We rule.  There is no other way for us.\n\t\t-- Rojan, \"By Any Other Name\", stardate 4657.5",
+      "sha1": "823a72458e317db676a2afa228c37d021debd531"
+    },
+    {
+      "content": "We fight only when there is no other choice.  We prefer the ways of\npeaceful contact.\n\t\t-- Kirk, \"Spectre of the Gun\", stardate 4385.3",
+      "sha1": "e4370b357a849894a1a9212bbf29546af67fe397"
+    },
+    {
+      "content": "We have found all life forms in the galaxy are capable of superior\ndevelopment.\n\t\t-- Kirk, \"The Gamesters of Triskelion\", stardate 3211.7",
+      "sha1": "22bf121ebaba3d8a0e858a85cbcb5e1d3410bc8b"
+    },
+    {
+      "content": "We have phasers, I vote we blast 'em!\n\t\t-- Bailey, \"The Corbomite Maneuver\", stardate 1514.2",
+      "sha1": "55d5fe7b906405ecfda355f0067e195bdeddaeb5"
+    },
+    {
+      "content": "\t\"We have the right to survive!\"\n\t\"Not by killing others.\"\n\t\t-- Deela and Kirk, \"Wink of An Eye\", stardate 5710.5",
+      "sha1": "5ae766d7d94779f417b2ff44bccd4002971930ee"
+    },
+    {
+      "content": "We Klingons believe as you do -- the sick should die.  Only the strong\nshould live.\n\t\t-- Kras, \"Friday's Child\", stardate 3497.2",
+      "sha1": "088d75a417a7e5f155c14e76b1d70a84ad28aed6"
+    },
+    {
+      "content": "We'll pivot at warp 2 and bring all tubes to bear, Mr. Sulu!",
+      "sha1": "3bd3bcac9e2af8f6dc6b66cfb42271a2d2cfd3ef"
+    },
+    {
+      "content": "We're all sorry for the other guy when he loses his job to a machine.\nBut when it comes to your job -- that's different.  And it always will\nbe different.\n\t\t-- McCoy, \"The Ultimate Computer\", stardate 4729.4",
+      "sha1": "050cac5a6c686a6c180abc41fc08d11221dd602a"
+    },
+    {
+      "content": "Well, Jim, I'm not much of an actor either.",
+      "sha1": "7f75bb2812ef9ebaba46552d2a1fcf631f2c47c0"
+    },
+    {
+      "content": "\t\"What happened to the crewman?\"\n\t\"The M-5 computer needed a new power source, the crewman merely got in\nthe way.\"\n\t\t-- Kirk and Dr. Richard Daystrom, \"The Ultimate Computer\",\n\t\t   stardate 4731.3.",
+      "sha1": "473d8d1b5b019197bb483fee04cd2a4181a4b942"
+    },
+    {
+      "content": "What kind of love is that?  Not to be loved; never to have shown love.\n\t\t-- Commissioner Nancy Hedford, \"Metamorphosis\",\n\t\t   stardate 3219.8",
+      "sha1": "12a32b4cae614691478b9f2999779a943723be17"
+    },
+    {
+      "content": "\t\"What terrible way to die.\"\n\t\"There are no good ways.\"\n\t\t-- Sulu and Kirk, \"That Which Survives\", stardate unknown",
+      "sha1": "20c66ef0a5242da7d3e2f08f5681384ded89f55d"
+    },
+    {
+      "content": "When a child is taught ... its programmed with simple instructions --\nand at some point, if its mind develops properly, it exceeds the sum of\nwhat it was taught, thinks independently.\n\t\t-- Dr. Richard Daystrom, \"The Ultimate Computer\",\n\t\t   stardate 4731.3.",
+      "sha1": "0f47c7de55e801d9c4285cb929149117b6d4115e"
+    },
+    {
+      "content": "When dreams become more important than reality, you give up travel,\nbuilding, creating; you even forget how to repair the machines left\nbehind by your ancestors.  You just sit living and reliving other lives\nleft behind in the thought records.\n\t\t-- Vina, \"The Menagerie\" (\"The Cage\"), stardate unknown",
+      "sha1": "eb8e2c71f4427f40c7414422c9998a77f1a953da"
+    },
+    {
+      "content": "Where there's no emotion, there's no motive for violence.\n\t\t-- Spock, \"Dagger of the Mind\", stardate 2715.1",
+      "sha1": "5ae13f9d4a630d565bfd632615a242d327ee3c60"
+    },
+    {
+      "content": "Witch!  Witch!  They'll burn ya!\n\t\t-- Hag, \"Tomorrow is Yesterday\", stardate unknown",
+      "sha1": "32812af78848e10fc9384bb0d7711507cd7cc419"
+    },
+    {
+      "content": "Without facts, the decision cannot be made logically.  You must rely on\nyour human intuition.\n\t\t-- Spock, \"Assignment: Earth\", stardate unknown",
+      "sha1": "9d5a01fe8b0c829f735ebb2ce859362d93ce70b6"
+    },
+    {
+      "content": "Without followers, evil cannot spread.\n\t\t-- Spock, \"And The Children Shall Lead\", stardate 5029.5",
+      "sha1": "5b56aa9e0c05938bf35b93017bc9de00e2ad1fc1"
+    },
+    {
+      "content": "Without freedom of choice there is no creativity.\n\t\t-- Kirk, \"The return of the Archons\", stardate 3157.4",
+      "sha1": "e242d8ba0e8bcde03533c1cc4aeab90d1b86d8a7"
+    },
+    {
+      "content": "Women are more easily and more deeply terrified ... generating more\nsheer horror than the male of the species.\n\t\t-- Spock, \"Wolf in the Fold\", stardate 3615.4",
+      "sha1": "abb07e6eb581f19588147df02d4605b82464eb98"
+    },
+    {
+      "content": "Women professionals do tend to over-compensate.\n\t\t-- Dr. Elizabeth Dehaver, \"Where No Man Has Gone Before\",\n\t\t   stardate 1312.9.",
+      "sha1": "bfeb158b2573a9155a5b79fbfa5dcd11c6c3277e"
+    },
+    {
+      "content": "Worlds are conquered, galaxies destroyed -- but a woman is always a woman.\n\t\t-- Kirk, \"The Conscience of the King\", stardate 2818.9",
+      "sha1": "b872c9242e87293e2d02f27076a40f09617a9d16"
+    },
+    {
+      "content": "Yes, it is written.  Good shall always destroy evil.\n\t\t-- Sirah the Yang, \"The Omega Glory\", stardate unknown",
+      "sha1": "28cf402b2e801fc0d65c64fe9fe4078b73a2fe97"
+    },
+    {
+      "content": "You are an excellent tactician, Captain.  You let your second in\ncommand attack while you sit and watch for weakness.\n\t\t-- Khan Noonian Singh, \"Space Seed\", stardate 3141.9",
+      "sha1": "197a92bb9ca81a1c432122f25d272739f6bc8b74"
+    },
+    {
+      "content": "You can't evaluate a man by logic alone.\n\t\t-- McCoy, \"I, Mudd\", stardate 4513.3",
+      "sha1": "537b6f0681c6e274c4cc5be4dc05df3b83e80f91"
+    },
+    {
+      "content": "You canna change the laws of physics, Captain; I've got to have thirty minutes!",
+      "sha1": "53cca00d0059e654d8168585326d9bd1d8ec259b"
+    },
+    {
+      "content": "You Earth people glorified organized violence for forty centuries.  But\nyou imprison those who employ it privately.\n\t\t-- Spock, \"Dagger of the Mind\", stardate 2715.1",
+      "sha1": "19f38f1871dfe20832fecf2d36d52b1bf31f1361"
+    },
+    {
+      "content": "You go slow, be gentle.  It's no one-way street -- you know how you\nfeel and that's all.  It's how the girl feels too.  Don't press.  If\nthe girl feels anything for you at all, you'll know.\n\t\t-- Kirk, \"Charlie X\", stardate 1535.8",
+      "sha1": "2b4a47d92dc93708ac4b134621483a3328467c03"
+    },
+    {
+      "content": "You humans have that emotional need to express gratitude.  \"You're\nwelcome,\" I believe, is the correct response.\n\t\t-- Spock, \"Bread and Circuses\", stardate 4041.2",
+      "sha1": "7248213190d427a83538c5d72f31f1ea2c190a4f"
+    },
+    {
+      "content": "You say you are lying.  But if everything you say is a lie, then you are\ntelling the truth.  You cannot tell the truth because everything you say\nis a lie.  You lie, you tell the truth ... but you cannot, for you lie.\n\t\t-- Norman the android, \"I, Mudd\", stardate 4513.3",
+      "sha1": "f701f3d3a326a10d756609817323010955c8c186"
+    },
+    {
+      "content": "You speak of courage.  Obviously you do not know the difference between\ncourage and foolhardiness.  Always it is the brave ones who die, the soldiers.\n\t\t-- Kor, the Klingon Commander, \"Errand of Mercy\",\n\t\t   stardate 3201.7",
+      "sha1": "6f5c9898865d871962d5be076a4ff771ba1193f2"
+    },
+    {
+      "content": "You!  What PLANET is this!\n\t\t-- McCoy, \"The City on the Edge of Forever\", stardate 3134.0",
+      "sha1": "8c2beef033446dec413947c877763abc73522b8f"
+    },
+    {
+      "content": "You'll learn something about men and women -- the way they're supposed\nto be.  Caring for each other, being happy with each other, being good\nto each other.  That's what we call love.  You'll like that a lot.\n\t\t-- Kirk, \"The Apple\", stardate 3715.6",
+      "sha1": "68d126707bf91581d898c31903847ecd936b1aa3"
+    },
+    {
+      "content": "You're dead, Jim.\n\t\t-- McCoy, \"Amok Time\", stardate 3372.7",
+      "sha1": "ad262103c5f336c3b1da7a1933537d6d6ae9b484"
+    },
+    {
+      "content": "You're dead, Jim.\n\t\t-- McCoy, \"The Tholian Web\", stardate unknown",
+      "sha1": "d6baed88838716a08ba52e8c9c9115f747b02324"
+    },
+    {
+      "content": "You're too beautiful to ignore.  Too much woman.\n\t\t-- Kirk to Yeoman Rand, \"The Enemy Within\", stardate unknown",
+      "sha1": "9744d05988a56aa8bee2e90edf871404c730ebb0"
+    },
+    {
+      "content": "Youth doesn't excuse everything.\n\t\t-- Dr. Janice Lester (in Kirk's body), \"Turnabout Intruder\",\n\t\t   stardate 5928.5.\n%",
+      "sha1": "bbeb61de8e3bdae31b1759c5d3fc18cea937f62e"
+    }
   ]
 }
