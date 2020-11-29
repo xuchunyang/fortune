@@ -1,6 +1,7 @@
 const express = require("express");
 const morgan = require("morgan");
 const debug = require("debug")("fortune");
+const path = require("path");
 const Fortune = require("./fortune");
 
 const fortune = new Fortune();
@@ -11,7 +12,30 @@ app.set("trust proxy", 1);
 
 app.use(morgan("dev"));
 
-app.use(express.static("public"));
+app.set("views", path.join(process.cwd(), "views"));
+app.set("view engine", "pug");
+
+app.get("/", (req, res) => {
+  const { command, sha1 } = req.query;
+  if (sha1) {
+    const result = fortune.getBySha1(sha1) || {
+      error: `No such sha1 ID: ${sha1}`,
+    };
+    res.render("index", { result });
+    return;
+  }
+  if (command) {
+    let result;
+    try {
+      result = fortune.random(command);
+    } catch (error) {
+      result = { error: error.message };
+    }
+    res.render("index", { command, result });
+    return;
+  }
+  res.render("index");
+});
 
 app.get("/api/fortune", (req, res) => {
   const { command } = req.query;

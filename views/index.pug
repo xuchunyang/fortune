@@ -1,0 +1,35 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    title fortune(6)
+    style.
+      form {
+        display: flex;
+        flex-direction: column;
+      }
+      form > div {
+        margin-bottom: 5px;
+      }
+  body
+    form
+      div
+        label(for="command")
+          | Enter 
+          code fortune(6)
+          |  command:
+      div
+              input#command(name="command" type="text" value=`${command || "fortune "}` required)
+      div
+        input(type="submit")
+      if result
+        div
+          output(name="output")
+            if result.error
+              p #{result.error}
+            else
+              pre #{result.content}
+              p
+                a(href=`/?sha1=${result.sha1}`) permalink
+            
