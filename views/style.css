@@ -46,3 +46,7 @@ footer {
   color: #666;
   font-size: 80%;
 }
+
+p.content {
+  white-space: pre;
+}
