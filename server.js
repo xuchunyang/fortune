@@ -37,13 +37,18 @@ app.get("/api", (req, res) => {
 });
 
 app.get("/api/fortune", (req, res) => {
-  const { command } = req.query;
+  const { sha1, command } = req.query;
   let result;
-  try {
-    result = fortune.random(command);
-  } catch (error) {
-    res.status(404).json({ error: error.message });
-    return;
+  if (sha1) {
+    result = fortune.getBySha1(sha1) || {
+      error: `No such sha1 ID: ${sha1}`,
+    };
+  } else {
+    try {
+      result = fortune.random(command);
+    } catch (error) {
+      result = { error: error.message };
+    }
   }
   const data = JSON.stringify(result, null, 2) + "\n";
   res.set("Content-Type", "application/json; charset=utf-8");
