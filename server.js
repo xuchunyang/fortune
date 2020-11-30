@@ -3,6 +3,7 @@ const morgan = require("morgan");
 const debug = require("debug")("fortune");
 const path = require("path");
 const Fortune = require("./fortune");
+const rateLimit = require("express-rate-limit");
 
 const fortune = new Fortune();
 const app = express();
@@ -14,6 +15,13 @@ app.use(morgan("dev"));
 
 app.set("views", path.join(process.cwd(), "views"));
 app.set("view engine", "pug");
+
+const limiter = rateLimit({
+  windowMs: 60 * 1000,
+  max: 60,
+});
+
+app.use(limiter);
 
 app.get("/", (req, res) => {
   let { command, sha1 } = req.query;
