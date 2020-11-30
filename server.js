@@ -32,6 +32,10 @@ app.get("/", (req, res) => {
   res.render("index", { command, result });
 });
 
+app.get("/api", (req, res) => {
+  res.render("api");
+});
+
 app.get("/api/fortune", (req, res) => {
   const { command } = req.query;
   let result;

@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    meta(charset="utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+    title API - fortune(6)
+    style
+      include style.css
+  body
+    h1 API
+    dl
+      dt <code>/api/fortune[?command=COMMAND]</code>
+      dd Return an adage, use a fortune(6) COMMAND to control the result.
+      dt <code>/api/fortune?sha1=sha1</code>
+      dd Return a specific adage.
