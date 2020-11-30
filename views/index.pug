@@ -4,23 +4,17 @@ html
     meta(charset="utf-8")
     meta(name="viewport" content="width=device-width, initial-scale=1")
     title fortune(6)
-    style.
-      form {
-        display: flex;
-        flex-direction: column;
-      }
-      form > div {
-        margin-bottom: 5px;
-      }
+    style
+      include style.css
   body
     form
       div
-        label(for="command")
-          | Enter 
-          code fortune(6)
-          |  command:
+        label(for="command").
+          Enter <code>
+          <a href="https://manpages.debian.org/buster/fortune-mod/fortune.6.en.html">
+          fortune(6)</a></code> command:
       div
-              input#command(name="command" type="text" value=`${command || "fortune "}` required)
+        input#command(name="command" type="text" value=`${command || "fortune "}` required)
       div
         input(type="submit")
       if result
@@ -32,4 +26,4 @@ html
               pre #{result.content}
               p
                 a(href=`/?sha1=${result.sha1}`) permalink
-            
+    footer <a href="/api.html">API</a> | View source on <a href="https://github.com/xuchunyang/fortune">GitHub</a>
