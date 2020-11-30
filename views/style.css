@@ -8,10 +8,13 @@ body {
   margin: 0 auto;
 }
 
+.container {
+  margin: 10px 5px;
+}
+
 form {
   display: flex;
   flex-direction: column;
-  margin: 10px 5px;
 }
 
 form > div {
