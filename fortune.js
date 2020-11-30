@@ -36,14 +36,14 @@ class Fortune {
   // command 指 fortune(6) 的命令行参数，现在只支持
   // 1. fortune，即没有参数
   // 2. fortune love tang300 song100
-  random(command) {
+  run(command) {
     command = command || "";
     let jsons = this.jsons;
     const files = command
       .trim()
       .split(/\s+/)
-      .slice(1)
-      .filter((arg) => !arg.startsWith("-"));
+      .slice(1)                 // skip "fortune"
+      .filter((arg) => /^[^-0-9]/.test(arg));
     const nonExistFiles = files.filter((file) => !this.files.includes(file));
     if (nonExistFiles.length > 0) {
       throw new Error(`No such files: ${nonExistFiles.join(", ")}`);

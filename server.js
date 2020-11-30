@@ -32,7 +32,7 @@ app.get("/", (req, res) => {
     };
   } else {
     try {
-      result = fortune.random(command);
+      result = fortune.run(command);
     } catch (error) {
       result = { error: error.message };
     }
@@ -53,7 +53,7 @@ app.get("/api/fortune", (req, res) => {
     };
   } else {
     try {
-      result = fortune.random(command);
+      result = fortune.run(command);
     } catch (error) {
       result = { error: error.message };
     }
