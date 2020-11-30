@@ -4,6 +4,7 @@ const debug = require("debug")("fortune");
 const path = require("path");
 const Fortune = require("./fortune");
 const rateLimit = require("express-rate-limit");
+const cors = require("cors");
 
 const fortune = new Fortune();
 const app = express();
@@ -18,7 +19,7 @@ app.set("view engine", "pug");
 
 const limiter = rateLimit({
   windowMs: 60 * 1000,
-  max: 60,
+  max: 100,
 });
 
 app.use(limiter);
@@ -43,6 +44,8 @@ app.get("/", (req, res) => {
 app.get("/api", (req, res) => {
   res.render("api");
 });
+
+app.use(cors());
 
 app.get("/api/fortune", (req, res) => {
   const { sha1, command } = req.query;

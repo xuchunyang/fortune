@@ -1,9 +1,9 @@
 doctype html
-html
+html(lang="zh")
   head
     meta(charset="utf-8")
     meta(name="viewport" content="width=device-width, initial-scale=1")
-    title fortune(6)
+    title fortune(6) - 打印一句随机格言
     style
       include style.css
   body
@@ -44,12 +44,8 @@ html
     h2 API
     dl
       dt <code>/api/fortune[?command=COMMAND]</code>
-      dd Return an adage, use a fortune(6) COMMAND to control the result.
+      dd 返回一句格言，JSON 格式。例子：<a href="/api/fortune">/api/fortune</a>，<a href="/api/fortune?command=fortune+tang300+song100">/api/fortune?command=fortune tang300 song100</a>
       dt <code>/api/fortune?sha1=sha1</code>
-      dd Return a specific adage.
-    h3 Examples
-    ul
-      li <a href="/api/fortune">/api/fortune</a>
-      li <a href="/api/fortune?command=fortune+tang300+song100">/api/fortune?command=fortune tang300 song100</a>
-      li <a href="/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9">/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9</a>
+      dd 获得特定格言，sha1 由 /api/fortune 给出。例子：<a href="/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9">/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9</a>
+    p API 支持跨域（CORS）。Rate Limit：同一个 IP 一分钟内最多 100 次。
     footer View source on <a href="https://github.com/xuchunyang/fortune">GitHub</a>
