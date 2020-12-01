@@ -9,6 +9,7 @@ test("parse should throw errors", () => {
   expect(() => fortune.parseCommand("fortune 10% love 90%")).toThrow();
   expect(() => fortune.parseCommand("fortune 10% love 99% art")).toThrow();
   expect(() => fortune.parseCommand("fortune 10% love song")).toThrow();
+  expect(() => fortune.parseCommand("fortune -m")).toThrow();
 });
 
 test("-e 平均分布", () => {
@@ -64,4 +65,8 @@ test("count", () => {
   expect(Array.isArray(fortune.run("fortune"))).toBe(false);
   expect(fortune.run("fortune", 2).length).toBe(2);
   expect(fortune.run("fortune", 100).length).toBe(100);
+});
+
+test("match", () => {
+  expect(fortune.run("fortune -m 论语 chinese", 10).length).toBe(10);
 });

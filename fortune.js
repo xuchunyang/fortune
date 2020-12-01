@@ -51,16 +51,24 @@ class Fortune {
     const args = command.trim().split(/\s+/).slice(1);
     let fFlag = false;
     let eFlag = false;
+    let mOpt = null;
     let files = [];
     for (let i = 0; i < args.length; i++) {
       if (args[i].startsWith("-")) {
-        if (/[^-ef]/.test(args[i])) {
+        if (/[^-efm]/.test(args[i])) {
           throw new Error(`Support only -e and -f, unknown args: ${args[i]}`);
         }
         if (args[i].includes("f")) {
           fFlag = true;
         } else if (args[i].includes("e")) {
           eFlag = true;
+        }
+        if (args[i].includes("m")) {
+          if (i + 1 === args.length) {
+            throw new Error("-m need one argument");
+          }
+          mOpt = new RegExp(args[i + 1]);
+          i++;
         }
       } else if (/^[0-9]/.test(args[i])) {
         const percentage = Number(args[i].match(/\d+\.?\d*/)[0]);
@@ -127,16 +135,31 @@ class Fortune {
       total += f.count;
     });
 
-    return { fFlag, files, total };
+    return { fFlag, mOpt, files, total };
   }
 
   // command 指 fortune(6) 的命令行参数，现在只支持
   // 1. fortune，即没有参数
   // 2. fortune love tang300 song100
   run(command = "fortune", count = 1) {
-    let { fFlag, files, total } = this.parseCommand(command);
+    let { fFlag, mOpt, files, total } = this.parseCommand(command);
     if (fFlag) {
       return files;
+    }
+    if (mOpt) {
+      const results = [];
+      for (const f of files) {
+        const json = this.jsons.find(({ file }) => file === f.file);
+        for (const item of json.data) {
+          if (mOpt.test(item.content)) {
+            results.push(item);
+            if (results.length >= count) {
+              return count === 1 ? results[0] : results;
+            }
+          }
+        }
+      }
+      return count === 1 ? results[0] : results;
     }
 
     files.forEach((f) => {
