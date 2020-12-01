@@ -48,7 +48,7 @@ app.get("/api", (req, res) => {
 app.use(cors());
 
 app.get("/api/fortune", (req, res) => {
-  const { sha1, command } = req.query;
+  let { sha1, command, count } = req.query;
   let result;
   if (sha1) {
     result = fortune.getBySha1(sha1) || {
@@ -56,7 +56,9 @@ app.get("/api/fortune", (req, res) => {
     };
   } else {
     try {
-      result = fortune.run(command);
+      count = parseInt(count) || 1;
+      if (count > 50) count = 50;
+      result = fortune.run(command, count);
     } catch (error) {
       result = { error: error.message };
     }

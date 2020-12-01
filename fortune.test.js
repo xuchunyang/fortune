@@ -47,7 +47,6 @@ test("-f", () => {
 test("run", () => {
   console.log(fortune.run("fortune"));
 
-
   let love = 0;
   let song = 0;
   for (let i = 0; i < 10000; i++) {
@@ -59,4 +58,10 @@ test("run", () => {
     }
   }
   console.log(love, song);
+});
+
+test("count", () => {
+  expect(Array.isArray(fortune.run("fortune"))).toBe(false);
+  expect(fortune.run("fortune", 2).length).toBe(2);
+  expect(fortune.run("fortune", 100).length).toBe(100);
 });

@@ -28,8 +28,10 @@ html(lang="zh")
                 p.content #{result.content || JSON.stringify(result, null, 2)}
                 p
                   a(href=`/?sha1=${result.sha1}`) permalink
+
       hr
-      h2 Usage <code>fortune [-ef] [[n%] file]</code>
+
+      h2#usage Usage <code>fortune [-ef] [[n%] file]</code>
       h3 <code>-f</code> 打印搜索的文件和概率
       p 例如，<a href="/?command=fortune -f tang300 song100"><code>fortune -f tang300 song100</code></a>
         dl
@@ -41,13 +43,21 @@ html(lang="zh")
       p 默认情况下 <code>fortune tang300 song100</code> 返回唐诗词的概率是 67%，宋诗词为 33%，这是由它们自身的数目决定的，而加上 <code>-e</code> 后， <code>fortune tang300 song100</code> ，两者概率相同，均为 50%。
       h4 <code>[n%] file</code>
       p 使用百分比手动调整概率，比如 <code>fortune 50% tang300 50% song100</code>，如果不写百分比，概率会根据它包含的条目数量自动推算出。
+
       hr
-      h2 API
+
+      h2#api API
       dl
-        dt <code>/api/fortune[?command=COMMAND]</code>
-        dd 返回一句格言，JSON 格式。例子：<a href="/api/fortune">/api/fortune</a>，<a href="/api/fortune?command=fortune+tang300+song100">/api/fortune?command=fortune tang300 song100</a>
+        dt <code>/api/fortune[?command=COMMAND&count=N]</code>
+        dd 返回 N 条格言，JSON 格式，最多 50 条，默认返回一条。例子：
+          ul
+            li <a href="/api/fortune">/api/fortune</a> 返回一条格言
+            li <a href="/api/fortune?command=fortune+tang300+song100">/api/fortune?command=fortune tang300 song100</a> 返回一条唐宋诗词
+            li <a href="/api/fortune?count=10">/api/fortune?count=10</a> 返回 10 条格言。
         dt <code>/api/fortune?sha1=sha1</code>
-        dd 获得特定格言，sha1 由 /api/fortune 给出。例子：<a href="/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9">/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9</a>
-      p API 支持跨域（CORS）。Rate Limit：同一个 IP 一分钟内最多 100 次。
+        dd 获得特定格言，sha1 由 /api/fortune 给出。例子：
+          ul
+            li <a href="/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9">/api/fortune?sha1=33b82fba05d78c33ded4eb6f93ed288d5b629da9</a>
+      p API 支持跨域（CORS）。同一个 IP 一分钟内发送最多 100 次请求。
       footer
         p 数据来源于 <a href="https://www.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html">fortune</a> (BSD), <a href="https://packages.debian.org/sid/games/fortunes-zh">fortunes-zh</a> (GPL-3.0+) | 本网站代码（GPL-3.0+）托管于 <a href="https://github.com/xuchunyang/fortune">GitHub</a> | <a href="http://beian.miit.gov.cn/">苏ICP备2020065056号</a>

@@ -133,7 +133,7 @@ class Fortune {
   // command 指 fortune(6) 的命令行参数，现在只支持
   // 1. fortune，即没有参数
   // 2. fortune love tang300 song100
-  run(command = "fortune") {
+  run(command = "fortune", count = 1) {
     let { fFlag, files, total } = this.parseCommand(command);
     if (fFlag) {
       return files;
@@ -149,16 +149,21 @@ class Fortune {
       100
     );
 
-    let idx = getRandomInt(0, 100);
-    for (const f of files) {
-      if (idx <= f.percentage) {
-        const json = this.jsons.find(({ file }) => file === f.file);
-        const file = f.file;
-        const { content, sha1 } = arrayRandomItem(json.data);
-        return { file, content, sha1 };
+    const results = [];
+    for (let i = 0; i < count; i++) {
+      let idx = getRandomInt(0, 100);
+      for (const f of files) {
+        if (idx <= f.percentage) {
+          const json = this.jsons.find(({ file }) => file === f.file);
+          const file = f.file;
+          const { content, sha1 } = arrayRandomItem(json.data);
+          results.push({ file, content, sha1 });
+          break;
+        }
+        idx -= f.percentage;
       }
-      idx -= f.percentage;
     }
+    return count === 1 ? results[0] : results;
   }
 }
 
